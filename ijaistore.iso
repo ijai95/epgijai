@@ -1598,7 +1598,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ³⁾
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_1/playlist.m3u8
 
 
 
@@ -1612,7 +1612,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 ⁽ˢᵉʳᵛᵉʳ ³⁾
-http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
 
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 ⁽ˢᵉʳᵛᵉʳ ¹⁾  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1623,7 +1623,8 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
 https://live.astradamy.com/tv3/index.m3u8
 
-
+#EXTINF:-1 group-title="Malaysia" ch-number="103" tvg-id="103" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 ⁽ˢᵉʳᵛᵉʳ ³⁾
+http://195.29.70.67/PLTV/88888888/224/3221226407/02.m3u8
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="Drama Sangat" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737",Drama Sangat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
