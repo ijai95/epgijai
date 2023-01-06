@@ -1626,29 +1626,6 @@ https://live.astradamy.com/tv3/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
-
-
-
-#EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MYTV",TV1 FHD [1080p] (CH101)
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-#EXTINF:-1 tvg-id="102" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MYTV",TV2 FHD [1080p] (CH102)
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MYTV",TV3 HD [720P] (CH103)
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTINF:-1 tvg-id="114" tvg-name="Al-Hijrah" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="MYTV",Al-Hijrah [480p] (CH114)
-https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_7284c6607dcb11ec8005ad1f1e0e9f60/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="TV Okey" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="MYTV",TV Okey [1080p] (CH146)
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:-1 tvg-id="1295" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814" group-title="TV",TV6 [1080p]
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="CHN" tvg-name="Drama Sangat" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737",Drama Sangat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
