@@ -1,3 +1,4 @@
+###########series##############
 #EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXB_IVP_LAND_432x243_20211130_215122.jpg",S1 Episode 1
 https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E01.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
 
@@ -37,6 +38,8 @@ https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/EP12.mkv&raw=true&ty
 #EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZWHN_IVP_LAND_448x252_2022228_171323.jpg",S1 Episode 13
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Mechamato/%5Bon9.stream%5DMechamato.2021.S01E13.1080p.WEB-DL.x264.AAC-Pipe.mkv
 
+#######################################################END################################################################
+
 #EXTINF-1 type="series" group-title="Ejen Ali" tvg-logo="https://www.justwatch.com/images/poster/237961004/s332/season-1",S3 Episode 1
 https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Ejen.Ali/S3/Ejen.Ali.S03E01.1080p.DHM.WEB-DL.H264.AAC-AstradaMY.mp4
 
@@ -63,6 +66,25 @@ https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Ejen.Ali/S3/Ejen.Ali.S03E
 
 #EXTINF-1 type="series" group-title="Ejen Ali" tvg-logo="https://gamersantai.com/wp-content/uploads/2022/05/New-Project-2022-05-31T124713.020.jpg",S3 Episode 9
 https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Ejen.Ali/S3/Ejen.Ali.S03E09.1080p.DHM.WEB-DL.H264.AAC-AstradaMY.mp4
+
+#######################################################END################################################################
+
+#EXTINF-1 type="series" group-title="MLM 2021" tvg-logo="https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2021/10/0d7d62c39ba63df9801c91a92d30c0f7.jpg",Minggu 1
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.1.1080p.H264-PENCURiMOViE.CYOU.mkv
+
+#EXTINF-1 type="series" group-title="MLM 2021" tvg-logo="https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2021/10/0d7d62c39ba63df9801c91a92d30c0f7.jpg",Minggu 2
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.2.720p.H264.AAC-PENCURiMOViE.CYOU.mkv
+
+#EXTINF-1 type="series" group-title="MLM 2021" tvg-logo="https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2021/10/0d7d62c39ba63df9801c91a92d30c0f7.jpg",Minggu 5
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.5.1080p.WEB-DL.mp4
+
+#EXTINF-1 type="series" group-title="MLM 2021" tvg-logo="https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2021/10/0d7d62c39ba63df9801c91a92d30c0f7.jpg",Minggu 6
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.9.1080p-WEB-DL.mkv
+
+#EXTINF-1 type="series" group-title="MLM 2021" tvg-logo="https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2021/10/0d7d62c39ba63df9801c91a92d30c0f7.jpg",Minggu Akhir
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.Akhir.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv
+
+#######################################################END################################################################
 
 #EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9JFIgMm.jpg" group-title="VOD KIDS",How to Train Your Dragon: The Hidden World (2019)
 https://lh3.googleusercontent.com/Nc_n2B03yXvXzXXQ2dc_BQlT0-enZtAB4cfzfiUIpdOFDVaUIbhsTxuP5aXovI_DPmI1rOtQhgzUagH0Lg=m22
