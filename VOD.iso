@@ -86,6 +86,32 @@ https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Maharaja.Lawak.Mega/2021/
 
 #######################################################END################################################################
 
+#EXTINF-1 type="series" group-title="Korea No 1" tvg-logo="https://www.thereviewgeek.com/wp-content/uploads/2022/12/Korea-No-1-200x300.webp",Episode 1
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Korea.No.1.2022/Korea.No.1.S01E01.Giwa.Jangheung.1080p.NF.WEB-DL.DDP5.1.H.264.mkv
+
+#EXTINF-1 type="series" group-title="Korea No 1" tvg-logo="https://www.thereviewgeek.com/wp-content/uploads/2022/12/Korea-No-1-200x300.webp",Episode 2
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Korea.No.1.2022/Korea.No.1.S01E02.Jang.Damyang.1080p.NF.WEB-DL.DDP5.1.H.264.mkv
+
+#EXTINF-1 type="series" group-title="Korea No 1" tvg-logo="https://www.thereviewgeek.com/wp-content/uploads/2022/12/Korea-No-1-200x300.webp",Episode 3
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Korea.No.1.2022/Korea.No.1.S01E03.Getbol.Shinan.1080p.NF.WEB-DL.DDP5.1.H.264.mkv
+
+#EXTINF-1 type="series" group-title="Korea No 1" tvg-logo="https://www.thereviewgeek.com/wp-content/uploads/2022/12/Korea-No-1-200x300.webp",Episode 4
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Korea.No.1.2022/Korea.No.1.S01E04.Mosi.Seocheon.1080p.NF.WEB-DL.DDP5.1.H.264.mkv
+
+#EXTINF-1 type="series" group-title="Korea No 1" tvg-logo="https://www.thereviewgeek.com/wp-content/uploads/2022/12/Korea-No-1-200x300.webp",Episode 5
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Korea.No.1.2022/Korea.No.1.S01E05.Jukbangryeom.Anchovy.Namhae.1080p.NF.WEB-DL.DDP5.1.H.264.mkv
+
+#EXTINF-1 type="series" group-title="Korea No 1" tvg-logo="https://www.thereviewgeek.com/wp-content/uploads/2022/12/Korea-No-1-200x300.webp",Episode 6
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Korea.No.1.2022/Korea.No.1.S01E06.Jjock.Naju.1080p.NF.WEB-DL.DDP5.1.H.264.mkv
+
+#EXTINF-1 type="series" group-title="Korea No 1" tvg-logo="https://www.thereviewgeek.com/wp-content/uploads/2022/12/Korea-No-1-200x300.webp",Episode 7
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Korea.No.1.2022/Korea.No.1.S01E07.Makgeolli.Busan.1080p.NF.WEB-DL.DDP5.1.H.264.mkv
+
+#EXTINF-1 type="series" group-title="Korea No 1" tvg-logo="https://www.thereviewgeek.com/wp-content/uploads/2022/12/Korea-No-1-200x300.webp",Episode 8
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Korea.No.1.2022/Korea.No.1.S01E08.Najeonchilgi.Wonju.1080p.NF.WEB-DL.DDP5.1.H.264.mkv
+
+#######################################################END################################################################
+
 #EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9JFIgMm.jpg" group-title="VOD KIDS",How to Train Your Dragon: The Hidden World (2019)
 https://lh3.googleusercontent.com/Nc_n2B03yXvXzXXQ2dc_BQlT0-enZtAB4cfzfiUIpdOFDVaUIbhsTxuP5aXovI_DPmI1rOtQhgzUagH0Lg=m22
 
