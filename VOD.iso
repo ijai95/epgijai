@@ -40,6 +40,15 @@ https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Mechamato/%5Bon9.stream%5
 #EXTINF-1 type="series" group-title="Ejen Ali" tvg-logo="https://www.justwatch.com/images/poster/237961004/s332/season-1",S3 Episode 1
 https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Ejen.Ali/S3/Ejen.Ali.S03E01.1080p.DHM.WEB-DL.H264.AAC-AstradaMY.mp4
 
+#EXTINF-1 type="series" group-title="Ejen Ali" tvg-logo="https://i.ytimg.com/vi/b6005rB25TA/maxresdefault.jpg",S3 Episode 2
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Ejen.Ali/S3/Ejen.Ali.S03E02.1080p.DHM.WEB-DL.H264.AAC-AstradaMY.mp4
+
+#EXTINF-1 type="series" group-title="Ejen Ali" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LtFJ4XHQz9exi1qRgUAyAW3W2-5R3TYpSQ&usqp=CAU",S3 Episode 3
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Ejen.Ali/S3/Ejen.Ali.S03E03.1080p.DHM.WEB-DL.H264.AAC-AstradaMY.mp4
+
+#EXTINF-1 type="series" group-title="Ejen Ali" tvg-logo="https://pic-bstarstatic.akamaized.net/ugc/64c9c29cc63a77b576105c85a13ef741.jpeg@720w_405h_1e_1c_1f.webp",S3 Episode 4
+https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Ejen.Ali/S3/Ejen.Ali.S03E04.1080p.DHM.WEB-DL.H264.AAC-AstradaMY.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9JFIgMm.jpg" group-title="VOD KIDS",How to Train Your Dragon: The Hidden World (2019)
 https://lh3.googleusercontent.com/Nc_n2B03yXvXzXXQ2dc_BQlT0-enZtAB4cfzfiUIpdOFDVaUIbhsTxuP5aXovI_DPmI1rOtQhgzUagH0Lg=m22
 
