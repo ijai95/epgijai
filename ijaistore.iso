@@ -1612,6 +1612,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 ⁽ˢᵉʳᵛᵉʳ ³⁾
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
 
+
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" 
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" refresh="3600" 
+#EXTM3U url-tvg="https://aqfadtv.xyz/epg" 
+#EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
+
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 ⁽ˢᵉʳᵛᵉʳ ¹⁾  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
