@@ -1624,8 +1624,11 @@ https://live.astradamy.com/tv3/index.m3u8
 #EXTINF:-1 group-title="Malaysia" ch-number="103" tvg-id="103" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 ⁽ˢᵉʳᵛᵉʳ ³⁾
 https://stream-05.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXXeSfS6BhcVYVjg9weteXZM-oLQlOep1SQhfaJH4IWb1INnjg8MFOLY7CALdUHE3eA)/dm/3/x6qp375/d/live-4.m3u8
 
-#EXTINF:-1 tvg-name="TV3" tvg-ID="tv3.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY-AR",TV3
-https://stream-04.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXWM8xHUygGW14ZppaMPJAgjptmLTWbpyqJcdtTisaMYi06NbXKtA0d50PRY07ba5Qw)/dm/3/x6qp375/d/live-2.m3u8
+#EXTINF:-1 tvg-name="TV1" tvg-ID="TV1.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MY-AR",TV1
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01-1080.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-name="TV2" tvg-ID="tv2.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MY-AR",TV2
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="Drama Sangat" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737",Drama Sangat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
