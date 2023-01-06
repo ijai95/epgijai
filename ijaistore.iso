@@ -1612,14 +1612,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 ⁽ˢᵉʳᵛᵉʳ ³⁾
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
 
-
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml"
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" refresh="3600" 
-#EXTM3U url-tvg="https://aqfadtv.xyz/epg" 
-#EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
-
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 ⁽ˢᵉʳᵛᵉʳ ¹⁾  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
@@ -1632,16 +1624,8 @@ https://live.astradamy.com/tv3/index.m3u8
 #EXTINF:-1 group-title="Malaysia" ch-number="103" tvg-id="103" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 ⁽ˢᵉʳᵛᵉʳ ³⁾
 https://stream-05.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXXeSfS6BhcVYVjg9weteXZM-oLQlOep1SQhfaJH4IWb1INnjg8MFOLY7CALdUHE3eA)/dm/3/x6qp375/d/live-4.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 3
-https://stream-01.sg1.dailymotion.com/sec(TM5fMjJQSz_Fy5d2ladFMqK6ITCW_No2p-3YheEzBf0tHj5WEED3wUtK1yezmACnTezQQX3oBQYXheQiNYRuA)/dm/3/x7a7rpm/s/live-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 2
-https://stream-01.sg1.dailymotion.com/sec(TM5fMjJQSz_Fy5d2ladFMqK6ITCW_No2p-3YheEzBf0tHj5WEED3wUtK1yezmACnTezQQX3oBQYXheQiNYRuA)/dm/3/x7a7rpm/s/live-4.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 1
-https://stream-05.sg1.dailymotion.com/sec(TM5fMjJQSz_Fy5d2ladFMqK6ITCW_No2p-3YheEzBf0tHj5WEED3wUtK1yezmACnTezQQX3oBQYXheQiNYRuA)/dm/3/x7a7rpm/s/live-4.m3u8
-
-
+#EXTINF:-1 tvg-name="TV3" tvg-ID="tv3.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY-AR",TV3
+https://stream-04.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXWM8xHUygGW14ZppaMPJAgjptmLTWbpyqJcdtTisaMYi06NbXKtA0d50PRY07ba5Qw)/dm/3/x6qp375/d/live-2.m3u8
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="Drama Sangat" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737",Drama Sangat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
