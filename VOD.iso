@@ -1,29 +1,29 @@
 ###########series##############
-#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXB_IVP_LAND_432x243_20211130_215122.jpg" group-title="Mechamato",tvg-id="" tvg-name="",Episode 1
+#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXB_IVP_LAND_432x243_20211130_215122.jpg" group-title="Mechamato",Episode 1
 https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E01.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
-#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXO_IVP_LAND_432x243_20211130_215116.jpg" group-title="Mechamato",tvg-id="" tvg-name="",Episode 2
+#EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXO_IVP_LAND_432x243_20211130_215116.jpg" group-title="Mechamato",Episode 2
 https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E02.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXP_IVP_LAND_432x243_20211130_215117.jpg",tvg-id="" tvg-name="",Episode 3
+#EXTINF-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXP_IVP_LAND_432x243_20211130_215117.jpg",group-title="Mechamato"Episode 3
 https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E03.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXQ_IVP_LAND_432x243_20211130_215124.jpg",tvg-id="" tvg-name="",Episode 4
+#EXTINF-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXQ_IVP_LAND_432x243_20211130_215124.jpg",group-title="Mechamato"Episode 4
 https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E04.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXR_IVP_LAND_432x243_20211130_215121.jpg",Episode 5
+#EXTINF-1 type="series"  tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXR_IVP_LAND_432x243_20211130_215121.jpg",group-title="Mechamato"Episode 5
 https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E05.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXS_IVP_LAND_432x243_20211130_215138.jpg",Episode 6
+#EXTINF-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXS_IVP_LAND_432x243_20211130_215138.jpg",group-title="Mechamato"Episode 6
 https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E06.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXT_IVP_LAND_448x252_2022228_161251.jpg",Episode 7
+#EXTINF-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXT_IVP_LAND_448x252_2022228_161251.jpg",group-title="Mechamato"Episode 7
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato.S01E07.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXU_IVP_LAND_448x252_2022228_161259.jpg",Episode 8
+#EXTINF-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXU_IVP_LAND_448x252_2022228_161259.jpg",group-title="Mechamato"Episode 8
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato.S01E08.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
 #EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXV_IVP_LAND_448x252_2022228_16132.jpg",Episode 9
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato%20EP9%20REPACK%20%40MyDramaa.mkv&raw=true&type=file.mp4
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXW_IVP_LAND_448x252_2022228_161255.jpg",Episode 10
+#EXTINF-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXW_IVP_LAND_448x252_2022228_161255.jpg",group-title="Mechamato"Episode 10
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato%20EP10%20%40MyDramaa.mkv&raw=true&type=file.mp4
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZNCF_IVP_LAND_448x252_2022228_153710.jpg",Episode 11
+#EXTINF-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZNCF_IVP_LAND_448x252_2022228_153710.jpg",group-title="Mechamato"Episode 11
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/EP11.mkv&raw=true&type=file.mp4
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZNCG_IVP_LAND_448x252_202234_103030.jpg",Episode 12
+#EXTINF-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZNCG_IVP_LAND_448x252_202234_103030.jpg",group-title="Mechamato"Episode 12
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/EP12.mkv&raw=true&type=file.mp4
-#EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZWHN_IVP_LAND_448x252_2022228_171323.jpg",Episode 13
+#EXTINF-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZWHN_IVP_LAND_448x252_2022228_171323.jpg",group-title="Mechamato"Episode 13
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Mechamato/%5Bon9.stream%5DMechamato.2021.S01E13.1080p.WEB-DL.x264.AAC-Pipe.mkv
 #######################################################END################################################################
 #EXTINF-1 type="series" group-title="Ejen Ali" tvg-logo="https://www.justwatch.com/images/poster/237961004/s332/season-1",S3 Episode 1
