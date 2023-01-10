@@ -1,4 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+#EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg" url-tvg="https://bit.ly/aqfadtvepg" refresh="1440" max-conn="1" refresh="24"
