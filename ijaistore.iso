@@ -1597,6 +1597,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ²⁾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Malaysia VS THAILAND" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",MY vs THI
+https://rr7---sn-qpbp-30az.googlevideo.com/videoplayback?expire=1673376264&ei=qF29Y9r9K82AvcAPp4aX-Ak&ip=115.164.90.155&id=ErgJCieb0Zo.1&itag=248&aitags=242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&hcs=sd%2C&mh=uS&mm=44%2C29&mn=sn-qpbp-30az%2Csn-30a7rne6&ms=lva%2Crdu&mv=m&mvi=7&pcm2cms=yes&pl=19&rmhost=rr6---sn-qpbp-30az.googlevideo.com%2C&smhost=rr2---sn-qpbp-30ad.googlevideo.com%2C&initcwndbps=200000&spc=zIddbPfCYZKI8RjraJkkxBKo6oGsz3lsj7PU4AL7llf_&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=cuDP1IJ5CYJ-tS01F8kev3QK&gir=yes&mt=1673354231&fvip=4&keepalive=yes&fexp=24007246&c=WEB&n=ljtymn7jH7sV6w&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgGY9c7eo1YxvJQe7ErakS9fdCrUF8ByUNqjmtUmPv2BQCIEveH2A_aliPBAP0v18JbYoS-Vy4ZDpwNn-3OnicW3SQ&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crmhost%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRQIgDjyapYYBAD_gdYBsfSrYPaKw4MGh8YADcraadrrKAKYCIQD2-BhgpXNfcLHMVGDxp-Mi4b_4zpkWoa3hLx2KCL691g%3D%3D&alr=yes&cpn=Nm8J00lyA6u0P9p9&cver=2.20230104.01.00&headm=2&rn=1&pot=D7G_gVDqoMnGsYdAENItYNmeWPP1whzWpWMb9sIpbrBQGE4NpeimjbM8gBeY56RYSIh-t8KmqgnD8PB5c-RQv2QSxN2oiOpCHYehaFz62gWrjBLt1uLadZ6aNvs=
+
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ³⁾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 
