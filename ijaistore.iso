@@ -1597,9 +1597,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ²⁾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Malaysia VS THAILAND" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",MY vs THI
-https://playing-cf.score808tv.cc/fcf73c80df06c3d3231fa5d9124eed11faae5ae84edde2d493368548d948cbdff8ebc34911d08e038edbb5bc6a4d5bb45490e183c1c649b61e60876dbf51ab2c5097945f11951ab35f8c5474988c4d7672f4efb6d40c44cf33ecd60d37d27706d45cc9b340969a21e6868bc3c9f44f3f71fd17f49dd679d45f48714b42e35212dab58a457a97ef0edbc7097f7916533afe41608b69a6a6786eba4c3539c20d9d415cef7441c10ed3943394dd2da501cea88483916c731092146c48c970df9377/app/c150213.m3u8
-
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ³⁾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 
