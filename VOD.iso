@@ -26,11 +26,405 @@ https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/EP12.mkv&raw=true&ty
 #EXTINF-1 type="series" group-title="Mechamato " tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZWHN_IVP_LAND_448x252_2022228_171323.jpg",Episode 13
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Mechamato/%5Bon9.stream%5DMechamato.2021.S01E13.1080p.WEB-DL.x264.AAC-Pipe.mkv
 
-#######################################################END################################################################
-#EXTINF-1 type="series" group-title="Doraemon Malay" tvg-logo="https://www.justwatch.com/images/poster/237961004/s332/season-1", Doraemon 1
-https://proxy-019.dc3.dailymotion.com/sec(zvUbbWr2oKyjb9WcqKTKNTkXO8djG5LVraWhIEc6nj1YkKNrT0zGYbPRbJDvvZ0vtTm8F9l0a7yAJs1jQ4-HDll0BthJYql8gIiqaufKXHs)/video/270/892/191298072_mp4_h264_aac_hq_1.m3u8
+#######################################################POPEYE################################################################
 
-#######################################################END################################################################
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Meets the Man Who Hated Laughter (1972)
+https://archive.org/download/Popeye_Meets_the_Man_Who_Hated_Laughter_1972/Popeye_Meets_the_Man_Who_Hated_Laughter_1972.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Aladdin's Lamp (1961)
+https://archive.org/download/AfterTheBallWentOver1960/Aladdin%27s%20Lamp%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - County Fair (1961)
+https://archive.org/download/AfterTheBallWentOver1960/County%20Fair%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Duel To The Finish (1961)
+https://archive.org/download/BarbecueForTwo1960/Duel%20To%20The%20Finish%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Gem Jam (1961)
+https://archive.org/download/BarbecueForTwo1960/Gem%20Jam%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Giddy Gold (1961)
+https://archive.org/download/AfterTheBallWentOver1960/Giddy%20Gold%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Kiddie Kapers (1961)
+https://archive.org/download/BarbecueForTwo1960/Kiddie%20Kapers%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Love Birds (1961)
+https://archive.org/download/AfterTheBallWentOver1960/Love%20Birds%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Motor Knocks (1961)
+https://archive.org/download/BarbecueForTwo1960/Motor%20Knocks%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - My Fair Olive (1961)
+https://archive.org/download/AfterTheBallWentOver1960/My%20Fair%20Olive%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Oil's Well That Ends Well (1961)
+https://archive.org/download/AfterTheBallWentOver1960/Oil%27s%20Well%20That%20Ends%20Well%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Operation Ice-Tickle (1961)
+https://archive.org/download/BarbecueForTwo1960/Operation%20Ice-Tickle%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye Thumb (1961)
+https://archive.org/download/BarbecueForTwo1960/Popeye%20Thumb%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye's Double Trouble (1961)
+https://archive.org/download/BarbecueForTwo1960/Popeye%27s%20Double%20Trouble%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Scairdy Cat (1961)
+https://archive.org/download/BarbecueForTwo1960/Scairdy%20Cat%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Sea Serpent (1961)
+https://archive.org/download/AfterTheBallWentOver1960/Sea%20Serpent%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Seer-ring Is Believer-ring (1961)
+https://archive.org/download/BarbecueForTwo1960/Seer-ring%20Is%20Believer-ring%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - The Mark of Zero (1961)
+https://archive.org/download/BarbecueForTwo1960/The%20Mark%20of%20Zero%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - The Medicine Man (1961)
+https://archive.org/download/BarbecueForTwo1960/The%20Medicine%20Man%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - The Wiffle Bird's Revenge (1961)
+https://archive.org/download/BarbecueForTwo1960/The%20Wiffle%20Bird%27s%20Revenge%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Weight for Me (1961)
+https://archive.org/download/BarbecueForTwo1960/Weight%20for%20Me%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - After the Ball Went Over (1960)
+https://archive.org/download/AfterTheBallWentOver1960/After%20the%20Ball%20Went%20Over%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Barbecue for Two (1960)
+https://archive.org/download/BarbecueForTwo1960/Barbecue%20for%20Two%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Bullfighter Bully (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Bullfighter%20Bully%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Butler Up (1961)
+https://archive.org/download/AfterTheBallWentOver1960/Butler%20Up%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Childhood Daze (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Childhood%20Daze%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Coffee House (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Coffee%20House%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - College of Hard Knocks (1960)
+https://archive.org/download/BarbecueForTwo1960/College%20of%20Hard%20Knocks%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Crystal Ball Brawl (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Crystal%20Ball%20Brawl%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Egypt Us (1960)
+https://archive.org/download/BarbecueForTwo1960/Egypt%20Us%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Fashion Fotography (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Fashion%20Fotography%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Fleas a Crowd (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Fleas%20a%20Crowd%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Frozen Feuds (1960)
+https://archive.org/download/BarbecueForTwo1960/Frozen%20Feuds%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Golden-Type Fleece (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Golden-Type%20Fleece%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Hamburger Fishing (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Hamburger%20Fishing%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Hits and Missiles (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Hits%20and%20Missiles%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Incident at Missile City (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Incident%20at%20Missile%20City%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Insultin' the Sultan (1960)
+https://archive.org/download/BarbecueForTwo1960/Insultin%27%20the%20Sultan%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Invisible Popeye (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Invisible%20Popeye%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Jeep Is Jeep (1960)
+https://archive.org/download/BarbecueForTwo1960/Jeep%20Is%20Jeep%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Jeep Tale (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Jeep%20Tale%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Jingle Jangle Jungle (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Jingle%20Jangle%20Jungle%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Lighthouse Keeping (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Lighthouse%20Keeping%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Little Olive Riding Hood (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Little%20Olive%20Riding%20Hood%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Matinee Idol Popeye (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Matinee%20Idol%20Popeye%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Me Quest for Poopdeck Pappy (1960)
+https://archive.org/download/BarbecueForTwo1960/Me%20Quest%20for%20Poopdeck%20Pappy%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Mississippi Sissy (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Mississippi%20Sissy%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Mueller's Mad Monster (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Mueller%27s%20Mad%20Monster%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Muskels Schmuskels (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Muskels%20Schmuskels%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Old Salt Tale (1960)
+https://archive.org/download/BarbecueForTwo1960/Old%20Salt%20Tale%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Olive Drab and the Seven Sweapeas (1960)
+https://archive.org/download/BarbecueForTwo1960/Olive%20Drab%20and%20the%20Seven%20Sweapeas%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Out of This World (1960)
+https://archive.org/download/BarbecueForTwo1960/Out%20of%20This%20World%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Plumbers Pipe Dream (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Plumbers%20Pipe%20Dream%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye and Buddy Brutus (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Popeye%20and%20Buddy%20Brutus%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye and the Dragon (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Popeye%20and%20the%20Dragon%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye and the Giant (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Popeye%20and%20the%20Giant%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye and the Spinach Stalk (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Popeye%20and%20the%20Spinach%20Stalk%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye Revere (1960)
+https://archive.org/download/BarbecueForTwo1960/Popeye%20Revere%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye the Lifeguard (1960)
+https://archive.org/download/BarbecueForTwo1960/Popeye%20the%20Lifeguard%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye the Ugly Ducklin (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Popeye%20the%20Ugly%20Ducklin%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye's Car Wash (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Popeye%27s%20Car%20Wash%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye's Cool Pool (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Popeye%27s%20Cool%20Pool%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye's Hypnotic Glance (1960)
+https://archive.org/download/BarbecueForTwo1960/Popeye%27s%20Hypnotic%20Glance%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye's Junior Headache (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Popeye%27s%20Junior%20Headache%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye's Pep-Up Emporium (1960)
+https://archive.org/download/BarbecueForTwo1960/Popeye%27s%20Pep-Up%20Emporium%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye's Tea Party (1960)
+https://archive.org/download/BarbecueForTwo1960/Popeye%27s%20Tea%20Party%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye's Testimonial Dinner (1960)
+https://archive.org/download/BarbecueForTwo1960/Popeye's%20Testimonial%20Dinner%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye's Trojan Horse (1960)
+Popeye%27s%20Trojan%20Horse%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye's Used Car (1960)
+https://archive.org/download/BarbecueForTwo1960/Popeye%27s%20Used%20Car%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Rags to Riches to Rags (1960)
+https://archive.org/download/BarbecueForTwo1960/Rags%20to%20Riches%20to%20Rags%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Sea No Evil (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Sea%20No%20Evil%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Ski-Jump Chump (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Ski-Jump%20Chump%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Spare Dat Tree (1960)
+https://archive.org/download/BarbecueForTwo1960/Spare%20Dat%20Tree%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Strange Things Are Happening (1961)
+https://archive.org/download/BarbecueForTwo1960/Strange%20Things%20Are%20Happening%20(1961).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Swee'pea Soup (1960)
+https://archive.org/download/BarbecueForTwo1960/Swee%27pea%20Soup%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - The Big Sneeze (1960)
+https://archive.org/download/BarbecueForTwo1960/The%20Big%20Sneeze%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - The Glad Gladiator (1960)
+https://archive.org/download/BarbecueForTwo1960/The%20Glad%20Gladiator%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - The Golden Touch (1960)
+https://archive.org/download/BarbecueForTwo1960/The%20Golden%20Touch%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - The Super Duper Market (1960)
+https://archive.org/download/BarbecueForTwo1960/The%20Super%20Duper%20Market%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Tiger Burger (1960)
+https://archive.org/download/BarbecueForTwo1960/Tiger%20Burger%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Track Meet Cheat (1960)
+https://archive.org/download/BarbecueForTwo1960/Track%20Meet%20Cheat%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Two-Faced Paleface (1960)
+https://archive.org/download/BarbecueForTwo1960/Two-Faced%20Paleface%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Voo-Doo to You Too (1960)
+https://archive.org/download/AfterTheBallWentOver1960/Voo-Doo%20to%20You%20Too%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - What's News (1960)
+https://archive.org/download/AfterTheBallWentOver1960/What%27s%20News%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Wimpy the Moocher (1960)
+https://archive.org/download/BarbecueForTwo1960/Wimpy%20the%20Moocher%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Wimpy's Lunch Wagon (1960)
+https://archive.org/download/BarbecueForTwo1960/Wimpy%27s%20Lunch%20Wagon%20(1960).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Patriotic Popeye (1957)
+https://archive.org/download/GreekMirthology1954/Patriotic%20Popeye%20(1957).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Spree Lunch (1957)
+https://archive.org/download/GreekMirthology1954/Spree%20Lunch%20(1957)-1.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - A Haul in One (1956)
+https://archive.org/download/AHaulInOne1956/A%20Haul%20in%20One%20(1956).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - A Haul in One (1956)*
+https://archive.org/download/youtube-cqeWRfntsOA/Popeye_The_Sailor_Man_A_Haul_in_One_1956_Original_English_Watch_Cartoons_USA-cqeWRfntsOA.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Assault and Flattery (1956)
+https://archive.org/download/AHaulInOne1956/Assault%20and%20Flattery%20(1956).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - I Don't Scare (1956)
+https://archive.org/download/GreekMirthology1954/I%20Don%27t%20Scare%20(1956).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Insect to Injury (1956)
+https://archive.org/download/GreekMirthology1954/Insect%20to%20Injury%20(1956).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Nearlyweds (1956)
+https://archive.org/download/GreekMirthology1954/Nearlyweds%20(1956).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Nearlyweds (1956)*
+https://archive.org/download/Popeye_Nearlyweds/Popeye_Nearlyweds_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye for President (1956)
+https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Cookin with Gags (1954)
+https://archive.org/download/PopeyeVideos/Popeye_Cookin_with_Gags_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Cookin with Gags (1954)*
+https://archive.org/download/AHaulInOne1956/Cookin%20with%20Gags%20(1954).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Private Eye Popeye (1954)
+https://archive.org/download/PopeyeVideos/popeye_private_eye_popeye_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Bride and Gloom (1954)
+https://archive.org/download/Popeye_BrideandGloom/Popeye_BrideandGloom_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Bride and Gloom (1954)*
+https://archive.org/download/AHaulInOne1956/Bride%20and%20Gloom%20(1954).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Fright to the Finish (1954)
+https://archive.org/download/AHaulInOne1956/Fright%20to%20the%20Finish%20(1954).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Gopher Spinach (1954)
+https://archive.org/download/AHaulInOne1956/Gopher%20Spinach%20(1954).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Greek Mirthology (1954)
+https://archive.org/download/GreekMirthology1954/Greek%20Mirthology%20(1954).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Greek Mirthology (1954)*
+https://archive.org/download/youtube-gNmiK66MtFY/Popeye_the_Sailor_In_English_Cartoon_-_Greek_Mirthology_full_episodes_in_color-gNmiK66MtFY.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Taxi-Turvy (1954)
+https://archive.org/download/GreekMirthology1954/Taxi-Turvy%20(1954).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Floor Flusher (1953)
+https://archive.org/download/AHaulInOne1956/Floor%20Flusher%20(1953).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Shuteye Popeye (1952)
+https://archive.org/download/GreekMirthology1954/Shuteye%20Popeye%20(1952).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Big Bad Sindbad (1952)
+https://archive.org/download/AHaulInOne1956/Big%20Bad%20Sindbad%20(1952).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Spinach Fer Britain (1943)
+https://archive.org/download/SpinachFerBritain/SpinachFerBritain.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Quiet! Pleeze (1941)
+https://archive.org/download/PopeyeQuietPleeze1941Colorized_201509/Popeye%20-%20Quiet!%20Pleeze%20(1941%20Color).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Meets Aladdin and His Wonderful Lamp (1939)
+https://archive.org/download/ColorPopeye/70.%20Aladdin%20and%20His%20Wonderful%20Lamp%20(1939%2C%20alternative%20print).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Meets Aladdin and His Wonderful Lamp (1939)*
+https://archive.org/download/Popeye_the_Sailor_Meets_Aladdin_and_His_Wonderful_Lamp/Popeye_-_Aladdin_and_His_Wonderful_Lamp_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Customers Wanted (1939)
+https://archive.org/download/customers_wanted/customers_wanted_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - I Never Changes My Altitude (1937)
+https://archive.org/download/youtube-wGXyNOcv3Xk/Popeye_The_Sailor_Man_-_I_Never_Changes_My_Altitude_1937_Original_English_Watch_Cartoons_USA-wGXyNOcv3Xk.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - The Paneless Window Washer (1937)
+https://archive.org/download/Popeye_ThePanelessWindowWasher/Popeye_ThePanelessWindowWasher_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - The Paneless Window Washer (1937)*
+https://archive.org/download/popeyepanelesswindowwasher/PopeyePanelessWindowWasherThumbnail_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Meets Ali Baba's Forty Thieves (1937)
+https://archive.org/download/ColorPopeye/55.%20Popeye%20the%20Sailor%20Meets%20Ali%20Baba%27s%20Forty%20Thieves%20(1937%2C%20alternative%20print%20%231).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Meets Ali Baba's Forty Thieves (1937)*
+https://archive.org/download/PopeyeTheSailorMeetsAliBabasFortyThieves/PopeyeAliBabaRestored_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Meets Sindbad the Sailor (1936)
+https://archive.org/download/ColorPopeye/42.%20Popeye%20the%20Sailor%20Meets%20Sindbad%20the%20Sailor%20(1936%2C%20with%20a.a.p.%20titles).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Meets Sindbad the Sailor (1936)*
+https://archive.org/download/1936POPEYEMEETSSINBADTHESAILORCARTOON/1936%20POPEYE%20MEETS%20SINBAD%20THE%20SAILOR%20CARTOON.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Meets Sindbad the Sailor (1936)**
+https://archive.org/download/Popeye_meetsSinbadtheSailor/Popeye_meetsSinbadtheSailor_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - I'm in the Army Now (1936)
+https://archive.org/download/youtube-12i-_j3zuyA/Popeye_The_Sailor_Man_-_I_m_in_the_Army_Now_1936_Full_English_Cartoon_Original-12i-_j3zuyA.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Shiver Me Timbers (1934)
+https://archive.org/download/PopeyeTheSailorShiverMeTimbers_201707/Popeye%20the%20Sailor%20-%20Shiver%20Me%20Timbers.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Shiver Me Timbers (1934)*
+https://archive.org/download/PopeyeTheSailorShiverMeTimbers/Popeye%20the%20Sailor%20-%20Shiver%20Me%20Timbers.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Let's Sing with Popeye (1934)
+https://archive.org/download/PopeyeVideos/Popeye_Lets_Sing_with_Popeye_1934_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Let's Sing with Popeye (1934)*
+https://archive.org/download/GreekMirthology1954/Let's%20Sing%20with%20Popeye%20(1934).mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Seasin's Greetinks! (1933)
+https://archive.org/download/popeye005/005%20Seasin%27s%20Greetinks%21.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Blow Me Down (1933)
+https://archive.org/download/Popeyeep003/003%20Blow%20Me%20Down%21.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - I Eats My Spinach (1933)
+https://archive.org/download/popeye004/004%20I%20Eats%20My%20Spinach.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - I Yam What I Yam (1933)
+https://archive.org/download/002IYamWhatIYam/002%20I%20Yam%20What%20I%20Yam.mp4
+
+#EXTINF:-1 tvg-logo="http://www.fitnessrxformen.com/wp-content/uploads/2014/01/Popeye-logo.jpg" group-title="POPEYE",Popeye - Popeye The Sailor (1933)
+https://archive.org/download/001PopeyeTheSailor/001%20Popeye%20the%20Sailor.mp4
+
+#######################################################POPEYE################################################################
 
 #EXTINF-1 type="series" group-title="Gegar Vaganza 2021" tvg-logo="https://iluminasi.com/img/upload/gegar-vaganza-2021-598.jpg", Episod 1
 https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Gegar.Vaganza/S8.2021/Gegar.Vaganza.S08E01.mp4
