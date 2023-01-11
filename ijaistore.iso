@@ -1806,7 +1806,7 @@ https://stream.zeehanzgadget.com/citra
 #EXTINF:-1 tvg-id="108" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ³⁾
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest?cb=20220623141711",Astro Sensasi HD 
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest?cb=20220623141711" group-title="Malaysia",Astro Sensasi HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085 https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
 
@@ -1835,19 +1835,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 
 
 
-
-
-
-
 #######################################################################################################################################################################
 
 ##############################
-
-
-
-
-
-
 
 
 
