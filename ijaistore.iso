@@ -1852,15 +1852,236 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/507
 https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 
-
-
-
 #######################################################################################################################################################################
 
-##############################
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الفاتحة
+https://download.quranicaudio.com/quran/sahl_yaaseen/001.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة البقرة
+https://download.quranicaudio.com/quran/sahl_yaaseen/002.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة آل عمران
+https://download.quranicaudio.com/quran/sahl_yaaseen/003.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة النساء
+https://download.quranicaudio.com/quran/sahl_yaaseen/004.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة المائدة
+https://download.quranicaudio.com/quran/sahl_yaaseen/005.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الأنعام
+https://download.quranicaudio.com/quran/sahl_yaaseen/006.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الأعراف
+https://download.quranicaudio.com/quran/sahl_yaaseen/007.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الأنفال
+https://download.quranicaudio.com/quran/sahl_yaaseen/008.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة التوبة
+https://download.quranicaudio.com/quran/sahl_yaaseen/009.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة يونس
+https://download.quranicaudio.com/quran/sahl_yaaseen/010.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة هود
+https://download.quranicaudio.com/quran/sahl_yaaseen/011.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة يوسف
+https://download.quranicaudio.com/quran/sahl_yaaseen/012.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الرعد
+https://download.quranicaudio.com/quran/sahl_yaaseen/013.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة إبراهيم
+https://download.quranicaudio.com/quran/sahl_yaaseen/014.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الحجر
+https://download.quranicaudio.com/quran/sahl_yaaseen/015.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة النحل
+https://download.quranicaudio.com/quran/sahl_yaaseen/016.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الإسراء
+https://download.quranicaudio.com/quran/sahl_yaaseen/017.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الكهف
+https://download.quranicaudio.com/quran/sahl_yaaseen/018.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة مريم
+https://download.quranicaudio.com/quran/sahl_yaaseen/019.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة طه
+https://download.quranicaudio.com/quran/sahl_yaaseen/020.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الأنبياء
+https://download.quranicaudio.com/quran/sahl_yaaseen/021.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الحج
+https://download.quranicaudio.com/quran/sahl_yaaseen/022.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة المؤمنون
+https://download.quranicaudio.com/quran/sahl_yaaseen/023.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الفرقان
+https://download.quranicaudio.com/quran/sahl_yaaseen/025.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الشعراء
+https://download.quranicaudio.com/quran/sahl_yaaseen/026.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة النمل
+https://download.quranicaudio.com/quran/sahl_yaaseen/027.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة القصص
+https://download.quranicaudio.com/quran/sahl_yaaseen/028.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة العنكبوت
+https://download.quranicaudio.com/quran/sahl_yaaseen/029.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الروم
+https://download.quranicaudio.com/quran/sahl_yaaseen/030.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة لقمان
+https://download.quranicaudio.com/quran/sahl_yaaseen/031.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة السجدة
+https://download.quranicaudio.com/quran/sahl_yaaseen/032.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الأحزاب
+https://download.quranicaudio.com/quran/sahl_yaaseen/033.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة سبأ
+https://download.quranicaudio.com/quran/sahl_yaaseen/034.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة فاطر
+https://download.quranicaudio.com/quran/sahl_yaaseen/035.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة يس
+https://download.quranicaudio.com/quran/sahl_yaaseen/036.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الصافات
+https://download.quranicaudio.com/quran/sahl_yaaseen/037.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة ص
+https://download.quranicaudio.com/quran/sahl_yaaseen/038.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الزمر
+https://download.quranicaudio.com/quran/sahl_yaaseen/039.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة غافر
+https://download.quranicaudio.com/quran/sahl_yaaseen/040.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة فصلت
+https://download.quranicaudio.com/quran/sahl_yaaseen/041.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الشورى
+https://download.quranicaudio.com/quran/sahl_yaaseen/042.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الزخرف
+https://download.quranicaudio.com/quran/sahl_yaaseen/043.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الدخان
+https://download.quranicaudio.com/quran/sahl_yaaseen/044.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الجاثية
+https://download.quranicaudio.com/quran/sahl_yaaseen/045.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الأحقاف
+https://download.quranicaudio.com/quran/sahl_yaaseen/046.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة محمد
+https://download.quranicaudio.com/quran/sahl_yaaseen/047.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الفتح
+https://download.quranicaudio.com/quran/sahl_yaaseen/048.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الحجرات
+https://download.quranicaudio.com/quran/sahl_yaaseen/049.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة ق
+https://download.quranicaudio.com/quran/sahl_yaaseen/050.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الذاريات
+https://download.quranicaudio.com/quran/sahl_yaaseen/051.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الطور
+https://download.quranicaudio.com/quran/sahl_yaaseen/052.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة النجم
+https://download.quranicaudio.com/quran/sahl_yaaseen/053.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة القمر
+https://download.quranicaudio.com/quran/sahl_yaaseen/054.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الرحمن
+https://download.quranicaudio.com/quran/sahl_yaaseen/055.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الواقعة
+https://download.quranicaudio.com/quran/sahl_yaaseen/056.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الحديد
+https://download.quranicaudio.com/quran/sahl_yaaseen/057.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة المجادلة
+https://download.quranicaudio.com/quran/sahl_yaaseen/058.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الحشر
+https://download.quranicaudio.com/quran/sahl_yaaseen/059.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الممتحنة
+https://download.quranicaudio.com/quran/sahl_yaaseen/060.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الصف
+https://download.quranicaudio.com/quran/sahl_yaaseen/061.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الجمعة
+https://download.quranicaudio.com/quran/sahl_yaaseen/062.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة المنافقون
+https://download.quranicaudio.com/quran/sahl_yaaseen/063.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة التغابن
+https://download.quranicaudio.com/quran/sahl_yaaseen/064.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الطلاق
+https://download.quranicaudio.com/quran/sahl_yaaseen/065.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة التحريم
+https://download.quranicaudio.com/quran/sahl_yaaseen/066.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الملك
+https://download.quranicaudio.com/quran/sahl_yaaseen/067.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة القلم
+https://download.quranicaudio.com/quran/sahl_yaaseen/068.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الحاقة
+https://download.quranicaudio.com/quran/sahl_yaaseen/069.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة المعارج
+https://download.quranicaudio.com/quran/sahl_yaaseen/070.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة نوح
+https://download.quranicaudio.com/quran/sahl_yaaseen/071.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الجن
+https://download.quranicaudio.com/quran/sahl_yaaseen/072.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة المزمل
+https://download.quranicaudio.com/quran/sahl_yaaseen/073.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة المدثر
+https://download.quranicaudio.com/quran/sahl_yaaseen/074.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة القيامة
+https://download.quranicaudio.com/quran/sahl_yaaseen/075.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الإنسان
+https://download.quranicaudio.com/quran/sahl_yaaseen/076.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة المرسلات
+https://download.quranicaudio.com/quran/sahl_yaaseen/077.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة النبأ
+https://download.quranicaudio.com/quran/sahl_yaaseen/078.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة النازعات
+https://download.quranicaudio.com/quran/sahl_yaaseen/079.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة عبس
+https://download.quranicaudio.com/quran/sahl_yaaseen/080.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة التكوير
+https://download.quranicaudio.com/quran/sahl_yaaseen/081.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الانفطار
+https://download.quranicaudio.com/quran/sahl_yaaseen/082.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة المطففين
+https://download.quranicaudio.com/quran/sahl_yaaseen/083.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الانشقاق
+https://download.quranicaudio.com/quran/sahl_yaaseen/084.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة البروج
+https://download.quranicaudio.com/quran/sahl_yaaseen/085.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الطارق
+https://download.quranicaudio.com/quran/sahl_yaaseen/086.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الأعلى
+https://download.quranicaudio.com/quran/sahl_yaaseen/087.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الغاشية
+https://download.quranicaudio.com/quran/sahl_yaaseen/088.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الفجر
+https://download.quranicaudio.com/quran/sahl_yaaseen/089.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة البلد
+https://download.quranicaudio.com/quran/sahl_yaaseen/090.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الشمس
+https://download.quranicaudio.com/quran/sahl_yaaseen/091.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الليل
+https://download.quranicaudio.com/quran/sahl_yaaseen/092.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الضحى
+https://download.quranicaudio.com/quran/sahl_yaaseen/093.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الشرح
+https://download.quranicaudio.com/quran/sahl_yaaseen/094.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة التين
+https://download.quranicaudio.com/quran/sahl_yaaseen/095.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة العلق
+https://download.quranicaudio.com/quran/sahl_yaaseen/096.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة القدر
+https://download.quranicaudio.com/quran/sahl_yaaseen/097.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة البينة
+https://download.quranicaudio.com/quran/sahl_yaaseen/098.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الزلزلة
+https://download.quranicaudio.com/quran/sahl_yaaseen/099.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة العاديات
+https://download.quranicaudio.com/quran/sahl_yaaseen/100.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة القارعة
+https://download.quranicaudio.com/quran/sahl_yaaseen/101.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة التكاثر
+https://download.quranicaudio.com/quran/sahl_yaaseen/102.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة العصر
+https://download.quranicaudio.com/quran/sahl_yaaseen/103.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الهمزة
+https://download.quranicaudio.com/quran/sahl_yaaseen/104.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الفيل
+https://download.quranicaudio.com/quran/sahl_yaaseen/105.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة قريش
+https://download.quranicaudio.com/quran/sahl_yaaseen/106.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الماعون
+https://download.quranicaudio.com/quran/sahl_yaaseen/107.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الكوثر
+https://download.quranicaudio.com/quran/sahl_yaaseen/108.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الكافرون
+https://download.quranicaudio.com/quran/sahl_yaaseen/109.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة النصر
+https://download.quranicaudio.com/quran/sahl_yaaseen/110.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة المسد
+https://download.quranicaudio.com/quran/sahl_yaaseen/111.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الإخلاص
+https://download.quranicaudio.com/quran/sahl_yaaseen/112.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الفلق
+https://download.quranicaudio.com/quran/sahl_yaaseen/113.mp3
+#EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="Al-Quran",سورة الناس
+https://download.quranicaudio.com/quran/sahl_yaaseen/114.mp3
 
-
-
+#######################################################################################################################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/609
