@@ -1592,6 +1592,35 @@
 #EXTINF:-1 tvg-id="https://suaramerdeka.com.my/wp-content/uploads/2022/01/Kucing-Domestik.jpg" tvg-name="Store" group-title="!!!❤️JepStore ❤️!!!",Store
 https://fvs.io/redirector?token=K1RCeS9iWnRCaS92Yk9yWlRJM1VOL1RZa1MxUVF1bkllMFhwQml1VVd2K0ppSXVJeUdUZy9vaStPenpmMTg3RHNjQURHeG1ydzVxZlovNmxSZTdSSkp6dDk3Q0ZMcStEMGRteXU0K3gvWm00aGs0ejRNOTd5c1NCTzR4OHA1ZHpxaHJXYlYwUFFNZlVpaWhMUmNSTUltQWxLSjZoNVdaMktHYnZoUT09OnZheWpDb1BjUDFqekxSOUdrcmZwOVE9PQzlTI
 
+
+########################################################AFF CUP#################################################################################################
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=f5158194cc4044e699d0df01772f2212&key=072e611a383a2d1e3d4d8ea19e016a71
+#EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="🏆AFF CUP" tvg-logo="https://i.ibb.co/6BP7TRZ/AFF-Cup-2022-logo-svg.png",AFF CH01
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="🏆AFF CUP" tvg-logo="https://i.ibb.co/6BP7TRZ/AFF-Cup-2022-logo-svg.png",AFF CH02
+https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="🏆AFF CUP" tvg-logo="https://i.ibb.co/6BP7TRZ/AFF-Cup-2022-logo-svg.png",AFF CH03
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
+#EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.ibb.co/6BP7TRZ/AFF-Cup-2022-logo-svg.png" group-title="🏆AFF CUP", AFF CH04
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+http://iptv12k.com:35461/live/80203091402/213445/13547.m3u8
+
+
+###########################################################################SPORTS################################################################################
+
+
 #EXTINF:-1 tvg-id="Lagu 90an" tvg-name="lagu 90an" group-title="Lagu Malaysia" tvg-logo="https://i.ytimg.com/vi/JhmNZuH9izo/maxresdefault.jpg",Lagu 90an
 https://rr3---sn-0hvcpax-30ak.googlevideo.com/videoplayback?expire=1672783290&ei=WlG0Y-ipB9rg7gOI8KvoDg&ip=91.197.235.212&id=o-AJZZhLoReRuNuFySEBG6WqlvSLKK3xMCzWvq5ud84M6a&itag=18&source=youtube&requiressl=yes&spc=zIddbHzMyGsZ-L612vleS42aRbWaCQM&vprv=1&mime=video%2Fmp4&ns=V7NBowz17CtPLp5yO7H2-sAK&gir=yes&clen=577231296&ratebypass=yes&dur=13370.421&lmt=1672348772080113&fexp=24001373,24007246&c=WEB&txp=5438434&n=RAP5ngJJI6KONw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgGXddiIDMY_7nFPxakmh5w20Bb799ZWAg4WQjm3NXf4sCIBbQoPsPUhrcJWfmm_JZgLYThLuAuo19zsRPANlltvob&redirect_counter=1&rm=sn-q0cel76&req_id=df762d6ee4cda3ee&cms_redirect=yes&ipbypass=yes&mh=hb&mip=27.125.245.54&mm=31&mn=sn-0hvcpax-30ak&ms=au&mt=1672761429&mv=m&mvi=3&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAN440ZTr3qj-whJigyWs3-f1TWTpXb5UiLvBZAWMjnPyAiEAnbqfzj4Wl2OvQinw5nttF1uKMQjXN4MiDkgaiYgskww%3D
 
