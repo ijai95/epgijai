@@ -2863,7 +2863,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd0
 
 ================plato tv==================
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="Indian",INFO PENGGUNAAN DNS CHANGER
+#EXTINF:-1 tvg-id="CHN" tvg-name="" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="Indian",INFO PENGGUNAAN DNS CHANGER
 https://tinyurl.com/Guna-DNS-Changer
 
 
@@ -3622,7 +3622,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 
-#EXTINF:-1 tvg-id="416" ch-number="416" group-title="Korea" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies (MY)   
+#EXTINF:-1 tvg-id="416" ch-number="416" group-title="Korea" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies (MY)   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
@@ -3959,7 +3959,7 @@ https://live1.thaitvstream.com/play/zabbtv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="703" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="Entertainment",Lifetime (MY)
+#EXTINF:-1 tvg-id="703" ch-number="703" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="Entertainment",Lifetime (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
