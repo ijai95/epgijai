@@ -4031,7 +4031,7 @@ https://cdn-01.toffeelive.com/origin-03/live-origin/smil:comedy_central_hd.smil/
 
 
 
-#EXTINF:-1 tvg-id="321" ch-number="321" group-title="Movies" tvg-logo="https://i.ibb.co/kyKTZLB/ccm-modified.png",Celestial Classic Movies (MY)
+#EXTINF:-1 tvg-id="321" ch-number="321" group-title="Movies" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://i.ibb.co/kyKTZLB/ccm-modified.png",Celestial Classic Movies (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
