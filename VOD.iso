@@ -1,3 +1,28 @@
+<!DOCTYPE html><head></head><body><!DOCTYPE html><!DOCTYPE html>
+<html lang="en">
+<script language="javascript">
+  window.location = "https://linktr.ee/cloudse7en";
+</script>
+
+<script>
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+  <meta charset="utf-8">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#fff">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0,
+                                 maximum-scale=1.0, user-scalable=no">
+  <title>cloudsevenTVchannels</title>
+  <style>/* Copyright 2017 The Chromium Authors. All rights reserved.
+ * Use of this source code is governed by a BSD-style license that can be
+ * found in the LICENSE file. */
+
+
+
+
+
+
 ###########series##############
 #EXTINF:-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXB_IVP_LAND_432x243_20211130_215122.jpg",Episode 1
 https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E01.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
@@ -1019,11 +1044,12 @@ https://lh3.googleusercontent.com/ZczAPLnQ2Hk4d7nogkxJUZ3J2BV9k-17ZSaVTkPvbHbt5j
 
 #EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/gWE4ZKR.jpg" group-title="VOD KIDS",G-Force (2009)
 https://lh3.googleusercontent.com/hhi756pirDCaC88olH53sA6Djx8ftsQIwGfEwgWQ2iWlc40gEeqdxO8cQKFxZOtEEUiBVyvNt2K-zdNEEQ=m22
+
 #EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iJofDin.jpg" group-title="VOD KIDS",Ice Age: Dawn of the Dinosaurs (2009)
 https://lh3.googleusercontent.com/S4U5m_bep6TYRYiAIqCmDL8sEzMFZD9QqTe6u_aQjqtJgD6uGSnfKQ-YYWGGGyWcFEm9pbiBhE97JRLlKQ=m22
 
-
-
+#EXTINF:-1 type="movie" tvg-logo="https://www.dvdsreleasedates.com/posters/800/D/Dragon-Ball-Super-Super-Hero-2022-movie-poster.jpg" group-title="VOD KIDS", Dragon Ball Super Super Hero 2022
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Dragon.Ball.Super.Super.Hero.2022.1080p.HDTS.MalaySub-OMG.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/LZh9Ujz.jpg" group-title="VOD KIDS",Kung Fu Panda (2008)
 https://lh3.googleusercontent.com/-p78whiwcwyIIVLMyyAv8YEGzBOBqP74QRsprLSdf0hc_mXRkvtp5OB3BWdzt4kT28ujMnjJ1NJGUJ8agw=m22
@@ -1068,7 +1094,7 @@ https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ie
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Stand%20by%20Me%20Doraemon%202%20(2020)%20malaysub.ts
 
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ2MzJmZGMtZjhmNS00MGUyLWJjOGMtYzVmMTg4OTA2YzZkXkEyXkFqcGdeQXVyMTEwMjgyMzIz._V1_.jpg" group-title="VOD KIDS",Stand by Me Doraemon 2 Malay(2020)
-https://delivery-node-gerges.voe-network.net/engine/hls2/01/07962/dxh63hhnreo6_n/index-v1-a1.m3u8?t=PYBWJQK_p7E3aDfMod_OKzEmvp6kz_JjYYW93Gf31iE&s=1668303769&e=14400&f=39811726&node=delivery-node-gerges.voe-network.net&i=180.75&sp=4500&asn=4788
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Stand%20by%20Me%20Doraemon%202%20(2020)%20malaysub.ts
 
 #####################MOVIE-ASTRO FIRST#####################
 
@@ -1088,7 +1114,7 @@ https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Gila.Gusti.2022.1080pWEBD
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Gracias.Barcelona.2022.1080p.WEB-DL-ms.en-PENCURiMOViE.ONE.mkv
 
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhlODllYzItNzJkYy00YzM1LWFlMzEtYWZlYjhiNjUxMTYyXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Kampong Pisang Berbuah Dua Kali
-https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Kampong%20Pisang%20Berbuah%20Dua%20Kali%20(2022)%201080p%20WEBDL-MARX.mkv
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Kampong.Pisang.Berbuah.Dua.Kali.2022.1080p.WEBRip.HardSubMalay.X264-AstradaMY.mp4
 
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYxNDYwOTUtNTQzMC00YTk2LWEwNzAtN2RmNDAxZjhhY2IwXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Siapa Tutup Lampu
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Siapa.Tutup.Lampu.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4
@@ -1104,6 +1130,9 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/Penunggang.Agama/Penunggang
 
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJiOGQyNTItNzY4Yi00NmQ1LTk3ZDctM2MyZjc5OTlmYmIwXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_.jpg", Penunggang Agama 2
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Penunggang.Agama/Penunggang.Agama.2.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzlmMmUyMDAtNDNlNi00ZjJlLWFjM2QtZWNjODA4OGMzZGI0XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_FMjpg_UX1000_.jpg", Abang Long Fadil 3 2022
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Abang.Long.Fadil.3.2022.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
 
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://1.bp.blogspot.com/-KHuHx5cuDYs/YYJNf1AmvwI/AAAAAAAAMhc/geYxX1DbnBokLaiYbNHAymQdmTFl4f_-wCLcBGAsYHQ/w0/Khaenak%2BSerangan%2BPocong.webp", Khaenak Serangan Pochong
 https://onedrive.astradamy.com/api/raw/?path=/Movies/khaenak%20serangan%20pocong%20convert.mp4
@@ -1306,6 +1335,10 @@ https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/Ecix
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/Ea6dlk1fVlRLkPslAJnYOr4BaE_IAejPpfMb8CROGNoQzA?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://d3avoj45mekucs.cloudfront.net/astrogempak/media/3gadismanis_images/kampung-latah-1.jpg?ext=.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", KAMPUNG LATAH THE MUMMY
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EX--Z_E8-lZJpT4O0dG_8z0Bru43H5QhXbTpwofS0UfY4w?download=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/zz450GOHCfO145ZzYHSGaMQ2w4q.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", Zombi Kampung Pisang 2007
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Zombi.Kampung.Pisang.2007.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://pbs.twimg.com/media/EJJ6-AzUYAEiO6K.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", Upin Ipin Keris Siamang Tunggal
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Upin.Ipin.Keris.Siamang.Tunggal.2019.1080p.V2.WEB-DL-PENCURiMOViE.CYOU.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KBRAO_IVP_LAND_672x378_202288_114150.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", ROH 100 HARI
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EcgPOSNPQQ9CrcJMOcyp14MB4cpjc8PQw_BOPCspnmfydA?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxf1KVnKVxupW_4pNzRZHrnT5CRfKJXgCHUvZXd-zCoqoc60fJEiQU71VWT9ozC9PBSS_l3p1fgOjs3sIiqi2xX_mCwSCIaVyyIuOURl4ThpJ3PNiEqRlgLm7x22HVma6Oclg4STRCbTk7X_GKYZ3EnYY4hDa5fmoufzXFKXkLjovT0Elh32gfRDnq/s938/Lockdown%20Love.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", LOCKDOWN LOVE
@@ -1313,7 +1346,7 @@ https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EWCv
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDc3ODA5ZjgtMjU2Yi00YmE2LThiZWEtNjJmYjg3OTAzMWU0XkEyXkFqcGdeQXVyODU5MDcyNzk@._V1_.jpg" group-title="VOD OTHERS" tvg-id="" tvg-name="", MAHLUKAT
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EUxnkjB6kONDuyP_ivZnyxABV-mjAAp5Hs6l9_TuCQjoRw?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwNjNhNmQtNzZlZC00YzVmLThhMzItNmJiYWJjMGFjODQwXkEyXkFqcGdeQXVyMjkyOTg5NjI@._V1_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", MAT KILAU
-https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ET6j9-PFVpVFkoIv8qCC-7cBMH_J45uoHxnKKIy99VIK0A?download=1
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Mat.Kilau.2022.NF.WEBDL.1080p.MSA.EAC3.H.264-AstradaMY.mkv
 #EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KCTGP_p_IVP_PORT_258x387_2022830_173126.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", MUSYRIK
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EbPjSLE45tNLti6XAQ15exIBee-47cB733W2idd5fVGYdg?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAFVD_p_IVP_PORT_258x387_202297_154149.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", CIKGU VS HANTU
@@ -1374,13 +1407,21 @@ https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EbZL
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGWLRRfCrKlWhdYPf75NNeKiZ3re0-dLlnP0UbI_wdMSfnIXPZ9hWsR9_T6gaeRCdlls&usqp=CAU" group-title="VOD MALAY" tvg-id="" tvg-name="", A NIGHT WITH AINA ABDUL
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ETxZcKgo_MpIjbdXnEJQgF4B4w3UEo3BZ2Rh00HNGDL2Ag?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", BLACK ADAM
-https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EVzgyEAXsClBjTlAYT-JJcEByt4Zs5oUyXjNYcvcr2wUuw?download=1
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Adam.2022/Black.Adam.2022.1080p.WEB-DL.DDP5.1.Atmos.H.264-EVO.mkv
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", BLACK WIDOW 2021
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Widow.2021/Black.Widow.2021.1080p.BluRay.x264.AAC5.1.SUB.MS.ENG.IND-PENCURiMOViE.CYOU.mkv
+#EXTINF:-1 type="movie" tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6509/6509753_sd.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", DOCTORSTRANGEINTHEMULTIVERSE OF MADNESS 2022
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Doctor.Strange.in.the.Multiverse.of.Madness.2022/Doctor.Strange.in.the.Multiverse.of.Madness.2022.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-CMRG.mkv
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", FANTASTIC BEASTS THE SECRETSOF DUMBLEDORE 2022
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Fantastic.Beasts.The.Secrets.of.Dumbledore.2022/Fantastic.Beasts.The.Secrets.of.Dumbledore.2022.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-EVO.mkv
+#EXTINF:-1 type="movie" tvg-logo="https://cps-static.rovicorp.com/2/Open/NBC_Universal/Program/28933657/_derived_jpg_q90_310x470_m0/FastAndFurious_2x3_6_1627973804901_8.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", FAST AND FURIOUS F9 THE FAST SAGA 2021
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Fast.and.Furious.F9.The.Fast.Saga.2021/F9.The.Fast.Sage.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzEzOTZjYjYtMTI3MS00NWE1LWIyZTktYTRlMTBlYjlkMjZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", TERRIFIER 2
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EdT-2eUp_clFkVajdsQDLLkBLolVeksDjfK611vS_CQ8MQ?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", BLADE OF 47 RONIN
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EQBNpewO22dPjrWq0qDjUosB2wF_U2NEGe_nDQqK7go01A?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/54/Rumah_Kaliurang.jpeg" group-title="VOD MALAY" tvg-id="" tvg-name="", RUMAH KALIURANG
-https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ES1-qHwv8IFGiJxv_zs46DEBBNlTD4Fug7DVap96q_YkKg?download=1
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Rumah.Kaliurang.2022.1080p.Bioskop.WEB-DL.H264.AAC-AstradaMY.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ3NDM0MjEtN2Y5Yi00OWY5LWI1ZjktYmE3NjQyMjZkYTNkXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", HIGH LANE
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ESXzBBVqAWNClWatyItmZSsBiJ1l5mVU1ZFg9xfujAa6Eg?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://i0.wp.com/moviesreview101.com/wp-content/uploads/2022/10/hellhole-poster.jpg" group-title="VOD OTHERS" tvg-id="" tvg-name="", HELLHOLE
@@ -1394,9 +1435,18 @@ https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EcUa
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ5ZDYyMzMtNDRjZi00YWMxLTgzYTktNjBkNjJjMDM3NDE2XkEyXkFqcGdeQXVyNzEyMjQwOTQ@._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", MATRIARCH
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EegJZHaIAUBNlHGlLMsTwgABPoackWEV8oxgN8xJdFGiDg?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE0NWU3NmMtNWYwMC00ZDQ0LWExOGUtMjUxNDQzNjljNGI0XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", AIR FORCE(SELAGI BERNYAWA)
-https://s23.upstreamcdn.co/v/01/04106/dfpqbvceqnla_n/Air.Force.The.Movie.Selagi.Bernyawa.2022.1080p.WEB-DL.MalaySub.mp4?t=rZuZ99kOLpvpqbA9Fne91aeRFEs7fl3paVu8oVWFOEU&s=1672986605&e=10800&f=20533809&sp=256&i=0.0
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Airforce.The.Movie.Selagi.Bernyawa.2022.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE0NWU3NmMtNWYwMC00ZDQ0LWExOGUtMjUxNDQzNjljNGI0XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", AIR FORCE(SELAGI BERNYAWA²)
-https://www81.uptobox.com/dl/9zyOV8FKRZc3TnYPY_v7z_XecWAji6I6uNOXakCdhE2tuaKwoCH8dZAXczv3wri6gWKu87NoYOX1VzGklOwMbd5WglB7spvUhlsM8kOwMtkK1Q3AfQa3p9kx8Xqo4FzQ62Z0RRM3ZA5ei2y9SLO16w/Air.Force.The.Movie.Selagi.Bernyawa.2022.1080p.WEB-DL.MalaySub.mp4
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Airforce.The.Movie.Selagi.Bernyawa.2022.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://farm5.static.flickr.com/4122/5220001809_355fb6326e_z.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", Hantu Kak Limah Balik Rumah 2010
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Hantu.Kak.Limah.Balik.Rumah.2010.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZThjMzJlY2QtM2Y0Ny00MTQzLWI1YWUtZGUxMjJjMzA3MDcwXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", Hantu Kak Limah 2
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Hantu-Kak-Limah.2.Husin-Mon-%26-Jin-Pakai-Toncit.2013.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/0/09/HKLBR.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", Hantu Kak Limah 3
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Hantu-Kak-Limah.3.2018.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
+
+
+
 #EXTINF:-1 type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2dbZE6M835uBW4Eh9VupWzEdmBiEoKdRCRlUJxU62b1otID3sQ84BoSne0EJLJI87UdZWgi2WSQzr6m3eIZdnpweMZLoHmlJ6byKhchLUMLQBiEqnLrD5GH80-IRW5f53tQBWqLBy65wr73yK2djZTOTtdC9EAZwx4_GwfAH8jY1RnrFR1oyomg9b/s2048/Telefilem%20Dendam%20Hantu%20Latah.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", DENDAM HANTU LATAH 2022
 https://d300.userdrive.me/d/3sj4tbj42as5ln23uti7pwjzeikci7ntvdom5t42s5lpoezrrcy4cg34neovkkhdfxgo2ytc/Dendam%20Hantu%20Latah%20(2022)%201080p%20WEB-DL.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E1M2ZlZjAtNzQwYy00MGQwLWEwMTgtMWMyYTAxN2IyN2MyXkEyXkFqcGdeQXVyNTg2MDI2Njc@._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", PENGABDIAN SETAN 2
@@ -1857,3 +1907,7 @@ https://www.googleapis.com/drive/v3/files/1bwwzzAvx2GVvm74fddwOkKBWNwOc7Bhk?alt=
 https://www.googleapis.com/drive/v3/files/1faHQfnL8VaTdc72377tNOnU5MunzWjDQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 type="movie" group-title="Man Vs Bee",Episode 09
 https://www.googleapis.com/drive/v3/files/1G2zCz2u57ZbhdrZMd9dH_W8FJY8JI4WT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+<noscript>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'71e279c4799f4ca7',m:'rRvjkdTqUzsA72dNMgVPBdmi8eFUUm0TaezDWTdg6Ss-1655706834-0-AWCILmLNi01muIBGoiW/eIgjUgIiA0mlVcDCBeWOiS6HjYY4b9h5WfDUj5k8DIkmGvdWqyH0Sgii5MN1+aXR22yBvl/Il2e+D2St8TU4HiyluIq9TSx5prk+N9jl8tt+hw==',s:[0x373f4008d3,0x39f162e0f8],u:'/cdn-cgi/challenge-platform/h/g'}})();</script>
