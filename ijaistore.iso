@@ -4877,7 +4877,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroTutorTVSPM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/127_144.png" group-title="KIDS" ch-number="602",Astro Tutor TV SPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/313
-# http://linearjitp-playback.astro.com.my/dash-wv/linear/313/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/313/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroTutorTVSMK.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SMK_v1.png" group-title="KIDS",Astro Tutor TV SMK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
