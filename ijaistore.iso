@@ -5609,10 +5609,6 @@ https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="CHN" group-logo="https://png.pngtree.com/png-clipart/20201112/ourmid/pngtree-football-logo-elements-png-image_2418408.jpg", tvg-logo="https://i.ibb.co/HP4Xnwk/Desain-tanpa-judul-58-modified.png" group-title="⚽MUN vs MCI",Premier Football 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/xLq8sst/Desain-tanpa-judul-60-modified.png" group-title="⚽Sports",Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
@@ -5624,6 +5620,28 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=h
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/f216tTj/Desain-tanpa-judul-61-modified.png" group-title="⚽Sports",Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+################################################################################################################################################
+#EXTINF:-1 tvg-id="CHN" group-logo="https://www.sportsdirect.com/images/imgzoom/82/82819375_xxl.jpg" tvg-logo="https://i.ibb.co/q7tbRRh/Desain-tanpa-judul-57-modified.png" group-title="⚽Premier Football⚽",Premier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/HP4Xnwk/Desain-tanpa-judul-58-modified.png" group-title="⚽Premier Football⚽",Premier Football 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/xLq8sst/Desain-tanpa-judul-60-modified.png" group-title="⚽Premier Football⚽",Premier Football 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/Xt38mRL/Desain-tanpa-judul-59-modified.png" group-title="⚽Premier Football⚽",Premier Football 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/f216tTj/Desain-tanpa-judul-61-modified.png" group-title="⚽Premier Football⚽",Premier Football 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+################################################################################################################################################
 
 #EXTINF:-1 tvg-id="sport1.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png" group-title="⚽Sports", Sport 1 
 #EXTVLCOPT:http-referrer=https://olacast.live/
