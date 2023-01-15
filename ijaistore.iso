@@ -1672,24 +1672,27 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
-# http://23.237.10.66:16405
+http://23.237.10.66:16405
+
+#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" group-title="Malaysia" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
-# http://51.79.82.208:16005
+http://51.79.82.208:16005
 
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/911
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
 
 #EXTINF:-1 tvg-id="149" tvg-name="TV9" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png",TV9 ⁽ˢᵉʳᵛᵉʳ ¹⁾ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
-# http://51.79.82.208:16006
+http://51.79.82.208:16006
 
 #EXTINF:-1 tvg-id="149" tvg-name="TV9" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png",TV9 ⁽ˢᵉʳᵛᵉʳ ²⁾
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
