@@ -3212,23 +3212,22 @@ http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 https://tinyurl.com/Guna-DNS-Changer
 
 
-
 #EXTINF:-1 tvg-id="303" ch-number="303" group-title="Chinese" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png",Go Shop 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1005
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
-# https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
+https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
 #EXTINF:-1 tvg-id="300" ch-number="IQIYI" tvg-logo="https://github.com/angahjee1994/logo/blob/master/iqiyi.png?raw=true" group-title="Chinese",iQIYI 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
-# https://stream.zeehanzgadget.com/iqiyi.mpd
+https://stream.zeehanzgadget.com/iqiyi.mpd
 
 #EXTINF:-1 tvg-id="306" ch-number="AstroAEC" tvg-logo="https://i.ibb.co/ZNGPbCN/Astro-AEC.png" group-title="Chinese",Astro AEC ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2400
-https://aqfadtv.xyz/live/aec/index.mpd
-# https://stream.zeehanzgadget.com/aec
+https://stream.zeehanzgadget.com/aec
 
 #EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" group-title="Chinese" tvg-logo="https://iili.io/1NBT5F.png",Astro AEC ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
