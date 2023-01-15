@@ -4042,16 +4042,23 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-id="309" ch-number="309" ch-number="CelestialMovies" tvg-logo="https://i.ibb.co/v3KrQGZ/Maxresdefault-modified.png" group-title="Movies",Celestial Movies (MY) 
+#EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" ch-number="CelestialMovies" tvg-logo="https://i.ibb.co/v3KrQGZ/Maxresdefault-modified.png" group-title="Movies",Celestial Movies (MY) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
 http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
-#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="Movies" tvg-logo="https://i.ibb.co/v3KrQGZ/Maxresdefault-modified.png",Celestial Movies (ID)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="Movies" tvg-logo="https://i.ibb.co/v3KrQGZ/Maxresdefault-modified.png",Celestial Movies (EN)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="Movies" tvg-logo="https://i.ibb.co/v3KrQGZ/Maxresdefault-modified.png",Celestial Movies (MY)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+https://av-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+
 
 #EXTINF:-1 tvg-id="712" ch-number="712" group-title="Movies" tvg-logo="https://i.ibb.co/sCSK6bx/wb-logo-new-shield-modified.png",Warner TV (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
