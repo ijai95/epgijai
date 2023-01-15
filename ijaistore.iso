@@ -1671,6 +1671,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" group-title="Malaysia" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
+
 #EXTINF:-1 tvg-id="147" tvg-name="147 NTV7" group-title="Malaysia" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png",DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
