@@ -1489,7 +1489,15 @@ https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EUxn
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwNjNhNmQtNzZlZC00YzVmLThhMzItNmJiYWJjMGFjODQwXkEyXkFqcGdeQXVyMjkyOTg5NjI@._V1_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", MAT KILAU
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Mat.Kilau.2022.NF.WEBDL.1080p.MSA.EAC3.H.264-AstradaMY.mkv
 #EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KCTGP_p_IVP_PORT_258x387_2022830_173126.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", MUSYRIK
-https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EbPjSLE45tNLti6XAQ15exIBee-47cB733W2idd5fVGYdg?download=1
+https://data.streamku.xyz/mv/107-musyrik.mp4
+#EXTINF:-1 group-title=" VOD MALAY" tvg-logo="https://kawanfilm21.us/wp-content/uploads/2020/10/2BQHnlpZrjXCZmK8rlqpSb0TUsZ-170x255.jpg",Roh
+https://data.streamku.xyz/mv/75a-roh.mp4
+#EXTINF:-1 group-title=" VOD MALAY" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/07/film-tiga-janda-melawan-dunia-2022-lk21-d21.jpg",Tiga Janda Melawan Dunia
+https://data03.streamku.xyz/mv/8a-tiga.mp4
+#EXTINF:-1 group-title=" VOD MALAY" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/meBdUcg308d7jhoVShOXxJDU8pn.jpg",The Devil’s Deception
+https://data.streamku.xyz/mv/108-talbis.mp4
+#EXTINF:-1 group-title=" VOD MALAY" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/11/film-rasuk-2022-lk21-d21.jpg",Rasuk
+https://data.streamku.xyz/mv/91a-rasuk.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAFVD_p_IVP_PORT_258x387_202297_154149.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", CIKGU VS HANTU
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EV1hLlZMmyJMg6Opg-2AEtcBaGLimGZN6Mh3VqtJMtLRXQ?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOGKYz6pc1dBXfbYzmKVG_VkgaiI5PDX-IHU4lWvkb68-rkha2SXS8QXOuOKAHhCwF0_L8Y9usYoFCMDpPUVkAfuucRMbRQPkTVOf3_ben7oUoG_dS1DzH4IIHuCVRbgp1DSyK_Wp93zHGk1CsRobJ6zwAol47LBn5qYuEjLvItZhdK2JJz6NKUydgcg/s16000/Rasuk.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", RASUK 2022
@@ -1502,7 +1510,7 @@ https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EXiS
 #EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KCTGO_p_IVP_PORT_390x585_202292_11390.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", MOONDRAM ATHIGHARAM
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/Ed-c6ZooSxtNjEvrc6VFAlUBUN1iK_Azlua1f4G2DIG5sw?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDEWJ_p_IVP_PORT_390x585_2022912_173037.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", MISI
-https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EQqxL0zOtJ1EtuRWBNwHXCcBUrORKYafwyFrJH-vkvJQJA?download=1
+https://data.streamku.xyz/mv/68-misi.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzAxMTYzMzAtZDc2Mi00NGYxLTg3ZTctZWQ2ZWM0OWUwYmRjXkEyXkFqcGdeQXVyNTg2MDI2Njc@._V1_.jpg" group-title="VOD OTHERS" tvg-id="" tvg-name="", DOLL 3
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EezAnVzcnthDun4D1okJ_AIByxBaLD24Cjuv1kLhUL-3VA?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Bullet_Train_%28poster%29.jpeg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", BULLET TRAIN
@@ -1535,6 +1543,14 @@ https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/Ebk_
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ESERcOUGFzhDgBAzSeYnjMQBwIZQAl97ygf5UUYHoD37DA?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y2YWU5ZWQtYTA3NS00YzFiLTk5MmUtMmIxZDE4OWY1YjYxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", KUNTILANAK 3
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ESXUKnB-cgxGuJ3u7RV7o2cBhkks7yp3OFducHmHDnrPIA?download=1
+#EXTINF:-1 group-title="VOD MALAY" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/10/film-35mm-2022-lk21-d21.jpg",35MM
+https://data.streamku.xyz/mv/74a-35mm.mp4
+#EXTINF:-1 group-title="VOD MALAY" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2018/04/film-balun-2017.jpg",Balun
+https://data.streamku.xyz/mv/89b-balun.mp4
+#EXTINF:-1 group-title="VOD MALAY" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/11/hPPLz47vicMBkE46V7xMUHGl91P-170x255.jpg",KL Gangster
+https://data.streamku.xyz/mv/78a-klgangster.mp4
+
+
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU5MWY3YTEtYmYwNC00MGU1LTk2YWMtOTk0YjgxNDM3NjdjXkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", ACCIDENTAL MAN:HITS MAN HOLIDAY
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EZorAJLMGYdItSDM-0lCCowBGQYljEQpQNdAhCvhb5R4vw?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://www.cinema.com.my/images/movies/2022/7menjelangmagrib00_450.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", MENJELANG MAGHRIB
