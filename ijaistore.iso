@@ -5770,9 +5770,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 https://live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5013
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
 #EXTINF:-1 tvg-id="817" tvg-logo="https://i.ibb.co/d55Yhf3/Desain-tanpa-judul-11-modified.png" group-title="⚽Sports",beINSports 2
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
