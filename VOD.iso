@@ -1433,17 +1433,18 @@ https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/E
 
 #EXTINF:-1 tvg-logo="https://happybox.fun/wp-content/uploads/2020/12/3_idiots.webp" group-title="VOD INDIA" tvg-id="" tvg-name="", 3 Idiots (2009)
 https://www.googleapis.com/drive/v3/files/1Rqi2kN8rpg97AxgoGedk7JL6cJ0ahosK?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNTImeEUV-AK4q2ztgqk-lsAFSgYMx6Rg1A&usqp=CAU" group-title="VOD ENGLISH" tvg-id="" tvg-name="", Annabelle (2014)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNTImeEUV-AK4q2ztgqk-lsAFSgYMx6Rg1A&usqp=CAU" group-title="VOD ENGLISH", Annabelle (2014)
 https://www.googleapis.com/drive/v3/files/1cmifBQTJtR6vr-G9od5LCuaqPdfYqamo?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UOjl1ow7i0LWMITdixGR25H1wq306w3hOw&usqp=CAU" group-title="VOD ENGLISH" tvg-id="" tvg-name="", Annabelle Creation (2017)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UOjl1ow7i0LWMITdixGR25H1wq306w3hOw&usqp=CAU" group-title="VOD ENGLISH", Annabelle Creation (2017)
 https://www.googleapis.com/drive/v3/files/1C1akrbwMzxdCSO0JOKtA4kCRxWqjUzbM?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXSEoVUaa1SpIKRSD3jKciGcb-OpqXPoBmw&usqp=CAU" group-title="VOD ENGLISH" tvg-id="" tvg-name="", Ant-Man And The Wasp (2018) No sub
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXSEoVUaa1SpIKRSD3jKciGcb-OpqXPoBmw&usqp=CAU" group-title="VOD ENGLISH" 
+ tvg-name="", Ant-Man And The Wasp (2018) No sub
 https://is.gd/JtMtCY
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5sjiIhh1WBip6YxFCGxPgVHuIHsj1ZC_BQ&usqp=CAU" group-title="VOD ENGLISH" tvg-id="" tvg-name="", Ant-Man (2015) No Sub
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5sjiIhh1WBip6YxFCGxPgVHuIHsj1ZC_BQ&usqp=CAU" group-title="VOD ENGLISH", Ant-Man (2015) No Sub
 https://is.gd/AxS8Kp
-#EXTINF:-1 tvg-logo="http://client-iptvmag.club:8080/images/movies//irkse1FMm9dWemwlxKJ7RINT9Iy.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", Antebellum  (2020) No Sub
+#EXTINF:-1 tvg-logo="http://client-iptvmag.club:8080/images/movies//irkse1FMm9dWemwlxKJ7RINT9Iy.jpg" group-title="VOD ENGLISH", Antebellum  (2020) No Sub
 https://is.gd/j2sdWz
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qmer6G5_pz4o7kZYspfPKlCfJHAOrBgPDA&usqp=CAU" group-title="VOD ENGLISH" tvg-id="" tvg-name="", Aquaman (2018) No Sub
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qmer6G5_pz4o7kZYspfPKlCfJHAOrBgPDA&usqp=CAU" group-title="VOD ENGLISH", Aquaman (2018) No Sub
 https://is.gd/T8roYa
 
 
@@ -1499,7 +1500,7 @@ https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EVZt
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBjM2Y5YWEtNTgyMi00MzcwLThkYTctYzZmY2FkNjZjZTRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", KKN DESA PENARI
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
 http://23.226.71.76/8G8QEGavnv-6OrIH4llsFtK4s9kbzF5mx_RATJf9sj3OlitSoW5VSMYVe20vu-dnsNGW4fnzyubPCi4-xmAigQ/rlNtW7ISkbROeJLN6Yl44-T2dlM5v1T2ZnCnm34JDZ4/video.m3u8
-#EXTINF:-1 type="movie tvg-id="" tvg-logo="https://i.ibb.co/YX8fLv9/053894900-1648645150-meweimg1648633801610.jpg" group-title="VOD MALAY",KKN di Desa Penari Uncut (2022)
+#EXTINF:-1 type="movie tvg-logo="https://i.ibb.co/YX8fLv9/053894900-1648645150-meweimg1648633801610.jpg" group-title="VOD MALAY",KKN di Desa Penari Uncut (2022)
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
 http://23.226.71.76/8G8QEGavnv-6OrIH4llsFtK4s9kbzF5mx_RATJf9sj3OlitSoW5VSMYVe20vu-dnsNGW4fnzyubPCi4-xmAigQ/rlNtW7ISkbROeJLN6Yl44-T2dlM5v1T2ZnCnm34JDZ4/video.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIyZTI4NmMtNTgxNi00ODNkLWI3ODItMThjMzJhNTJhMWUwXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", CEROBOH
