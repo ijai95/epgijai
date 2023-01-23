@@ -1663,10 +1663,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="Drama Sangat" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737",Drama Sangat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.dailymotion.com
-https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0lVJd_bi6RVocodrVwhNsWSe5YtclUgPeVjaY5VHCDGS)/dm/3/x6zvnex/s/live-1.m3u8
-# https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+https://stream.zeehanzgadget.com/dramasangat
 
 #EXTINF:-1 tvg-id="147" tvg-name="147 NTV7" group-title="Malaysia" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png",DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1841,7 +1838,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="Drama Sangat" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737",Drama Sangat
-https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0lVJd_bi6RVocodrVwhNsWSe5YtclUgPeVjaY5VHCDGS)/dm/3/x6zvnex/s/live-1.m3u8
+https://stream.zeehanzgadget.com/dramasangat
 
 #EXTINF:-1 tvg-id="107" group-title="Malaysia" ch-number="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -3033,7 +3030,7 @@ http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/1070
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="Indian",BBO Classic Movies
-https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
+https://is.gd/LtSb4L
 
 #EXTINF:-1 tvg-id="zeecinema.in" tvg-name="" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="Indian",Box office Bollywood
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
@@ -5873,6 +5870,14 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=h
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/f216tTj/Desain-tanpa-judul-61-modified.png" group-title="⚽Premier Football⚽",Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+#EXTINF:-1 tvg-id="DAZN1Spain.uk" group-title="⚽Premier Football⚽" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-Sports-modified.png", Dazn 1 Es
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+
+
 ################################################################################################################################################
 
 #EXTINF:-1 tvg-id="sport1.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png" group-title="⚽Sports", Sport 1 
@@ -6745,5 +6750,5 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 <script type="text/javascript">(function(){window['__CF$cv$params']={r:'71e279c4799f4ca7',m:'rRvjkdTqUzsA72dNMgVPBdmi8eFUUm0TaezDWTdg6Ss-1655706834-0-AWCILmLNi01muIBGoiW/eIgjUgIiA0mlVcDCBeWOiS6HjYY4b9h5WfDUj5k8DIkmGvdWqyH0Sgii5MN1+aXR22yBvl/Il2e+D2St8TU4HiyluIq9TSx5prk+N9jl8tt+hw==',s:[0x373f4008d3,0x39f162e0f8],u:'/cdn-cgi/challenge-platform/h/g'}})();</script>
 
 <script type="text/javascript">window.location = "https://linktr.ee/cloudse7en" </script>
-#EXTM3U billed-msg="‼️RELOAD PLAYLIST‼️ RELOAD VOD MOVIE‼️"<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>
-#EXTM3U billed-msg="‼️SILA TEKAN ORDER RECEIVED @ ID BANNED‼️ WARNING📝"<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>
+
+#EXTM3U billed-msg="V 1.2 FIX Drama sangat, beINSport 2, BBO Classic"<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>
