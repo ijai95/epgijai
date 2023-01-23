@@ -4489,6 +4489,20 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/rZceyE
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKtPnadoOaJl_CG9P_zVbcEfeMoXv0WUZ5Q&usqp=CAU" group-title="Movies" tvg-id="" tvg-name="", beIN Movies Action
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://is.gd/djCXgg
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="Movies" tvg-id="" tvg-name="", beIN Movies Drama
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://is.gd/cvai5m
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="Movies" tvg-id="" tvg-name="", beIN Movies Premiere
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://is.gd/ZrYB3c
+
+
+
 #EXTINF:-1 tvg-id="mycinema.MACAN" tvg-logo="https://i.ibb.co/vDx82bx/Desain-tanpa-judul-71-modified.png" group-title="Movies", My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 http://210.210.155.35/uq2663/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
