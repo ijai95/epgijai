@@ -4501,6 +4501,14 @@ https://is.gd/cvai5m
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/ZrYB3c
 
+#EXTINF:-1 tvg-logo="http://niceflix.uno:80/images/9e758ae7e3b594ed0a3bb58f5117b3cf.png" group-title="Movies" tvg-id="" tvg-name="", beIN Series 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://is.gd/RJnPTt
+
+#EXTINF:-1 tvg-logo="http://195.154.156.100:88/Arabic/bein%20series%20(Copy)%20(Copy).png" group-title="Movies" tvg-id="beinseries2.qa" tvg-name="beinseries2.qa", beIN Series 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://is.gd/sltTrs
+
 
 
 #EXTINF:-1 tvg-id="mycinema.MACAN" tvg-logo="https://i.ibb.co/vDx82bx/Desain-tanpa-judul-71-modified.png" group-title="Movies", My Cinema
