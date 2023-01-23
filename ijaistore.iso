@@ -4476,6 +4476,17 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/282649
 #EXTINF:-1 tvg-id="MNX.in" group-title="Movies" tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png",Mnx
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/282650
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpr6QEZ6_5uEN1tEkmK3jCTKEQdpBLYZi3g&usqp=CAU" group-title="Movies" tvg-id="" tvg-name="", Action Movies 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpr6QEZ6_5uEN1tEkmK3jCTKEQdpBLYZi3g&usqp=CAU" group-title="Movies" tvg-id="" tvg-name="", Action Movies 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+
 #EXTINF:-1 tvg-id="mycinema.MACAN" tvg-logo="https://i.ibb.co/vDx82bx/Desain-tanpa-judul-71-modified.png" group-title="Movies", My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 http://210.210.155.35/uq2663/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
