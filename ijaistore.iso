@@ -6884,6 +6884,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674663577/ei/O
 #EXTINF:-1 group-title="Lagu Live" tvg-id="" ch-number="" tvg-logo="https://i.ytimg.com/vi/vj6lXUdzBTQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQEMugf2GHWQXBBrBs2OSHWgbCZA",Dandut Klasik
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674663829/ei/NAPRY7vqNc6hlQTPtrngCw/ip/15.235.184.246/id/vj6lXUdzBTQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIagJZgd-jaog5pgyjrgFb5NyC9EnnzPg6gScCNkbrYJAiBxLIteIrD0Qqc3BVf0a6_1iBGfDx9O9Hz1gncDFzuH9A%3D%3D/file/index.m3u8
 
+#EXTINF:-1 group-title="Lagu Live" tvg-id="" ch-number="" tvg-logo="https://i.ytimg.com/vi/Gvfr_OoTp1E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKXqDhXHA-eEIKO1HEY_TLgPrX1A",Dandut Indonesia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674664110/ei/TgTRY4HcD8fRz7sPldmj-AY/ip/15.235.184.246/id/Gvfr_OoTp1E.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAL9nkLTKr_wY5ONkupJGqE8rTmMPI67HKOdQZxaW6_NmAiEA0FL8AmeVhuD5b8eF4QqaWv9YXZkqPpLPFlwPY4a0e6E%3D/file/index.m3u8
+
 #######################################################################################################################################################################
 
 
