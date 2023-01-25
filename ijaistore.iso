@@ -6868,6 +6868,15 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674661755/ei/G
 
 #EXTINF:-1 group-title="Lagu Live" tvg-id="" ch-number="" tvg-logo="https://i.ytimg.com/vi/E-z_nEgZsZ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0PTNJpThqDzgobRtSpTsuxem2Ow",Pop Melayu Terbaru
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674662105/ei/efzQY8fKAbqQvcAPh5afoAE/ip/15.235.184.246/id/E-z_nEgZsZ4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/my/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKMhXGfI5VY77ASbalCxW5JyidE1svNa8HGcqssLkAPfAiBOn3adKtUQIqV7ZnlA12z5wDpZqmmtsw-bSjGcc1gL5A%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Lagu Live" tvg-id="" ch-number="" tvg-logo="https://i.ytimg.com/vi/WQKO3t1JhaA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw5Xf2Fe3teXKGbpWnvOT58RF0DQ",Terbaik Sepanjang Zaman
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674662568/ei/SP7QY5uXCL_tjuMPke23mAI/ip/15.235.184.246/id/WQKO3t1JhaA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGGTDBFPukmw5OqqzuplKH0EX2_J1k0hGu8c84kihnVwCIB2YIwhkNdU7t3dyGe70L3T-dhoCGlrhH9ZWyoD3sEY0/file/index.m3u8
+
+#EXTINF:-1 group-title="Lagu Live" tvg-id="" ch-number="" tvg-logo="https://i.ytimg.com/vi/tRYgMvRCkS4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwm16khCsDUa50W2bVQBKMP3I5vg",Hit Tahun 2000an
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674662820/ei/Q__QY5yBOZa0s8IP9YGe4Ac/ip/15.235.184.246/id/tRYgMvRCkS4.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANmrwHK0I394XQOd8_P0z9XIDgJbOUe1PQk8T1DXZ_MyAiEAt1u_i3U-9AFaV-OFF_MRZa7My79ZsAyhh6A2wCRSLgs%3D/file/index.m3u8
+
+
+
 #######################################################################################################################################################################
 
 
