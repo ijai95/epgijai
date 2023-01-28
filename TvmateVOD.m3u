@@ -7834,8 +7834,9 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/Stand%20by%20Me%20Doraemon%
 #EXTINF:-1 tvg-id="" ch-number="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ2MzJmZGMtZjhmNS00MGUyLWJjOGMtYzVmMTg4OTA2YzZkXkEyXkFqcGdeQXVyMTEwMjgyMzIz._V1_.jpg" group-title="VOD KIDS",Stand by Me Doraemon 2 Malay(2020)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Stand%20by%20Me%20Doraemon%202%20(2020)%20malaysub.ts
 
-#####################MOVIE-ASTRO FIRST#####################
-
+#####################MOVIE-ASTRO FIRST####################
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWEyMjA5YjUtOTZmOS00ZDk0LWI4YzgtYzNiM2Y3YWI4MmUxXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Ali Setan 1985
+https://www.googleapis.com/drive/v3/files/1se0BtN1vGn8iKMCR_tDF1Ihmd29INS18?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 #EXTINF:-1 tvg-id="" ch-number="" group-title="VOD MALAY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhOQsztbdkltoZ7bZ8AXbRWe5UJvHTeJPxKaIAJ2P3O71crXcTSeu-NxgUBrN8qXcEB7ijBcGLwasgpoW_kD8CkLeGGwS0ArHtt0Bfu53kEv5yxoKNnsd1kHiWY154qx3mquG0Ape8mHgqE58wiolVmio1GRyZf3uWZMhrECIRVsrGlgp1MfI4s2nzS1w=w0", Renjana
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Renjana.2022.1080p.AOD.WEB-DL.AAC.H.264-%40cap.mp4
 
@@ -9222,7 +9223,7 @@ https://v2.streamku.xyz/stream/360/z8p7xrae4FaUrq0/__001
 
 ======== VoD FILM INDONESIA ========
 
-#EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w500/eA8uvsjzlQp6kWr4AMa8WIYY8G7.jpg" group-title="VOD INDONESIA" tvg-id="" tvg-name="", Alas Pati Hutan Mati (2018)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/eA8uvsjzlQp6kWr4AMa8WIYY8G7.jpg" group-title="VOD INDONESIA" tvg-id="" tvg-name="", Alas Pati Hutan Mati (2018)
 https://www.googleapis.com/drive/v3/files/1iGBhwZP9JmvV72t9NDW8CotWv_mZsWM2?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 #EXTINF:-1 tvg-id="" ch-number=""  group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://cdns.klimg.com/resized/660x/g/foto_adegan_film_hantu_budeg/p/foto_adegan_film_hantu_budeg-20121120-001-uji.jpg" group-title="VOD INDONESIA",Hantu Budeg (2012)
 https://storage.googleapis.com/b458263421913c0e2b8.appspot.com/dcfd9e1dc974eae60c63c18be6a4c346_1622868784.mp4?sumber=awal_storage
