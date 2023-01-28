@@ -1322,6 +1322,9 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/Stand%20by%20Me%20Doraemon%
 
 #####################MOVIE-ASTRO FIRST#####################
 
+#EXTINF:-1 type="movie" tvg-logo="http://2.bp.blogspot.com/-Jk7vPuGpWyc/Unp7ors51XI/AAAAAAAAAk0/5Z-03RuUyLk/s1600/highland_tower_poster_01.jpg" group-title="VOD MALAY", Highland Tower (2013)
+https://www.googleapis.com/drive/v3/files/1eScpmBAT8iP4hS1sl5_zzxo1xi_Q_36Z?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGI4MTdhNjUtODQzYy00ZmM3LTljZTAtMDZjMDZmYmE2M2JhXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="VOD MALAY", Hantu Kapcai (2012)
 https://www.googleapis.com/drive/v3/files/1Cno6LxqSal1wLaf05fTOQr6WGCWFL67e?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
