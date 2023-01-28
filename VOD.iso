@@ -1322,6 +1322,26 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/Stand%20by%20Me%20Doraemon%
 
 #####################MOVIE-ASTRO FIRST#####################
 
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwjtvN2PjUBs9foWa3Y-Bhp7_fAWd5RsmQaA&usqp=CAU" group-title="VOD MALAY", Polis Evo (2015)
+https://www.googleapis.com/drive/v3/files/1Wh2gGIHX-PnfOq_jpvrOAM6GYBnfTUoY?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_K-LJ6awLx-P-ORaaVnEeWhkomCHnUfVhg&usqp=CAU" group-title="VOD MALAY", Polis Evo 2 (2018)
+https://www.googleapis.com/drive/v3/files/1OQivY3kLR3dqY_FXqbRPGmAguBPJjAGn?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjYjZmMzUtOWUzYy00MDkwLThhMWMtMDdiYjJjNzcyNzRhXkEyXkFqcGdeQXVyMTA3NTk1MQ@@._V1_.jpg" group-title="VOD MALAY", Pendekar Bujang Lapok (1959)
+https://www.googleapis.com/drive/v3/files/1H2FgJJF1nzlNsePK_3DHDPLKvZsTa05d?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJkODU3YjctZTY0Ni00NDU5LWIzYTEtMDY0NjYzNjczYzA0XkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="VOD MALAY", Munafik (2016)
+https://www.googleapis.com/drive/v3/files/1sDbIWL0wVU5BD_gZ0zyR5hJtMzA2rAGP?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2RlYWNjOGUtZTllMi00NjA5LWFmZmItZWI2N2VmOWRjYjc3XkEyXkFqcGdeQXVyNTg2MDI2Njc@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="VOD MALAY", Munafik 2 (2018)
+https://www.googleapis.com/drive/v3/files/1H56rJXexzsUkRlezDLNiFltEcU4xRYm_?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3NNGZq39eJ1h3ML7HDwpJdsRStA2dFpK9Q&usqp=CAU" group-title="VOD MALAY" tvg-id="" tvg-name="", Langgar (2013)
+https://www.googleapis.com/drive/v3/files/1BdyOMkZYtfYjqUImkq4KCql7vPs-0K3-?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q5ZTFiMDUtY2RjZi00NGFiLTk4MGUtY2E3YWQ3Zjk5OGY4XkEyXkFqcGdeQXVyMjY1MDkyMzY@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="VOD MALAY", KL Zombie (2013)
+https://www.googleapis.com/drive/v3/files/1_G3yXeeKeGMHAcySTwLOBwxmAJ1-febt?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 type="movie" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4112.jpg" group-title="VOD Malay", Kampung Zombie (2015)
+https://www.googleapis.com/drive/v3/files/16JOOVbGvRPxwdjMAruUeAJRb5DmWX0FT?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI2M2E0NDktMGJiZS00YTQ3LWJiMDQtNTAwMTM4YmNhNzMyXkEyXkFqcGdeQXVyNDEwMjM5MDA@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="VOD MALAY", Kampung Drift (2016)
+https://www.googleapis.com/drive/v3/files/1yXeJE564k6N_wxOOC-mXQh_ihx0h7mzO?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/J_Revolusi.jpg/220px-J_Revolusi.jpg" group-title="VOD MALAY", J Revolusi (2017)
+https://www.googleapis.com/drive/v3/files/1DMs-_0bDAhYxW-Dbo61DrWXkVg7bDs98?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 #EXTINF:-1 type="movie" tvg-logo="http://2.bp.blogspot.com/-Jk7vPuGpWyc/Unp7ors51XI/AAAAAAAAAk0/5Z-03RuUyLk/s1600/highland_tower_poster_01.jpg" group-title="VOD MALAY", Highland Tower (2013)
 https://www.googleapis.com/drive/v3/files/1eScpmBAT8iP4hS1sl5_zzxo1xi_Q_36Z?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
