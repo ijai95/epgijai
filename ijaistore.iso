@@ -94,8 +94,8 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 #EXTINF:-1 group-title="Malaysia" ch-number="103" tvg-id="103" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 ⁽ˢᵉʳᵛᵉʳ ³⁾
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="Drama Sangat" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737",Drama Sangat
-https://stream.zeehanzgadget.com/dramasangat
+#EXTINF:-1 group-title="Malaysia" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat ⁽ˢᵉʳᵛᵉʳ ¹⁾
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="147" tvg-name="147 NTV7" group-title="Malaysia" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png",DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -269,8 +269,8 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="Drama Sangat" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737",Drama Sangat
-https://stream.zeehanzgadget.com/dramasangat
+#EXTINF:-1 group-title="Malaysia" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat ⁽ˢᵉʳᵛᵉʳ ²⁾
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="107" group-title="Malaysia" ch-number="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
