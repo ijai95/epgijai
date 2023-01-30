@@ -1321,6 +1321,15 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/Stand%20by%20Me%20Doraemon%
 
 #####################MOVIE-ASTRO FIRST#####################
 
+#EXTINF:-1 tvg-logo="https://malaytv.live/wp-content/uploads/2021/08/Malaysian-Ghost-Stories-1-310x165.jpg" group-title="VOD MALAY", Malaysian Ghost Stories Episode 7
+https://sv1.abc7.su/storage/media/7f46a5bfc065aa863b3742b14d0b8b3c-360.m3u8
+
+#EXTINF:-1 tvg-logo="https://malaytv.live/wp-content/uploads/2021/08/Malaysian-Ghost-Stories-1-310x165.jpg" group-title="VOD MALAY", Malaysian Ghost Stories Episode 10
+https://sv1.abc7.su/storage/media/de1cca5e80508ce0001287dcb6cef9a5-360.m3u8
+
+#EXTINF:-1 tvg-logo="https://malaytv.live/wp-content/uploads/2021/08/Malaysian-Ghost-Stories-1-310x165.jpg" group-title="VOD MALAY", Malaysian Ghost Stories Episode 18
+https://sv1.abc7.su/storage/media/34215cbbe798f46eadd7150fcb633936-360.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwjtvN2PjUBs9foWa3Y-Bhp7_fAWd5RsmQaA&usqp=CAU" group-title="VOD MALAY", Polis Evo (2015)
 https://www.googleapis.com/drive/v3/files/1Wh2gGIHX-PnfOq_jpvrOAM6GYBnfTUoY?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_K-LJ6awLx-P-ORaaVnEeWhkomCHnUfVhg&usqp=CAU" group-title="VOD MALAY", Polis Evo 2 (2018)
