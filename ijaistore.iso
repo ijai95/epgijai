@@ -4106,10 +4106,9 @@ https://no2.webtv1.lol/ddy1/premium126/index.m3u8?|referer=https://widevine.lice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.webtv1.lol/ddy1/premium126/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 #EXTINF:-1 tvg-id="815" tvg-logo="https://i.ibb.co/dGvfNvs/Desain-tanpa-judul-8-modified.png" group-title="⚽SPORTS⚽",Astro Supersport 5 ⁽ˢᵉʳᵛᵉʳ ¹⁾
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://no2.webtv1.lol/ddy1/premium127/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -5474,4 +5473,4 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
 <script type="text/javascript">window.location = "https://linktr.ee/cloudse7en" </script>
 
-#EXTM3U billed-msg="V1.7 FIX WARNA,SENSASI,SUPERSPORT 2,3,4, AURA, RANIA"<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>
+#EXTM3U billed-msg="V1.7 FIX WARNA,SENSASI,ALL SUPERSPORT, AURA, RANIA"<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>
