@@ -4066,10 +4066,10 @@ http://iptv12k.com:35461/live/80203091402/213445/13547.m3u8
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 # http://139.99.96.163:2095/live/User39281/UDnAlgqObgx/149.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
 #EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png",Astro SuperSport 1 ⁽ˢᵉʳᵛᵉʳ ²⁾
-https://aqfadtv.xyz/live/supersport/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://no2.webtv1.lol/ddy1/premium123/index.m3u8?|referer=https://widevine.licenses4.me/
+
 
 #EXTINF:-1 tvg-id="701" group-title="⚽SPORTS⚽"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -5474,4 +5474,4 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
 <script type="text/javascript">window.location = "https://linktr.ee/cloudse7en" </script>
 
-#EXTM3U billed-msg="V1.7 FIX WARNA,SENSASI,SUPERSPORT 3,4, "<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>
+#EXTM3U billed-msg="V1.7 FIX WARNA,SENSASI,SUPERSPORT 2,3,4, AURA, RANIA"<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>
