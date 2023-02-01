@@ -1431,8 +1431,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-ID="116" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="INDIAN",Colors
+#KODIPROP:inputstream.adaptive.license_key=http://gretong.devs.id/hex/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-ID="Colors.in" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="INDIAN",Colors
 https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
