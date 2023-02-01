@@ -4082,7 +4082,7 @@ https://no2.webtv1.lol/ddy1/premium126/index.m3u8?|referer=https://widevine.lice
 
 #EXTINF:-1 tvg-id="815" tvg-logo="https://i.ibb.co/dGvfNvs/Desain-tanpa-judul-8-modified.png" group-title="⚽SPORTS⚽",Astro Supersport 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-https://no2.webtv1.lol/ddy1/premium127/index.m3u8?|referer=https://widevine.licenses4.me/
+https://no2.webtv1.lol/ddy1/premium43/index.m3u8?
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
