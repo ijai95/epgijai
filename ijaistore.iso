@@ -4234,11 +4234,11 @@ https://no2.webtv1.lol/ddy1/premium122/tracks-v1a1/mono.m3u8|referer=https://ola
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/ddy5/premium465/tracks-v1a1/mono.m3u8|referer=https://olacast.live/
 
-#EXTINF:-1 tvg-id="diemasport2" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://static.blitz.bg/documents/thumbnails/sport/780/202105/1621343358610.jpg", Diema Sport 2
+#EXTINF:-1 tvg-id="diemasport2" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DiemaSport2-logo.svg/1200px-DiemaSport2-logo.svg.png", Diema Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/ddy5/premium466/tracks-v1a1/mono.m3u8|referer=https://olacast.live/
 
-#EXTINF:-1 tvg-id="diemasport3" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://static.blitz.bg/documents/thumbnails/sport/780/202105/1621343358610.jpg", Diema Sport 3
+#EXTINF:-1 tvg-id="diemasport3" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F976%2Fdiema-sport-3-1.png", Diema Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/ddy5/premium467/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=467
 
