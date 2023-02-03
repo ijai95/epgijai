@@ -4208,14 +4208,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="beINSports4" group-title="⚽SPORTS⚽" ch-number="809" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 4 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/ddyx2/premium94/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 #EXTINF:-1 tvg-id="beINSports5" group-title="⚽SPORTS⚽" ch-number="808" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5086
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://s10.flowerscast.com:999/hls/bein5arab-13444.ts|referer=https://gocast2.com/
 
 #EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-logo="https://i.ibb.co/t8xJLsf/Xtra-modified.png" group-title="⚽SPORTS⚽",BeINSports Extra
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
@@ -4746,6 +4744,37 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaiSportshd/smil:dubaiSportshd.smil/chunk
 #EXTINF:-1  tvg-id="DubaiSports3.ae" tvg-logo="https://i.ibb.co/s3VLky1/download-24-modified-1.png" group-title="⚽SPORTS⚽",DubaiSports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaiSportshd5/smil:dubaiSportshd5.smil/chunklist_b1600000.m3u8
 
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="Arena Sport 1" tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="⚽SPORTS⚽",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium429/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="⚽SPORTS⚽",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium430/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="Arena Sport 3" tvg-logo="https://ewsat.com/img/ARENA_SPORT_3.png" group-title="⚽SPORTS⚽",Arena Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium431/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="Arena Sport 4" tvg-logo="https://www.rofootball.com/wp-content/uploads/2023/01/Arena_Sport_4-300x169.png" group-title="⚽SPORTS⚽",Arena Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium580/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-name="Arena Premium 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Arena-1-premium_266x2001.png/revision/latest/scale-to-width-down/300?cb=20221111133001" group-title="⚽SPORTS⚽",Arena Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium134/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-name="Arena Premium 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Arena-2-premium_266x2001.png/revision/latest/scale-to-width-down/300?cb=20221111133122" group-title="⚽SPORTS⚽",Arena Premium 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium135/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-id="ArenaPremium3.rs" tvg-name="Arena Premium 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Arena-3-premium_480x2701.png/revision/latest/scale-to-width-down/300?cb=20221111133207" group-title="⚽SPORTS⚽",Arena Premium 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium139/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 BiH" tvg-logo="https://ewsat.com/img/ARENA_SPORT_1.png" group-title="⚽SPORTS⚽",Arena Sport 1 BiH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/ddy4/premium1/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 
 #######################################################################################################################################################################
@@ -5141,35 +5170,6 @@ https://asrazunifi.ddns.net:8443/ikim.m3u8
 #EXTINF:-1, group-title="RADIO" tvg-id="CHN" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-#######################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="Arena Sport 1" tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="⚽SPORTS⚽",Arena Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium429/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="⚽SPORTS⚽",Arena Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium430/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="Arena Sport 3" tvg-logo="https://ewsat.com/img/ARENA_SPORT_3.png" group-title="⚽SPORTS⚽",Arena Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium431/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="Arena Sport 4" tvg-logo="https://www.rofootball.com/wp-content/uploads/2023/01/Arena_Sport_4-300x169.png" group-title="⚽SPORTS⚽",Arena Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium580/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-name="Arena Premium 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Arena-1-premium_266x2001.png/revision/latest/scale-to-width-down/300?cb=20221111133001" group-title="⚽SPORTS⚽",Arena Premium 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium134/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-name="Arena Premium 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Arena-2-premium_266x2001.png/revision/latest/scale-to-width-down/300?cb=20221111133122" group-title="⚽SPORTS⚽",Arena Premium 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium135/index.m3u8|referer=https://streamservicehd.click/
-
-#EXTINF:-1 tvg-id="ArenaPremium3.rs" tvg-name="Arena Premium 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Arena-3-premium_480x2701.png/revision/latest/scale-to-width-down/300?cb=20221111133207" group-title="⚽SPORTS⚽",Arena Premium 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium139/index.m3u8|referer=https://streamservicehd.click/
 
 #####################################################################ASTRO###############################################################################
 
