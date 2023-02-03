@@ -4213,7 +4213,11 @@ https://newtest.webtv1.lol/ddyx2/premium94/tracks-v1a1/mono.m3u8|referer=https:/
 
 #EXTINF:-1 tvg-id="beINSports5" group-title="⚽SPORTS⚽" ch-number="808" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s10.flowerscast.com:999/hls/bein5arab-13444.ts|referer=https://gocast2.com/
+https://s13.flowerscast.com:999/hls/bein5arab.m3u8?md5=3WAZWwSojyRrQIRSEm2ZSw&expires=1675428317|referer=https://gocast2.com/
+
+#EXTINF:-1 tvg-id="beINSports6" group-title="⚽SPORTS⚽" ch-number="808" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://s3.flowerscast.com:999/hls/bein6arab.m3u8?md5=kUM8VIO14NssckcRDP3obg&expires=1675427484|referer=https://gocast2.com/
 
 #EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-logo="https://i.ibb.co/t8xJLsf/Xtra-modified.png" group-title="⚽SPORTS⚽",BeINSports Extra
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
