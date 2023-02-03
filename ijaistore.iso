@@ -4258,7 +4258,21 @@ https://newtest.webtv1.lol/cnl/premium402/tracks-v1/mono.m3u8|referer=https://st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/ddy2/premium403/tracks-v1a1/mono.m3u8|referer=https://olacast.live/
 
+#EXTINF:-1 tvg-id="elevenssport1" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic357.jpg", Eleven Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/ddy4/premium71/tracks-v1a1/mono.m3u8|referer=https://olacast.live/
 
+#EXTINF:-1 tvg-id="elevenssport2" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic358.jpg", Eleven Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/ddy4/premium71/tracks-v1a1/mono.m3u8|referer=https://olacast.live/
+
+#EXTINF:-1 tvg-id="elevenssport3" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic582.jpg", Eleven Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/ddy2/premium428/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=428
+
+#EXTINF:-1 tvg-id="elevenssport4" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic527.jpg", Eleven Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/ddy4/premium5/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 
 
