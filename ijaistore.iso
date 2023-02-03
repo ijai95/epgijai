@@ -4205,43 +4205,50 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 #EXTINF:-1 tvg-id="819" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png",beINSports 3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-
-
 #EXTINF:-1 tvg-id="beINSports4" group-title="⚽SPORTS⚽" ch-number="809" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/ddyx2/premium94/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
-#EXTINF:-1 tvg-id="beINSports5" group-title="⚽SPORTS⚽" ch-number="808" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 5
+#EXTINF:-1 tvg-id="beINSports5" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s13.flowerscast.com:999/hls/bein5arab.m3u8|referer=https://gocast2.com/
+https://s13.flowerscast.com:999/hls/bein5arab.m3u8?md5=3WAZWwSojyRrQIRSEm2ZSw&expires=1675428317|referer=https://gocast2.com/
 
-#EXTINF:-1 tvg-id="beINSports6" group-title="⚽SPORTS⚽" ch-number="808" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 6
+#EXTINF:-1 tvg-id="beINSports6" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s3.flowerscast.com:999/hls/bein6arab.m3u8|referer=https://gocast2.com/
+https://s3.flowerscast.com:999/hls/bein6arab.m3u8?md5=kUM8VIO14NssckcRDP3obg&expires=1675427484|referer=https://gocast2.com/
+
+#EXTINF:-1 tvg-id="bluesport1" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://tvprofil.com/img/kanali-logo/Blue_Sport_1_CH_logo.png", Blue Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/ddy4/premium20/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="bluesport1" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://tvprofil.com/img/kanali-logo/Blue_Sport_1_CH_logo.png", Blue Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/ddy4/premium27/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="bundesliga1" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Sport_Bundesliga_1_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_1_DE_Logo_2020.svg.png", SkySport Bundesliga 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/ddyx2/premium558/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=558
+
+#EXTINF:-1 tvg-id="bundesliga2" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/8/86/Sky_Sport_Bundesliga_2_Logo_2020.png", SkySport Bundesliga 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/ddy4/premium3/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="bundesliga3" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/de/Sky_Sport_Bundesliga_3_Logo_2020.png", SkySport Bundesliga 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/ddy4/premium3/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="bundesliga4" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/f6/Sky_Sport_Bundesliga_4_Logo_2020.png", SkySport Bundesliga 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/ddy4/premium5/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="bundesliga5" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/cd/Sky_Sport_Bundesliga_5_Logo_2020.png", SkySport Bundesliga 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/ddy4/premium6/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+
+
 
 #EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-logo="https://i.ibb.co/t8xJLsf/Xtra-modified.png" group-title="⚽SPORTS⚽",BeINSports Extra
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/fGGJn68/Desain-tanpa-judul-39-modified.png",BeinSports Premium 1 
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium98/index.m3u8
-# http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/109
-# https://networkbest.ru.com/cdn/premium99/playlist.m3u8|referer=https://player.licenses4.me/
-
-#EXTINF:-1 tvg-id="beINSportsPremium2.qa" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/9hRWGp2/Desain-tanpa-judul-40-modified-1.png",BeinSports Premium 2 
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium99/index.m3u8
-# https://networkbest.ru.com/cdn/premium99/playlist.m3u8|referer=https://player.licenses4.me/
-# http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/280145
-
-#EXTINF:-1 tvg-id="beINSportsPremium3.qa" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/T2qGK1k/Desain-tanpa-judul-41-modified.png",BeinSports Premium 3 
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium100/index.m3u8
-# https://networkbest.ru.com/cdn/premium100/playlist.m3u8|referer=https://player.licenses4.me/
-# http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/280249
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/YfkCfwq/Desain-tanpa-judul-36-modified.png", beINSports English 1 
 #EXTVLCOPT:http-referrer=https://olacast.live/
@@ -4252,7 +4259,6 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/F8NHsWC/Desain-tanpa-judul-38-modified.png", beINSports English 2  
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://175.107.244.52:4457/play/a06z/index.m3u8
-
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/4jmb5ws/Desain-tanpa-judul-37-modified.png", beINSports English 3  
 #EXTVLCOPT:http-referrer=https://olacast.live/
