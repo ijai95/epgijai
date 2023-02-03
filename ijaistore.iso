@@ -3787,16 +3787,7 @@ http://208.86.19.13:81/10.stream/index.m3u8
 #EXTINF:-1 tvg-id="CHN" tvg-name="MY: ZooMoo Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg" group-title="KIDS",ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-
-
-
-
 #######################################################################################################################################################################
-
-##################
-
-
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4006,13 +3997,9 @@ https://aqfadtv.xyz/live/arena2/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.webtv1.lol/ddy1/premium123/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png", 811 Astro SuperSport 1/2
+#EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png", 811 Astro SuperSport 1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.webtv1.lol/ddy1/premium43/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
-
-#EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png", 811 Astro SuperSport 4/2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-https://no2.webtv1.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 #EXTINF:-1 tvg-id="701" group-title="⚽SPORTS⚽"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848", 701 Unifi Sports 1 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -4031,6 +4018,10 @@ https://webudi.webtv1.lol/lb/premium125/index.m3u8|referer=https://widevine.lice
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4 HD" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/tKj8ZG9/Desain-tanpa-judul-7-modified.png", 814 Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.webtv1.lol/ddy1/premium126/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png", 811 Astro SuperSport 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://no2.webtv1.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 #EXTINF:-1 tvg-id="815" tvg-logo="https://i.ibb.co/dGvfNvs/Desain-tanpa-judul-8-modified.png" group-title="⚽SPORTS⚽", 815  Astro Supersport 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
@@ -5165,19 +5156,19 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #######################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="Arena Sport 1" tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="⚽SPORTS⚽",Arena Sport 1
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="Arena Sport 1" tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="⚽SPORTS⚽",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium429/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="⚽SPORTS⚽",Arena Sport 2
+#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="⚽SPORTS⚽",Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium430/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="Arena Sport 3" tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="⚽SPORTS⚽",Arena Sport 3
+#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="Arena Sport 3" tvg-logo="https://ewsat.com/img/ARENA_SPORT_3.png" group-title="⚽SPORTS⚽",Arena Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium431/index.m3u8|referer=https://streamservicehd.click/
 
-#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="Arena Sport 4" tvg-logo="https://dl.dropboxusercontent.com/s/v43y2sxoikzhq6z/arenasport.png" group-title="⚽SPORTS⚽",Arena Sport 4
+#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="Arena Sport 4" tvg-logo="https://www.rofootball.com/wp-content/uploads/2023/01/Arena_Sport_4-300x169.png" group-title="⚽SPORTS⚽",Arena Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium580/index.m3u8|referer=https://streamservicehd.click/
 
