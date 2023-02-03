@@ -4250,25 +4250,13 @@ https://newtest.webtv1.lol/ddy2/premium400/tracks-v1a1/mono.m3u8|referer=https:/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/ddy2/premium401/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=401
 
-#EXTINF:-1 tvg-id="digisport3" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Digi_Sport_3_2012.svg/revision/latest?cb=20210717135429", Digi Sport 3
+#EXTINF:-1 tvg-id="digisport3" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Digi_Sport_1.svg/revision/latest/scale-to-width-down/200?cb=20210428195024", Digi Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/cnl/premium402/tracks-v1/mono.m3u8|referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=402
 
 #EXTINF:-1 tvg-id="digisport4" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f7/Digi_Sport_4_%282015-.n.v.%29.png/revision/latest?cb=20180919155639", Digi Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/ddy2/premium403/tracks-v1a1/mono.m3u8|referer=https://olacast.live/
-
-#EXTINF:-1 tvg-id="DirectvSport1" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png", Directv Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://edge2.zorrohd5.xyz/live/ST7d3a7eaf311017c.m3u8|referer=https://www.tutelehd.com/embed.php?&a=6&s=7d0n5n41bpo5l4qpmaqjr7ordi&ip=15.235.184.246&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F109.0.0.0+Safari%2F537.36&referer=https%3A%2F%2Fpaktech2.com%2F
-
-#EXTINF:-1 tvg-id="DirectvSport2" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg", Directv Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://edge1.zorrohd5.xyz/live/STb1119e4f55680b3.m3u8|referer=https://www.tutelehd.com/embed.php?&a=7&s=rlom9llne6gmn27044jsbblt0p&ip=15.235.184.246&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F109.0.0.0+Safari%2F537.36&referer=https%3A%2F%2Fpaktech2.com%2F
-
-#EXTINF:-1 tvg-id="DirectvSport3" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg", Directv Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://edge1.zorrohd5.xyz/live/ST77463e39ab6cf2e.m3u8|referer=https://www.tutelehd.com/embed.php?&a=8&s=76chnp12rsoonrm0mb521fdnjn&ip=15.235.184.246&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F109.0.0.0+Safari%2F537.36&referer=https%3A%2F%2Fpaktech2.com%2F
 
 
 
