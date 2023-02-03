@@ -26,34 +26,10 @@
 #EXTINF:-1 group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://i.ytimg.com/vi/8uef2k0T1ZI/hqdefault.jpg", tvg-name="Store" group-title="!!!❤️JepStore ❤️!!!",Welcome To Jepstore
 https://rr1---sn-npoeenez.googlevideo.com/videoplayback?expire=1673802111&ei=H93DY6yWJoqxkgaHzYnYCg&ip=205.185.223.97&id=c1dv7ZODBCs.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&spc=zIddbNCFpCHQNChJqfvla10vxww6Tnc&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=Pxp5xH-3F9bE0cetMHO0aZgK&gir=yes&keepalive=yes&fexp=24007246&c=WEB&n=NEc9w0Hzne2lFg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgaoytEMwIQ1GCLWseUgx9rxrCSxMP_HNVlYcv3ECNchMCIQDYzrjfckSDTVRbCrLhLaFaxgno0H9g7kOjSKbWNom_pg%3D%3D&redirect_counter=1&cm2rm=sn-nx5s67z&req_id=9dd91f437be6a3ee&cms_redirect=yes&mh=Cw&mip=2404:160:8132:703c:cd18:51b0:e1af:a5ec&mm=38&mn=sn-npoeenez&ms=lltf&mt=1673780190&mv=m&mvi=1&pl=42&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAMuwcUFU4TnK2XJDddAGDajWR2CkK7dBNzHEMzgU11fSAiAtms6VSsiXkfTELNQHDklYBm9ogK27tfJN5cupKzt2Uw%3D%3D
 
-########################################################AFF CUP#################################################################################################
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=f5158194cc4044e699d0df01772f2212&key=072e611a383a2d1e3d4d8ea19e016a71
-#EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="🏆AFF CUP" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://i.ibb.co/6BP7TRZ/AFF-Cup-2022-logo-svg.png",AFF CH01
-https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="🏆AFF CUP" tvg-logo="https://i.ibb.co/6BP7TRZ/AFF-Cup-2022-logo-svg.png",AFF CH02
-https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-#EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="🏆AFF CUP" tvg-logo="https://i.ibb.co/6BP7TRZ/AFF-Cup-2022-logo-svg.png",AFF CH03
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
-#EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.ibb.co/6BP7TRZ/AFF-Cup-2022-logo-svg.png" group-title="🏆AFF CUP", AFF CH04
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-http://iptv12k.com:35461/live/80203091402/213445/13547.m3u8
-
-
 ###########################################################################SPORTS################################################################################
 
 
-#EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
@@ -176,7 +152,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 #EXTINF:-1 tvg-id="CHN" ch-number="CHN" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png" radio="true" group-title="MALAYSIA",Selangor TV
 https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
-#EXTINF:-1 tvg-id="122" ch-number="122" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png",TVS Sarawak
+#EXTINF:-1 tvg-id="122" ch-number="122" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png",122 TVS Sarawak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
@@ -184,17 +160,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
-#EXTINF:-1 tvg-id="118" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/tpJfQ9x/Unifi-Inspirasi.png",Hypp Inspirasi
+#EXTINF:-1 tvg-id="118" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/tpJfQ9x/Unifi-Inspirasi.png",118 Hypp Inspirasi
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-#EXTINF:-1  tvg-id="116" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/Zm25L8D/Unifi-Sensasi.png",Hypp Sensasi
+#EXTINF:-1  tvg-id="116" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/Zm25L8D/Unifi-Sensasi.png",116 Hypp Sensasi
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
-#EXTINF:-1 tvg-id="120" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/r42DCKG/20190716074123890vav.png",Hypp Degup
+#EXTINF:-1 tvg-id="120" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/r42DCKG/20190716074123890vav.png",120 Hypp Degup
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3994,13 +3970,6 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #######################################################################################################################################################################
 
-#######################
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="CHN" group-title="⚽SPORTS⚽" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://i.ibb.co/yq8zZwR/unnamed.png",MediaCorp MeWatch
@@ -4036,6 +4005,10 @@ https://aqfadtv.xyz/live/arena2/index.mpd
 #EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png", 811 Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.webtv1.lol/ddy1/premium123/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png", 811 Astro SuperSport 1//2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://no2.webtv1.lol/ddy1/premium43/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 #EXTINF:-1 tvg-id="701" group-title="⚽SPORTS⚽"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848", 701 Unifi Sports 1 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
