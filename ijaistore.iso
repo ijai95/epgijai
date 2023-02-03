@@ -3971,12 +3971,12 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="RTMK04" tvg-name="TV SUKAN" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/HphXBMH/Sukan-RTM-1-April-removebg-preview.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
 
-#EXTINF:-1 tvg-id="801" ch-number="AstroArena" group-title="⚽SPORTS⚽" ch-number="801" tvg-logo="https://i.ibb.co/H79rWh4/arena-Telecast4-Web-modified.png", 801 Astro Arena 
+#EXTINF:-1 tvg-id="801" ch-number="AstroArena" group-title="⚽SPORTS⚽" ch-number="801" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic631.jpg", 801 Astro Arena 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroArena" group-title="⚽SPORTS⚽" ch-number="801" tvg-logo="https://i.ibb.co/H79rWh4/arena-Telecast4-Web-modified.png", 801 Astro Arena
+#EXTINF:-1 tvg-id="AstroArena" group-title="⚽SPORTS⚽" ch-number="801" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic631.jpg", 801 Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
@@ -3993,11 +3993,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 #EXTINF:-1 tvg-id="802" tvg-logo="https://i.ibb.co/k8BdXZr/80-modified.png" group-title="⚽SPORTS⚽", 802 Astro Arena 2 
 https://aqfadtv.xyz/live/arena2/index.mpd
 
-#EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png", 811 Astro SuperSport 1
+#EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic431.jpg", 811 Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.webtv1.lol/ddy1/premium123/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png", 811 Astro SuperSport 1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic431.jpg", 811 Astro SuperSport 1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.webtv1.lol/ddy1/premium43/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
@@ -4007,23 +4007,23 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 group-title="⚽SPORTS⚽" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109", 702 Unifi Sports 2 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2 HD" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/RCTSn6n/Desain-tanpa-judul-5-modified.png", 812 Astro SuperSport 2 
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2 HD" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic624.jpg", 812 Astro SuperSport 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.webtv1.lol/ddy1/premium124/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="813" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/N9BVfKB/Desain-tanpa-judul-6-modified.png", 813 Astro SuperSport 3
+#EXTINF:-1 tvg-id="813" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic384.jpg", 813 Astro SuperSport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://webudi.webtv1.lol/lb/premium125/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4 HD" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/tKj8ZG9/Desain-tanpa-judul-7-modified.png", 814 Astro SuperSport 4
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4 HD" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic433.jpg", 814 Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.webtv1.lol/ddy1/premium126/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png", 814 Astro SuperSport 4 
+#EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic433.jpg", 814 Astro SuperSport 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.webtv1.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
-#EXTINF:-1 tvg-id="815" tvg-logo="https://i.ibb.co/dGvfNvs/Desain-tanpa-judul-8-modified.png" group-title="⚽SPORTS⚽", 815  Astro Supersport 5 
+#EXTINF:-1 tvg-id="815" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic623.jpg" group-title="⚽SPORTS⚽", 815  Astro Supersport 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://no2.webtv1.lol/ddy1/premium43/index.m3u8?
 
@@ -4049,62 +4049,37 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 #EXTINF:-1 tvg-id="AOTGLive3" ch-number="808" group-title="⚽SPORTS⚽" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png", 808 Astro Go Live Event 3 
 # https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
-#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://i.ibb.co/k1X1mz8/Desain-tanpa-judul-2022-09-22-T102622-290-modified.png" group-title="⚽SPORTS⚽",ESPN 1 vivo
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/akuniapa
-https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
-
-#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-logo="https://i.ibb.co/k1X1mz8/Desain-tanpa-judul-2022-09-22-T102622-290-modified.png" group-title="⚽SPORTS⚽",ESPN 2 vivo
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
-https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
-
-#EXTINF:-1 tvg-id="ESPN3Argentina.ar" tvg-logo="https://i.ibb.co/k1X1mz8/Desain-tanpa-judul-2022-09-22-T102622-290-modified.png" group-title="⚽SPORTS⚽",ESPN 3 vivo
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
-https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
-
-#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png" group-title="⚽SPORTS⚽", ESPN Extra
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
-
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="⚽SPORTS⚽", ESPN Premium
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f48f9e79f54b38d619fd25565c4d14b:02828e6346a46e61e965202cd8787e3a
-https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
-
 #EXTINF:-1 tvg-id="DAZNLaLigaSpain.uk" group-title="⚽SPORTS⚽" tvg-logo="https://bit.ly/3SpOwV9",Dazn La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN1Spain.uk" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-Sports-modified.png", Dazn 1 Es
+#EXTINF:-1 tvg-id="DAZN1Spain.uk" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic521.jpg", Dazn 1 Es
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN2Spain.uk" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-Sports-modified.png", Dazn 2 Es
+#EXTINF:-1 tvg-id="DAZN2Spain.uk" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic522.jpg", Dazn 2 Es
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZNF1.es" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-Sports-modified.png", Dazn F1 Es
+#EXTINF:-1 tvg-id="DAZNF1.es" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic459.jpg", Dazn F1 Es
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN1Denmark.de" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-Sports-modified.png", Dazn 1 De
+#EXTINF:-1 tvg-id="DAZN1Denmark.de" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic520.jpg", Dazn 1 De
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN2Denmark.de" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-Sports-modified.png", Dazn 2 De
+#EXTINF:-1 tvg-id="DAZN2Denmark.de" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic547.jpg", Dazn 2 De
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
@@ -4112,16 +4087,16 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2100
-#EXTINF:-1 tvg-id="820" tvg-logo="https://i.ibb.co/0sDKNYn/Desain-tanpa-judul-46-modified.png" group-title="⚽SPORTS⚽",Eurosport Asia
+#EXTINF:-1 tvg-id="820" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic214.jpg" group-title="⚽SPORTS⚽",Eurosport Asia
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Eurosport1UK.uk" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/0sDKNYn/Desain-tanpa-judul-46-modified.png", Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport1UK.uk" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic213.jpg", Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-027/stream.mpd
 
-#EXTINF:-1 tvg-id="Eurosport2UK.uk" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/0sDKNYn/Desain-tanpa-judul-46-modified.png", Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport2UK.uk" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic214.jpg", Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
