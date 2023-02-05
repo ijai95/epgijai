@@ -4135,9 +4135,7 @@ https://bcovlive-a.akamaihd.net/c9053e496b884f45806493074da15f6e/ap-northeast-1/
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
 #EXTINF:-1 tvg-id="beINSports1Indonesia.id" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/d55Yhf3/Desain-tanpa-judul-11-modified.png",beINSports 1 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+https://no2.onlinewebtv.lol/ddy1/premium62/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
@@ -4151,11 +4149,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 #EXTINF:-1 tvg-id="beINSports4" group-title="⚽SPORTS⚽" ch-number="809" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/ddyx2/premium94/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+https://newtest.onlinewebtv.lol/ddyx2/premium94/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 #EXTINF:-1 tvg-id="beINSports5" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s13.flowerscast.com:999/hls/bein5arab.m3u8?md5=3WAZWwSojyRrQIRSEm2ZSw&expires=1675428317|referer=https://gocast2.com/
+https://s3.flowerscast.com:999/hls/bein5arab.m3u8?md5=-FfkRjmHIPDcx_pvM7ECBw&expires=1675623289|referer=https://gocast2.com/
 
 #EXTINF:-1 tvg-id="beINSports6" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
