@@ -250,7 +250,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna SD ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #EXTVLCOPT:http-user-agent=com.iptvlink.net
-https://tinyurl.com/2rscj3pk|referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/live/saya/saya/16580.m3u8|referer=https://iplogger.com/2VAkG5
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
@@ -4193,7 +4193,7 @@ https://newtest.webtv1.lol/ddyx2/premium48/tracks-v1a1/mono.m3u8|referer=https:/
 
 #EXTINF:-1 tvg-id="canal+sporttv2" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png", Canal + Sportv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://no2.webtv1.lol/ddy1/premium122/tracks-v1a1/mono.m3u8|referer=https://olacast.live/
+https://no2.onlinewebtv.lol/ddy1/premium122/tracks-v1a1/mono.m3u8|referer=https://olacast.live/
 
 #EXTINF:-1 tvg-id="canal+sporttv3" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Canal%2B_Sport_3_%282019-.n.v.%29.png/revision/latest?cb=20201129201855", Canal + Sportv 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
