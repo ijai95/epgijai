@@ -28,9 +28,6 @@ https://rr1---sn-npoeenez.googlevideo.com/videoplayback?expire=1673802111&ei=H93
 
 ###########################################################################SPORTS################################################################################
 
-#EXTINF:-1 group-title="JDT VS ZENIT" ch-number="105" tvg-id="105" tvg-chno="105" group-logo="https://i.ytimg.com/vi/aDIqqqoBHxU/maxresdefault.jpg" tvg-logo="https://i.ytimg.com/vi/aDIqqqoBHxU/maxresdefault.jpg", JDT VS ZENIT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675715523/ei/Yw_hY6ipEKbGjQTPj5mIBg/ip/34.170.76.124/id/aefCgsJ1iVg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQDa2K7PSBE8YKNxP7JY9TAN852pV-2IRfGtkWbYXzNwCIC1lvsDknoysBDXpOmMoCPhmQlUbSI_byhiKvzcQ_w5F/file/index.m3u8
-
 #EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
@@ -4330,11 +4327,21 @@ https://newtest.webtv1.lol/ddy6/premium144/tracks-v1a1/mono.m3u8|referer=https:/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/ddy6/premium145/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
+#EXTINF:-1 tvg-id="laliga1.fr" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic535.jpg", La Liga 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://no2.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
+#EXTINF:-1 tvg-id="laliga2.fr" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic506.jpg", La Liga 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.onlinewebtv.lol/ddy4/premium15/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
+#EXTINF:-1 tvg-id="laligasmartbank.fr" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic506.jpg", La Liga SmartBank
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.onlinewebtv.lol/ddy6/premium539/tracks-v1a1/mono.m3u8|referer=https://olacast.live/
 
-
-
+#EXTINF:-1 tvg-id="laligatv.fr" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic282.jpg", La Liga TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://s16.flowerscast.com:999/hls/laligauk-3171.ts|referer=https://gocast2.com/
 
 
 
