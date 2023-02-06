@@ -2840,7 +2840,7 @@ https://aqfadtv.xyz/live/hbo/index.mpd
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" group-title="MOVIES" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png",HBO (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #EXTINF:-1 tvg-id="411" ch-number="411" group-title="MOVIES" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png",HBO HD(TWN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
