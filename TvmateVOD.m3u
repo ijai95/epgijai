@@ -28,7 +28,6 @@ https://rr1---sn-npoeenez.googlevideo.com/videoplayback?expire=1673802111&ei=H93
 
 ###########################################################################SPORTS################################################################################
 
-
 #EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
@@ -250,7 +249,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna SD ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #EXTVLCOPT:http-user-agent=com.iptvlink.net
-https://tinyurl.com/2rscj3pk|referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/live/saya/saya/16580.m3u8|referer=https://iplogger.com/2VAkG5
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
@@ -4193,7 +4192,7 @@ https://newtest.webtv1.lol/ddyx2/premium48/tracks-v1a1/mono.m3u8|referer=https:/
 
 #EXTINF:-1 tvg-id="canal+sporttv2" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png", Canal + Sportv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://no2.webtv1.lol/ddy1/premium122/tracks-v1a1/mono.m3u8|referer=https://olacast.live/
+https://no2.onlinewebtv.lol/ddy1/premium122/tracks-v1a1/mono.m3u8|referer=https://olacast.live/
 
 #EXTINF:-1 tvg-id="canal+sporttv3" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Canal%2B_Sport_3_%282019-.n.v.%29.png/revision/latest?cb=20201129201855", Canal + Sportv 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4328,11 +4327,21 @@ https://newtest.webtv1.lol/ddy6/premium144/tracks-v1a1/mono.m3u8|referer=https:/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/ddy6/premium145/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
+#EXTINF:-1 tvg-id="laliga1.fr" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic535.jpg", La Liga 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://no2.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
+#EXTINF:-1 tvg-id="laliga2.fr" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic506.jpg", La Liga 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.onlinewebtv.lol/ddy4/premium15/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
+#EXTINF:-1 tvg-id="laligasmartbank.fr" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic506.jpg", La Liga SmartBank
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://newtest.onlinewebtv.lol/ddy6/premium539/tracks-v1a1/mono.m3u8|referer=https://olacast.live/
 
-
-
+#EXTINF:-1 tvg-id="laligatv.fr" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic282.jpg", La Liga TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://s16.flowerscast.com:999/hls/laligauk.m3u8?md5=1oBHEsWny2ODbD37JVBlKg&expires=1675707503|referer=https://gocast2.com/
 
 
 
