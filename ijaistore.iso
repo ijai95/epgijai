@@ -4035,7 +4035,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
 
 #EXTINF:-1 tvg-id="astrocricket" ch-number="807" group-title="⚽SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket
-https://no2.onlinewebtv.lol/ddy1/premium370/tracks-v1a1/mono.m3u8|referer=|referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=370
+https://no2.onlinewebtv.lol/ddy1/premium370/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=370
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/9989/
