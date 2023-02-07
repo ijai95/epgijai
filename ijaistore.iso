@@ -1753,6 +1753,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_primary.mpd
 #EXTINF:-1 tvg-id="307" ch-number="AstroShuangXing" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="CHINESE",Astro Shuang Xing 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
 #EXTINF:-1 tvg-id="308" ch-number="AstroQuanJiaHD" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Astro Quan Jia 
