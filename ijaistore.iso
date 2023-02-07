@@ -3475,9 +3475,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default.mpd
 https://wildearth-roku.amagi.tv/masterR1080p.m3u8
 
 #EXTINF:-1 tvg-id="551" group-title="DOCUMENTARY" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",National Geographic (MY)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/600
-http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_primary.mpd
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://av-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic HD" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
