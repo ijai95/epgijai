@@ -4033,6 +4033,12 @@ https://no2.onlinewebtv.lol/ddy1/premium43/tracks-v1/mono.m3u8|referer=https://e
 #EXTINF:-1 tvg-id="AstroUHD.my" tvg-name="Astro UHD" group-title="⚽SPORTS⚽" tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png", 805 Astro Supersport UHD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2504/
+#EXTINF:-1 tvg-id="astrocricket" ch-number="807" group-title="⚽SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/9989/
 #EXTINF:-1 tvg-id="AOTGLive1" ch-number="806" group-title="⚽SPORTS⚽" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png", 806  Astro GO Live Event 1 
