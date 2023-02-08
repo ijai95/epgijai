@@ -111,6 +111,11 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
+
+#EXTINF:-1 tvg-id="611" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria 1
+https://hls.ustream.to/Astro-Ceria.m3u8?token=699-b6e-268-8e5-36d-a30-912-0fa-730-bcc-57b-91b-891-365-af8-364-662-fc0-787-e54-fe2-1|Referer=https://www.ustream.to/
+
+
 #EXTINF:-1 tvg-id="146" tvg-name="TV Okey" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", 146 Okey ⁽ˢᵉʳᵛᵉʳ ¹⁾
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
