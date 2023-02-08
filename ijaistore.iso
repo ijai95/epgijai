@@ -73,7 +73,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png", 105 Drama Sangat
-http://w.nasvpn.xyz:8080/live/saya/saya/3290.m3u8referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/live/saya/saya/3290.m3u8|referer=https://iplogger.com/2VAkG5
 
 #EXTINF:-1 tvg-id="147" tvg-name="147 NTV7" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png", 147 DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
