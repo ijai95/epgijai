@@ -111,6 +111,11 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
+
+#EXTINF:-1 tvg-id="611" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria 1
+https://hls.ustream.to/Astro-Ceria.m3u8?token=699-b6e-268-8e5-36d-a30-912-0fa-730-bcc-57b-91b-891-365-af8-364-662-fc0-787-e54-fe2-1|Referer=https://www.ustream.to/
+
+
 #EXTINF:-1 tvg-id="146" tvg-name="TV Okey" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", 146 Okey ⁽ˢᵉʳᵛᵉʳ ¹⁾
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
@@ -248,8 +253,9 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna SD ⁽ˢᵉʳᵛᵉʳ ¹⁾
-#EXTVLCOPT:http-user-agent=com.iptvlink.net
-http://w.nasvpn.xyz:8080/live/saya/saya/16580.m3u8|referer=https://iplogger.com/2VAkG5
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+https://tinyurl.com/5n6cd6bt|referer=https://iplogger.com/2VAkG5
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
@@ -272,7 +278,7 @@ https://stream.zeehanzgadget.com/citra
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
-#EXTVLCOPT:http-user-agent=com.iptvlink.net
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
 https://tinyurl.com/jj9ccxbh|referer=https://iplogger.com/2VAkG5
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="Karisma.id" tvg-name="Karisma" tvg-logo="https://i.imgur.com/3aJagfR.png",Karisma
@@ -1752,6 +1758,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2403
 #EXTINF:-1 tvg-id="307" ch-number="AstroShuangXing" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="CHINESE",Astro Shuang Xing 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
@@ -3465,16 +3472,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="502" tvg-name="Love Nature HD" group-title="DOCUMENTARY" tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png",Love Nature 
-http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="502" tvg-name="Love Nature HD" group-title="DOCUMENTARY" tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png",Love Nature 4K
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kMSqd9f/504-5041014-transparent-background-wild-earth-calligraphy-hd-png-download.png" group-title="DOCUMENTARY",Wild Earth
 https://wildearth-roku.amagi.tv/masterR1080p.m3u8
 
 #EXTINF:-1 tvg-id="551" group-title="DOCUMENTARY" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",National Geographic (MY)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/600
-http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_primary.mpd
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://av-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic HD" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3990,7 +4003,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
 #EXTINF:-1 tvg-id="802" tvg-logo="https://i.ibb.co/k8BdXZr/80-modified.png" group-title="⚽SPORTS⚽", 802 Astro Arena 2 
-https://aqfadtv.xyz/live/arena2/index.mpd
+https://linears-playback.astro.com.my/dash-wv/5057/default_primary.mpd
 
 #EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic431.jpg", 811 Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
@@ -4029,20 +4042,16 @@ https://no2.onlinewebtv.lol/ddy1/premium43/tracks-v1/mono.m3u8|referer=https://e
 #EXTINF:-1 tvg-id="AstroUHD.my" tvg-name="Astro UHD" group-title="⚽SPORTS⚽" tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png", 805 Astro Supersport UHD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/9989/
-#EXTINF:-1 tvg-id="AOTGLive1" ch-number="806" group-title="⚽SPORTS⚽" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png", 806  Astro GO Live Event 1 
-# https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/9988/
-#EXTINF:-1 tvg-id="AOTGLive2" ch-number="807" group-title="⚽SPORTS⚽" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png", 807 Astro GO Live Event 2 
-# https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
+#EXTINF:-1 tvg-id="astrocricket" ch-number="807" group-title="⚽SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket
+https://no2.onlinewebtv.lol/ddy1/premium370/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=370
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/9987/
-#EXTINF:-1 tvg-id="AOTGLive3" ch-number="808" group-title="⚽SPORTS⚽" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png", 808 Astro Go Live Event 3 
-# https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
+#EXTINF:-1 tvg-id="astrocricket" ch-number="807" group-title="⚽SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 #EXTINF:-1 tvg-id="DAZNLaLigaSpain.uk" group-title="⚽SPORTS⚽" tvg-logo="https://bit.ly/3SpOwV9",Dazn La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -5148,9 +5157,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
-#EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="ASTRO",Astro Prima
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",105 Astro Prima 
+https://aqfadtv.xyz/live/prima/index.mpd
 
 #EXTINF:-1 tvg-id="108" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5170,13 +5180,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 https://aqfadtv.xyz/live/ria/index.mpd
 
-#EXTINF:-1 group-title="ASTRO" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",Astro Sensasi
-#EXTVLCOPT:http-user-agent=com.iptvlink.net
+#EXTINF:-1 group-title="ASTRO" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
 https://tinyurl.com/jj9ccxbh|referer=https://iplogger.com/2VAkG5
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/JCn7Yd0.png",Astro Warna SD
-#EXTVLCOPT:http-user-agent=com.iptvlink.net
-https://tinyurl.com/2rscj3pk|referer=https://iplogger.com/2VAkG5
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna SD ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+https://tinyurl.com/5n6cd6bt|referer=https://iplogger.com/2VAkG5
 
 #EXTINF:-1 tvg-id="AstroAEC.my" ch-number="AstroAEC" tvg-logo="https://i.ibb.co/ZNGPbCN/Astro-AEC.png" group-title="ASTRO",Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5320,4 +5331,4 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
 <script type="text/javascript">window.location = "https://linktr.ee/cloudse7en" </script>
 
-#EXTM3U billed-msg="V1.7 FIX WARNA,SENSASI,ALL SUPERSPORT, AURA, RANIA"<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>
+#EXTM3U billed-msg="V2.0 FIX ASTRO PRIMA, WARNA, SENSASI "<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>
