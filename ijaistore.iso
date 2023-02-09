@@ -5180,13 +5180,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 https://aqfadtv.xyz/live/ria/index.mpd
 
-#EXTINF:-1 group-title="ASTRO" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",Astro Sensasi
-#EXTVLCOPT:http-user-agent=com.iptvlink.net
-https://tinyurl.com/4yws9y75|referer=https://iplogger.com/2VAkG5
-
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/JCn7Yd0.png",Astro Warna SD
+#EXTINF:-1 group-title="ASTRO" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
-https://tinyurl.com/2rscj3pk|referer=https://iplogger.com/2VAkG5
+https://tinyurl.com/jj9ccxbh|referer=https://iplogger.com/2VAkG5
+
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna SD ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+https://tinyurl.com/5n6cd6bt|referer=https://iplogger.com/2VAkG5
 
 #EXTINF:-1 tvg-id="AstroAEC.my" ch-number="AstroAEC" tvg-logo="https://i.ibb.co/ZNGPbCN/Astro-AEC.png" group-title="ASTRO",Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
