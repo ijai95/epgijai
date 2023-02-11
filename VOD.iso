@@ -52,7 +52,7 @@ https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/EP12.mkv&raw=true&ty
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Mechamato/%5Bon9.stream%5DMechamato.2021.S01E13.1080p.WEB-DL.x264.AAC-Pipe.mkv
 
 #######################################################POPEYE################################################################
-#EXTINF-1 type="Movies" group-title="1111" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYyNmE4OWUtNDdlNi00MDY5LWIxYmItMGM0MTI5MDQ0NTBiXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",1111
+#EXTINF-1 type="movie" group-title="1111" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYyNmE4OWUtNDdlNi00MDY5LWIxYmItMGM0MTI5MDQ0NTBiXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",1111
 https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/ca98ada9-d930-562a-b171-d579ed154789/default_dash.mpd
 
 
