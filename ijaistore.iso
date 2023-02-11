@@ -4270,11 +4270,11 @@ https://newtest.webtv1.lol/ddy4/premium10/tracks-v1a1/mono.m3u8|referer=https://
 
 #EXTINF:-1 tvg-id="Sonyten1" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic218.jpg", Sony Ten 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://vcp1.123ecast.me:8017/view/hls/NWtUZMSLzcmsw2ovOyG59w/1675487820/ten1endia.m3u8|referer=https://123ecast.me/
+https://vcp1.123ecast.xyz:8017/view/hls/cE_Ao_wHorty0phtRvgRdA/1676118822/ten1endia.m3u8|referer=https://123ecast.xyz/
 
 #EXTINF:-1 tvg-id="Sonyten2" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic402.jpg", Sony Ten 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://vcp1.123ecast.me:8017/view/hls/STqmvoKqJ4B6wMbpab5llw/1675488100/ten2endia.m3u8|referer=https://123ecast.me/
+https://vcp5.123ecast.xyz:8017/view/hls/taVkB5ZpYmJJrcK3ObduoA/1676118938/ten2endia.m3u8|referer=https://123ecast.xyz/
 
 #EXTINF:-1 tvg-id="Sonyten3" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic403.jpg", Sony Ten 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4282,7 +4282,7 @@ https://vcp1.123ecast.me:8017/view/hls/STqmvoKqJ4B6wMbpab5llw/1675488100/ten2end
 
 #EXTINF:-1 tvg-id="Sonyten4" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic415.jpg", Sony Ten 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://vcp2.123ecast.me:8017/view/hls/OJcQpkLGsr2JXtUoobNVUA/1675488298/ten1endia.m3u8|referer=https://123ecast.me/
+https://vcp44.123ecast.xyz:8017/view/hls/mBWRL5K47M4RPyp7SvOM6A/1676119051/ten1endia.m3u8|referer=https://123ecast.xyz/
 
 #EXTINF:-1 tvg-id="Sonyten5" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic890.jpg", Sony Ten 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
