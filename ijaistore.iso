@@ -1268,7 +1268,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd0
 
 ================plato tv==================
 
-#EXTINF:-1 tvg-logo="https://pic.weblogographic.com/img/news/824/what-is-the-meaning-of-indian-flag_1.jpg" group-title="INDIAN" tvg-id="" tvg-name="", And Picture HD
+#EXTINF:-1 tvg-logo="https://pic.weblogographic.com/img/news/824/what-is-the-meaning-of-indian-flag_1.jpg" group-logo="https://pic.weblogographic.com/img/news/824/what-is-the-meaning-of-indian-flag_1.jpg"group-title="INDIAN" tvg-id="" tvg-name="", And Picture HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://102.222.232.18:9981/stream/channelid/1428660321?ticket=2127692198750766DE978DFBA6AB77D70E413F54&profile=matroska
 
