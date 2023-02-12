@@ -257,11 +257,6 @@ https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9JD-5cegzJ1YlOI
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
 https://tinyurl.com/jj9ccxbh|referer=https://iplogger.com/2VAkG5
 
-#EXTINF:-1 group-title="VOD MALAY" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png", REMP-IT 2
-#EXTVLCOPT:http-user-agent=com.iptvliink.net
-https://w.nasvpn.xyz:8080/movie/saya/saya/16938.mp4
-#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
-
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="Karisma.id" tvg-name="Karisma" tvg-logo="https://i.imgur.com/3aJagfR.png",Karisma
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941605&extension=ts&play_token=S5wl7uZ2iP
 
