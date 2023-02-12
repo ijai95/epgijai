@@ -28,7 +28,7 @@ https://rr1---sn-npoeenez.googlevideo.com/videoplayback?expire=1673802111&ei=H93
 
 ###########################################################################SPORTS################################################################################
 
-#EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" group-logo="https://thumbs.dreamstime.com/b/silk-malaysia-flag-malaysia-flag-over-silk-texture-168758578.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
@@ -284,7 +284,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 
 ########################################################AL-QURAN2###########################################################################################
 
-#EXTINF:-1 group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN2",[001] Surah Alfatihah (Pembukaan)
+#EXTINF:-1 group-logo="https://immimpangkep.ponpes.id/blogguru/wp-content/uploads/2021/07/istimewa-usia-3-tahun-hafidz-sudah-hafal-3-juz-alquran-2AKtkCWWPK.jpg" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN2",[001] Surah Alfatihah (Pembukaan)
 https://archive.org/download/MurotalMR/001.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN2",[002] Surah Al-Baqarah (Lembu Betina)
 https://archive.org/download/MurotalMR/002.mp3
@@ -767,7 +767,7 @@ https://archive.org/download/MurotalMR/114.mp3
 
 #######################################################################################################################################################################
 
-#EXTINF:-1 group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="AL-QURAN",سورة الفاتحة
+#EXTINF:-1 group-logo="https://immimpangkep.ponpes.id/blogguru/wp-content/uploads/2021/07/istimewa-usia-3-tahun-hafidz-sudah-hafal-3-juz-alquran-2AKtkCWWPK.jpg" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="AL-QURAN",سورة الفاتحة
 https://download.quranicaudio.com/quran/sahl_yaaseen/001.mp3
 #EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="AL-QURAN",سورة البقرة
 https://download.quranicaudio.com/quran/sahl_yaaseen/002.mp3
@@ -998,7 +998,7 @@ https://download.quranicaudio.com/quran/sahl_yaaseen/114.mp3
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
-#EXTINF:-1 tvg-id="AstroAura.my" ch-number="AstroAura" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="INDONESIA", 113 Astro Aura  
+#EXTINF:-1 tvg-id="AstroAura.my" ch-number="AstroAura" group-logo="https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/bendera-indonesia.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="INDONESIA", 113 Astro Aura  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 https://iplogger.com/aura
 
@@ -1229,7 +1229,7 @@ http://anevia114.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 
 ================plato tv==================
-#EXTINF:0 tvg-id="fear-factor" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="http://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="PLUTOTV", Fear Factor
+#EXTINF:0 tvg-id="fear-factor" group-logo="https://expressofibra.com.br/wp-content/uploads/2020/11/pluto-tv.jpg" tvg-logo="http://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="PLUTOTV", Fear Factor
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e10390-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=850dbb9a-c0a2-4802-b5ef-751b92aa3648&userId=&serverSideAds=true
 #EXTINF:0 tvg-id="pluto-tv-cult-films" tvg-logo="http://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="PLUTOTV", Pluto TV Cult Films
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e2ff6a-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2faa7b27-6dbe-4f4d-b0ad-80253d8e4427&userId=&serverSideAds=true
@@ -1268,7 +1268,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd0
 
 ================plato tv==================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" group-title="INDIAN" tvg-id="" tvg-name="", And Picture HD
+#EXTINF:-1 tvg-logo="https://https://media.istockphoto.com/id/512185437/photo/indias-flag-close-up.jpg?s=612x612&w=0&k=20&c=ndMmdJY9qsL4f_dJBSDbPjD213GD5s_YcZAJK8z2uTQ=" group-title="INDIAN" tvg-id="" tvg-name="", And Picture HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://102.222.232.18:9981/stream/channelid/1428660321?ticket=2127692198750766DE978DFBA6AB77D70E413F54&profile=matroska
 
@@ -1678,7 +1678,7 @@ http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 
 #######################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="303" ch-number="303" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" group-title="CHINESE" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png",303 Go Shop 2
+#EXTINF:-1 tvg-id="303" ch-number="303" group-logo="https://www.morningstar.co.uk/static/UploadManager/Assets/China%20flag%20Winter%20Olympics%202022%20article.jpg" group-title="CHINESE" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png",303 Go Shop 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1005
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
@@ -2022,7 +2022,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 ##############################################################################jepon###################################################################################
 
 
-#EXTINF:-1 group-title="JEPUN" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="",BS日テレ
+#EXTINF:-1 group-title="JEPUN" group-logo="https://as1.ftcdn.net/v2/jpg/01/71/36/88/1000_F_171368815_pGvMFqGCGxNJUP8U5U3PAW4fLRDeTr39.jpg" tvg-logo="",BS日テレ
 http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
 #EXTINF:-1 group-title="JEPUN" tvg-logo="",BSTBS
 http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
@@ -2083,7 +2083,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
 #########################################################################hongkonng##########################################################################
 
-#EXTINF:0 group-title="HONGKONG" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://lh3.googleusercontent.com/--LjxdM2YyhA/Y0KqSAh8OgI/AAAAAAAAB1o/KBYeXNi2tlo2fOAP7ZPVWz_MEikDEsWHACNcBGAsYHQ/s1600/1665313350332554-1.png",FTV General 
+#EXTINF:0 group-title="HONGKONG" group-logo="https://c4.wallpaperflare.com/wallpaper/263/59/619/flags-flag-of-hong-kong-flag-hd-wallpaper-preview.jpg" tvg-logo="https://lh3.googleusercontent.com/--LjxdM2YyhA/Y0KqSAh8OgI/AAAAAAAAB1o/KBYeXNi2tlo2fOAP7ZPVWz_MEikDEsWHACNcBGAsYHQ/s1600/1665313350332554-1.png",FTV General 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://cdn2live.sky4k.top/4gtv/?id=twms_BzIPTV_4K
 #EXTINF:0 group-title="HONGKONG" tvg-logo="https://lh3.googleusercontent.com/-6WS4rLOA8_8/Y0KqRNtWYzI/AAAAAAAAB1k/cbAOu9T4qQEnRA6ziEokCy3Ic5cTBw9HACNcBGAsYHQ/s1600/1665313346793424-2.png",民視新聞台
@@ -2270,9 +2270,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 #######################################################################################################################################################################
 
-
-
-#EXTINF:-1 tvg-id="416" ch-number="416" group-title="KOREA" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies (MY)   
+#EXTINF:-1 tvg-id="416" ch-number="416" group-title="KOREA" group-logo="https://cdn.pixabay.com/photo/2021/06/06/04/28/flag-6314261_960_720.jpg" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",tvN Movies (MY)   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
@@ -2449,7 +2447,7 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #######################################################################################################################################################################
 
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://i.imgur.com/S6gvvf9.png" group-title="THAILAND",Amarin TV
+#EXTINF:-1 tvg-chno="34" tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-logo="https://media.istockphoto.com/id/639703264/id/foto/bendera-kerajaan-thailand.jpg?s=612x612&w=0&k=20&c=btQgRJ0ERmanOwNr9gCeDg10cAjmdZKYZ9VTiLouyxw=" tvg-logo="https://i.imgur.com/S6gvvf9.png" group-title="THAILAND",Amarin TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
 
@@ -2623,7 +2621,7 @@ https://live1.thaitvstream.com/play/zabbtv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="703" ch-number="703" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="ENTERTAINMENT",Lifetime (MY)
+#EXTINF:-1 tvg-id="703" ch-number="703" group-logo="https://resizer-acm.eco.astro.com.my/tr:w-720,ar-3-2,q-100/https://dj7fdt04hl8tv.cloudfront.net/acm/media/astro-fibre/astrofibre_bbflow_upsellbanner-1.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="ENTERTAINMENT",Lifetime (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
@@ -2690,7 +2688,7 @@ https://cdn-01.toffeelive.com/origin-03/live-origin/smil:comedy_central_hd.smil/
 
 
 
-#EXTINF:-1 tvg-id="321" ch-number="321" group-title="MOVIES" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://i.ibb.co/kyKTZLB/ccm-modified.png",Celestial Classic Movies (MY)
+#EXTINF:-1 tvg-id="321" ch-number="321" group-title="MOVIES" group-logo="https://play-lh.googleusercontent.com/kaDqbv5XYdiV5pOzeAmyyh1zqXtwrvTxmJw5e7nCVhhn4pSzbRcrd0jmAj_P_8t_Ln8=w526-h296-rw" tvg-logo="https://i.ibb.co/kyKTZLB/ccm-modified.png",Celestial Classic Movies (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
@@ -2817,7 +2815,7 @@ https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-#EXTINF:-1 tvg-id="411" group-title="MOVIES" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png",HBO (MY)
+#EXTINF:-1 tvg-id="411" group-title="MOVIES" group-logo="https://play-lh.googleusercontent.com/kaDqbv5XYdiV5pOzeAmyyh1zqXtwrvTxmJw5e7nCVhhn4pSzbRcrd0jmAj_P_8t_Ln8=w526-h296-rw" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png",HBO (MY)
 https://aqfadtv.xyz/live/hbo/index.mpd
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" group-title="MOVIES" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png",HBO (ID)
@@ -3095,7 +3093,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 #######################################################################################################################################################################
 
 
-#EXTINF:-1 tvg-id="CHN"  tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" group-title="LIVE  MOVIE",US| 24/7 BOX OFFICE 2022 1
+#EXTINF:-1 tvg-id="CHN"  tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-logo="https://static.wikia.nocookie.net/robotchicken748/images/7/78/At_the_Movies_2009.jpg/revision/latest?cb=20180105163605" group-title="LIVE  MOVIE",US| 24/7 BOX OFFICE 2022 1
 http://line.premiumpowers.net:80/Bianca/1234567/924692
 
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="LIVE  MOVIE",US| 24/7 BOX OFFICE 2022 2
@@ -3211,7 +3209,7 @@ http://iptvglobal.site:25461/LionTv/r1942G22hz/155988
 #######################################################################################################################################################################
 
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="DOUYU MOVIES",MOVIES MIX 2 (C)
+#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" group-logo="http://chinafilminsider.com/wp-content/uploads/2018/03/douyu-1.jpgg" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="DOUYU MOVIES",MOVIES MIX 2 (C)
 http://epg.112114.xyz/douyu/122402
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="DOUYU MOVIES",MOVIES MIX 3 (C.)
@@ -3326,18 +3324,9 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 
 
-
-
 #######################################################################################################################################################################
 
-#########################
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="708" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" ch-number="708",Food Network 
+#EXTINF:-1 tvg-id="708" group-logo="https://mf.b37mrtl.ru/files/2015.12/article/5661d7dac3618841498b45d4.png" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" ch-number="708",Food Network 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
@@ -3553,15 +3542,9 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 
 #######################################################################################################################################################################
 
-###########################
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="KIDS",VISIT MY SHOP 
+#EXTINF:-1 tvg-id="CHN" tvg-name="" group-logo="https://t3.ftcdn.net/jpg/05/00/69/46/360_F_500694616_9Ab5WUxISzUk3da6UFnu4uwjNhHGDSIV.jpg" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title="KIDS",VISIT MY SHOP 
 https://tinyurl.com/visit-kedai-saya
 
 
@@ -3778,7 +3761,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
-#EXTINF:-1 tvg-id="501" ch-number:"AstroAwani" group-title="NEWS" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",Astro Awani 
+#EXTINF:-1 tvg-id="501" ch-number:"AstroAwani" group-title="NEWS" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Astro_News.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",Astro Awani 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
 #EXTINF:-1 tvg-id="502" ch-number="502" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",Bernama
@@ -3901,16 +3884,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
 
 
 
-
-
 #######################################################################################################################################################################
 
-######################
 
-
-
-
-#EXTINF:-1 group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="RELAXING",Beaches Live
+#EXTINF:-1 group-logo="https://resizer-acm.eco.astro.com.my/tr:w-1000/https://dj7fdt04hl8tv.cloudfront.net/acm/media/rewards/ar-apr-partner-raya__w768px-x-h432px-3-ormond-hotel.jpg" tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="RELAXING",Beaches Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="RELAXING",Mountains Live
@@ -3949,7 +3926,7 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CHN" group-title="⚽SPORTS⚽" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://i.ibb.co/yq8zZwR/unnamed.png",MediaCorp MeWatch
+#EXTINF:-1 tvg-id="CHN" group-title="⚽SPORTS⚽" group-logo="https://assets-global.website-files.com/5df887b040a1a9d6b16b68f8/634d3b53feb1d636219dab77_634ca9649bff5677165ada34_Sports%2520pack%2520image.png" tvg-logo="https://i.ibb.co/yq8zZwR/unnamed.png",MediaCorp MeWatch
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cdb834a4f2fd413a8e50d1a7170701d2&key=3d6ae85b34e8aac7488c780cea215306
 #https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
@@ -4710,7 +4687,7 @@ https://newtest.webtv1.lol/ddy4/premium1/tracks-v1a1/mono.m3u8|referer=https://e
 
 
 
-#EXTINF:-1 group-title="MUSIC" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-id="CHN" ch-number="CHN" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhGIymQGp3jRMECbTCBSRAUqi8sKbATpWowQG44CA=s48-c-k-c0x00ffffff-no-rj",LOFI MUSIC 24/7
+#EXTINF:-1 group-title="MUSIC" group-logo="https://411press.net/wp-content/uploads/2020/06/music.png" tvg-id="CHN" ch-number="CHN" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhGIymQGp3jRMECbTCBSRAUqi8sKbATpWowQG44CA=s48-c-k-c0x00ffffff-no-rj",LOFI MUSIC 24/7
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/LofiRadio.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4891,7 +4868,7 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #######################################################################################################################################################################
 
 
-#EXTINF:-1 tvg-id="CHN" group-title="RADIO"  group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg"tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
+#EXTINF:-1 tvg-id="CHN" group-title="RADIO" group-logo="https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616__480.png" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
 https://hls.rastream.com/astro-kbs-world
 
 #EXTINF:-1 tvg-id="CHN" group-title="RADIO" tvg-logo="https://media2.fishtank.my/stations/astro-boom-radio/square_md_2.png",Boom Radio
@@ -5106,7 +5083,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5073
-#EXTINF:-1 tvg-id="AstroVellithirai" tvg-name="Astro Vellithirai" group-title="ASTRO" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" tvg-logo="https://iili.io/1Nq6lI.png",Astro Vellithirai 
+#EXTINF:-1 tvg-id="AstroVellithirai" tvg-name="Astro Vellithirai" group-title="ASTRO" group-logo="https://w7.pngwing.com/pngs/194/573/png-transparent-astro-malaysia-holdings-astro-malaysia-holdings-astro-b-yond-customer-service-mutual-jinhui-logo-purple-television-text-thumbnail.png" tvg-logo="https://iili.io/1Nq6lI.png",Astro Vellithirai 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
