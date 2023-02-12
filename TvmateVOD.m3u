@@ -111,7 +111,6 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 https://linears-playback.astro.com.my/vsgN/41-XHFAj1aBUp7WA3oplZ5Vce2M_VKCRHKoQMgcJEre2k=1_0_/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
-
 #EXTINF:-1 tvg-id="146" tvg-name="TV Okey" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", 146 Okey ⁽ˢᵉʳᵛᵉʳ ¹⁾
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
@@ -246,7 +245,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna SD ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Mu1y2vCUKw50_G0sd1KMxk=f-G7/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna HD ⁽ˢᵉʳᵛᵉʳ ²⁾
