@@ -3977,7 +3977,7 @@ https://no2.onlinewebtv.lol/ddy1/premium125/tracks-v1a1/mono.m3u8|referer=https:
 #EXTINF:-1 tvg-id="813" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic384.jpg", 813 Astro SuperSport 3 ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
-https://linears-playback.astro.com.my/vsg/417DL7IlDRrt4azGzu-toxbjMX3OEcIrqF14gH6lLNM5o=Yjy_/dash-wv/jitp-linearwm/2701/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4 HD" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic433.jpg", 814 Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
