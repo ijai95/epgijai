@@ -1692,12 +1692,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroAEC.my" ch-number="AstroAEC" tvg-logo="https://i.ibb.co/ZNGPbCN/Astro-AEC.png" group-title="CHINESE",306 Astro AEC ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2400
-https://linears-playback.astro.com.my/vsg/41BzKRw5f5BsS3pCCuFlKRMMLJMS1sgQCLqO5zm988QFc=ulJN/dash-wv/jitp-dashisowm/2400/default_ott.mpd?PID=&PAID=2400&deviceIdType=adid&deviceId=564b7179451f47481e801e42fefe2f13&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-3dd047d7-d184-4c00-9a4b-74495156e53c&optin=true&hhid=86f93b5b6b1fc0fe797b350bfb912216&kvp=lang~chi&kvp=genre~HD,CHINESE&daiEnabled=true
+https://linears-playback.astro.com.my/vsg/41BzKRw5f5BsS3pCCuFlKRMEfkXX7tl2DRXG8DQgCpWUw=q0Ju/dash-wv/jitp-dashisowm/2400/default_ott.mpd?PID=&PAID=2400&deviceIdType=adid&deviceId=564b7179451f47481e801e42fefe2f13&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-98c7534e-90a9-460b-ac01-8b107bb40da2&optin=true&hhid=86f93b5b6b1fc0fe797b350bfb912216&kvp=lang~chi&kvp=genre~HD,CHINESE&daiEnabled=true
 
 #EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" group-title="CHINESE" tvg-logo="https://iili.io/1NBT5F.png",306 Astro AEC ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2400
-https://linears-playback.astro.com.my/vsg/41BzKRw5f5BsS3pCCuFlKRMMLJMS1sgQCLqO5zm988QFc=ulJN/dash-wv/jitp-dashisowm/2400/default_ott.mpd?PID=&PAID=2400&deviceIdType=adid&deviceId=564b7179451f47481e801e42fefe2f13&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-3dd047d7-d184-4c00-9a4b-74495156e53c&optin=true&hhid=86f93b5b6b1fc0fe797b350bfb912216&kvp=lang~chi&kvp=genre~HD,CHINESE&daiEnabled=true
+https://linears-playback.astro.com.my/vsg/41BzKRw5f5BsS3pCCuFlKRMEfkXX7tl2DRXG8DQgCpWUw=q0Ju/dash-wv/jitp-dashisowm/2400/default_ott.mpd?PID=&PAID=2400&deviceIdType=adid&deviceId=564b7179451f47481e801e42fefe2f13&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-98c7534e-90a9-460b-ac01-8b107bb40da2&optin=true&hhid=86f93b5b6b1fc0fe797b350bfb912216&kvp=lang~chi&kvp=genre~HD,CHINESE&daiEnabled=true
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2706
