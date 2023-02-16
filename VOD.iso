@@ -65,6 +65,31 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/17159.mkv
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/16938.mp4
 
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://i1.sndcdn.com/artworks-efJW3Jyyt76ccJPO-HfT94g-t500x500.jpg", 15 Puasa
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/13357.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://image.tmdb.org/t/p/w500/wHB9DID2AAcvsL5qPLBYRbM0h9p.jpg", 16 Puasa
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/13356.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNmNGZlZjQtMWEzMy00NzcwLTljZGItYzc2YjE5ZDRkZjgwXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_QL75_UY281_CR18,0,190,281_.jpg", 17 Puasa
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/9999.mkv
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRiMTRiYjctMDJhYi00Njk1LWFiYWMtMTFjMmE4ZTYyNmZiXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_.jpg", 18 Puasa
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/13355.mkv
+
+
 
 #EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYyNmE4OWUtNDdlNi00MDY5LWIxYmItMGM0MTI5MDQ0NTBiXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",Episod 1
 https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP1%40malaydramaz.mp4&raw=true&type=file.mp4
