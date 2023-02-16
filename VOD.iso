@@ -65,6 +65,12 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/17159.mkv
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/16938.mp4
 
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://cinematoday.net/data/upload/movies/2022/jailangkung-sandekala.jpg", Jailangkung
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/16923.mp4
+
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://i1.sndcdn.com/artworks-efJW3Jyyt76ccJPO-HfT94g-t500x500.jpg", 15 Puasa
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
 #EXTVLCOPT:http-Icy-MetaData=1
