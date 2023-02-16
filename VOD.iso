@@ -1670,7 +1670,10 @@ https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/ERYs
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2E5ZGU1NzktNzg3Ny00NDAzLTgxZjgtZjNiZjdhZjAxMWFmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", OM:THE BATTLE WITHIN
 https://pqstd-my.sharepoint.com/:v:/g/personal/chewan_pqstd_onmicrosoft_com/EWCvXGhLPJdOuoBjNnriS3QBcwM3-V5Es15W5yPZtXeZjQ?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU2ZDBmZmItMDJkOC00ZTM3LWE1N2QtZjkyM2I2ZWI4NjZlXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg" group-title="VOD MALAY" tvg-id="" tvg-name="", THE ASSISTANT
-https://pqstd-my.sharepoint.com/:v:/g/personal/abamkodim_pqstd_onmicrosoft_com/EdA11Xb2clxIpqlniyYoc5gBFBUSUQSbatgoJ5KRaZopHw?download=1
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/16810.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://www.flickeringmyth.com/wp-content/uploads/2022/07/Samaritan_Poster-600x889.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", SAMARITAN
 https://pqstd-my.sharepoint.com/:v:/g/personal/najib_pqstd_onmicrosoft_com/Eb5Fzr63NVdHsBpLRmi36psBoXfT0VLuObXFF14cYJCBPQ?download=1
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThhYzRmMDYtNmU0Ny00ZjVjLWI0N2QtNTdiZmQ3YzY2ZjlhXkEyXkFqcGdeQXVyMTE2NTcwNQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD ENGLISH" tvg-id="" tvg-name="", HUNTING AVA BRAVO
