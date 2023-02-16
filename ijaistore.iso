@@ -283,6 +283,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 
 
+########################################################BRUNEI###########################################################################################
+
+
+#EXTINF:-1 tvg-id="TV1" group-title="BRUNEI" group-logo="https://png.pngtree.com/png-clipart/20221215/ourmid/pngtree-brunei-flag-in-watercolor-hard-brush-new-png-image_6524989.png" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera.png", RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8|referer=https://www.rtbgo.bn/
+
+
+#EXTINF:-1 tvg-id="TV1" group-title="BRUNEI" group-logo="https://png.pngtree.com/png-clipart/20221215/ourmid/pngtree-brunei-flag-in-watercolor-hard-brush-new-png-image_6524989.png" tvg-logo="https://rtb-images.glueapi.io/300x0/live/GoLiveNew.png", Go Live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8|referer=https://www.rtbgo.bn/
+
+
+
 ########################################################AL-QURAN2###########################################################################################
 
 #EXTINF:-1 group-logo="https://immimpangkep.ponpes.id/blogguru/wp-content/uploads/2021/07/istimewa-usia-3-tahun-hafidz-sudah-hafal-3-juz-alquran-2AKtkCWWPK.jpg" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN2",[001] Surah Alfatihah (Pembukaan)
