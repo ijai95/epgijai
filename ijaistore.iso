@@ -2618,8 +2618,6 @@ https://live1.thaitvstream.com/play/zabbtv/index.m3u8
 
 #######################################################################################################################################################################
 
-#############################
-
 
 
 #EXTINF:-1 tvg-id="703" ch-number="703" group-logo="https://resizer-acm.eco.astro.com.my/tr:w-720,ar-3-2,q-100/https://dj7fdt04hl8tv.cloudfront.net/acm/media/astro-fibre/astrofibre_bbflow_upsellbanner-1.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="ENTERTAINMENT",Lifetime (MY)
@@ -2685,14 +2683,16 @@ https://cdn-01.toffeelive.com/origin-03/live-origin/smil:comedy_central_hd.smil/
 
 #######################################################################################################################################################################
 
-#############################
-
-
 
 #EXTINF:-1 tvg-id="321" ch-number="321" group-title="MOVIES" group-logo="https://play-lh.googleusercontent.com/kaDqbv5XYdiV5pOzeAmyyh1zqXtwrvTxmJw5e7nCVhhn4pSzbRcrd0jmAj_P_8t_Ln8=w526-h296-rw" tvg-logo="https://i.ibb.co/kyKTZLB/ccm-modified.png",Celestial Classic Movies (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
+
+#EXTINF:-1 tvg-id="CelestialMovies" ch-number="" ch-number="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sky-Movies-Sci-Fi.png/revision/latest?cb=20111118191753" group-title="MOVIES",Sci-Fi Horror UK
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+https://tinyurl.com/mrr3j3yn|referer=https://iplogger.com/2VAkG5
 
 #EXTINF:-1 tvg-id="CCM" tvg-name="Celestial Classic Movies" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" group-title="MOVIES" tvg-logo="https://i.ibb.co/kyKTZLB/ccm-modified.png",Celestial Classic Movies (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
