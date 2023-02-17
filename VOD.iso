@@ -216,6 +216,19 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/16976.mp4
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/16844.mkv
 
+#EXTINF:-1 type="movies" group-title="VOD INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Drishyam_2_2022_film_poster.jpg/220px-Drishyam_2_2022_film_poster.jpg", Drishyam 2 2022
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/16838.mp4
+
+#EXTINF:-1 type="movies" group-title="VOD INDIA" tvg-logo="https://naijajoy.com.ng/wp-content/uploads/2023/01/EAB59392-3279-4993-A99B-2DC64F9D42CD.jpeg", Thunivu 2023
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/17033.mkv
+
+
 
 
 #EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYyNmE4OWUtNDdlNi00MDY5LWIxYmItMGM0MTI5MDQ0NTBiXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",Episod 1
