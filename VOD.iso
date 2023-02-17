@@ -109,8 +109,8 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/13355.mkv
 #EXTVLCOPT:http-Icy-MetaData=1
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/17160.mp4
-
-#EXTINF:-1 type="series" group-title="One Cent Thief" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 1
+#####################################################################################################################################################
+#EXTINF:-1 type="series" group-title="One Cent Thief" group-logo="https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 1
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
 #EXTVLCOPT:http-Icy-MetaData=1
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
