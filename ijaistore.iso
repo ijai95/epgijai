@@ -3965,8 +3965,8 @@ https://linears-playback.astro.com.my/vsgN/41dYH3bDkEZmb6W-4aT2tq9N61NAYJuP8sraF
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
-#EXTINF:-1 tvg-id="802" tvg-logo="https://i.ibb.co/k8BdXZr/80-modified.png" group-title="⚽SPORTS⚽", 802 Astro Arena 2 
-https://linears-playback.astro.com.my/vsg/41Ocevz3zxgGQjGpMkqzfRh9Pqxtm0kemvply_QdxBxc4=pbML/dash-wv/jitp-linearwm/5057/default_ott.mpd
+#EXTINF:-1 tvg-id="802" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="⚽SPORTS⚽", 802 Astro Arena 2 
+https://linears-playback.astro.com.my/vsg/41Ocevz3zxgGQjGpMkqzfRh0hwrJBO07lvZJh6ySpwVX4=Zmf0/dash-wv/jitp-linearwm/5057/default_ott.mpd
 
 #EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic431.jpg", 811 Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
