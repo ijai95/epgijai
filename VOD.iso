@@ -204,6 +204,13 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/16895.mkv
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/16920.mkv
 
+#EXTINF:-1 type="movies" group-title="VOD INDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM0M2VhMzAtNDcwMS00OWEzLWFmNjUtYmNhNjE5M2Y1M2IzXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg", Sinam 2022
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/16976.mp4
+
+
 
 #EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYyNmE4OWUtNDdlNi00MDY5LWIxYmItMGM0MTI5MDQ0NTBiXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",Episod 1
 https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP1%40malaydramaz.mp4&raw=true&type=file.mp4
