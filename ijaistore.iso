@@ -3953,9 +3953,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?i
 https://linears-playback.astro.com.my/vsgN/41dYH3bDkEZmb6W-4aT2tq9N61NAYJuP8sraFrdoerF7o=G-gc/dash-wv/jitp-linearwm/2604/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroArena" group-title="⚽SPORTS⚽" ch-number="801" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic631.jpg", 801 Astro Arena
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
-https://linears-playback.astro.com.my/vsgN/41dYH3bDkEZmb6W-4aT2tq9N61NAYJuP8sraFrdoerF7o=G-gc/dash-wv/jitp-linearwm/2604/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://ddy1.onlinewebtv.lol/ddy1/premium370/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=370
 
 
 #EXTINF:-1 tvg-id="AstroArena" group-title="⚽SPORTS⚽" ch-number="801" tvg-logo="https://i.ibb.co/H79rWh4/arena-Telecast4-Web-modified.png",SPOTV
