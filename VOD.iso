@@ -59,7 +59,7 @@ https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Mechamato/%5Bon9.stream%5
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/17159.mkv
 
-#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://media.21cineplex.com/webcontent/gallery/pictures/167394935210106_287x421.jpg", Sakra Sub Malay
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://media.gv.com.sg/imagesresize/img3907.jpg", Sakra Sub Malay
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
 #EXTVLCOPT:http-Icy-MetaData=1
 #EXTVLCOPT:Accept-Encoding=identity;q=1, *;q=0
