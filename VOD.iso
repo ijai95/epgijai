@@ -109,7 +109,9 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/13355.mkv
 #EXTVLCOPT:http-Icy-MetaData=1
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/17160.mp4
+
 #####################################################################################################################################################
+
 #EXTINF:-1 type="series" group-title="One Cent Thief" group-logo="https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 1
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
 #EXTVLCOPT:http-Icy-MetaData=1
@@ -158,7 +160,37 @@ http://w.nasvpn.xyz:8080/series/saya/saya/16966.mp4
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/series/saya/saya/16967.mp4
 
+#####################################################################################################################################################
 
+#EXTINF:-1 type="series" group-title="High Council" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 1
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16918.mp4
+
+#EXTINF:-1 type="series" group-title="High Council" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 2
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16945.mp4
+
+#EXTINF:-1 type="series" group-title="High Council" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 3
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16958.mp4
+
+#EXTINF:-1 type="series" group-title="High Council" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 4
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16984.mp4
+
+#EXTINF:-1 type="series" group-title="High Council" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 5
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/17045.mp4
 
 
 
