@@ -110,11 +110,56 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/13355.mkv
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/17160.mp4
 
-#EXTINF:-1 type="series" group-title="One Cent Thief" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHDiO20y7TK7yOW8fxFGsB62HW8D85yg1flfzwVxHWEzVZAmLjpKcsM2gpTZt0FSSBkRWBere34Xuv7wRTpcdAvWSSIPHEsFxTBYWH5HVMRTlm_wEaSOTZORo-Eflptob2cwINmUWKi3WDfLcup8mE5jUuX-lWMNAt9OsQLsLOOXApQbeitb2pk4CrfQ/w0/Rombongan%20Cik%20Kiah%20Ke%20AJL.jpg", One Cent Thief
+#EXTINF:-1 type="series" group-title="One Cent Thief" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 1
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
 #EXTVLCOPT:http-Icy-MetaData=1
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/series/saya/saya/16960.mp4
+
+#EXTINF:-1 type="series" group-title="One Cent Thief" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 2
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16961.mp4
+
+#EXTINF:-1 type="series" group-title="One Cent Thief" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 3
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16962.mp4
+
+#EXTINF:-1 type="series" group-title="One Cent Thief" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 4
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16963.mp4
+
+#EXTINF:-1 type="series" group-title="One Cent Thief" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 5
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16964.mp4
+
+#EXTINF:-1 type="series" group-title="One Cent Thief" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 6
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16965.mp4
+
+#EXTINF:-1 type="series" group-title="One Cent Thief" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 7
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16966.mp4
+
+#EXTINF:-1 type="series" group-title="One Cent Thief" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 8
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16967.mp4
+
+
+
 
 
 #EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYyNmE4OWUtNDdlNi00MDY5LWIxYmItMGM0MTI5MDQ0NTBiXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",Episod 1
