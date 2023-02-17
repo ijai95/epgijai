@@ -110,6 +110,9 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/13355.mkv
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/17160.mp4
 
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://4.bp.blogspot.com/-laVWB1b1VcA/W-FoAOJDgPI/AAAAAAAAHIY/5_rX4zgM4d4N46aHjmlwb6hbkC-iATZlwCLcBGAs/s1600/Aku%2BPosmen.jpg", Aku Posmen
+#EXTVLCOPT:referer=https://www.vudeo.net/
+https://m11.vudeo.io/2vp3u7zv7mvjdohiloartzmwq2nkzxhdwy6s7xvkt7ciavid47a6iegriiaq/v.mp4
 
 
 #EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYyNmE4OWUtNDdlNi00MDY5LWIxYmItMGM0MTI5MDQ0NTBiXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",Episod 1
