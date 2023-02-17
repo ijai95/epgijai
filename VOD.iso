@@ -867,6 +867,32 @@ https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Ejen.Ali/S3/Ejen.Ali.S03E
 #EXTINF-1 type="series" group-title="Ejen Ali" tvg-logo="https://gamersantai.com/wp-content/uploads/2022/05/New-Project-2022-05-31T124713.020.jpg",S3 Episode 9
 https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Ejen.Ali/S3/Ejen.Ali.S03E09.1080p.DHM.WEB-DL.H264.AAC-AstradaMY.mp4
 
+#EXTINF-1 type="series" group-title="Ejen Ali" tvg-logo="https://gamersantai.com/wp-content/uploads/2022/05/New-Project-2022-05-31T124713.020.jpg",S3 Episode 10
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16870.mp4
+
+#EXTINF-1 type="series" group-title="Ejen Ali" tvg-logo="https://gamersantai.com/wp-content/uploads/2022/05/New-Project-2022-05-31T124713.020.jpg",S3 Episode 11
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16902.mp4
+
+#EXTINF-1 type="series" group-title="Ejen Ali" tvg-logo="https://gamersantai.com/wp-content/uploads/2022/05/New-Project-2022-05-31T124713.020.jpg",S3 Episode 12
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16919.mkv
+
+#EXTINF-1 type="series" group-title="Ejen Ali" tvg-logo="https://gamersantai.com/wp-content/uploads/2022/05/New-Project-2022-05-31T124713.020.jpg",S3 Episode 13
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/series/saya/saya/16944.mp4
+
+
+
 #######################################################END################################################################
 
 #EXTINF-1 type="series" group-title="All Of Us Are Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",S1 Episode 1 
