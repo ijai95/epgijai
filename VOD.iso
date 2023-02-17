@@ -192,6 +192,12 @@ http://w.nasvpn.xyz:8080/series/saya/saya/16984.mp4
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/series/saya/saya/17045.mp4
 
+#EXTINF:-1 type="movies" group-title="VOD ENGLISH" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/63eae465aba57f2b15869b2d/Official-Dolby-Cinema-poster-for--Avatar--The-Way-of-Water-/960x0.jpg?format=jpg&width=960", Avatar The Way Of Water
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/16895.mkv
+
 
 
 #EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYyNmE4OWUtNDdlNi00MDY5LWIxYmItMGM0MTI5MDQ0NTBiXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",Episod 1
