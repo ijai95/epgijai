@@ -240,6 +240,12 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/7953.mkv
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/7954.mkv
 
+#EXTINF:-1 type="movies" group-title="VOD ENGLISH" tvg-logo="https://cdn.hmv.com/r/w-640/hmv/files/4a/4ac8614a-a68e-4da3-ac81-6b9283f13507.png", The Badman 4K 2022 
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/7915.mkv
+
 
 
 
