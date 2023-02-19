@@ -264,6 +264,24 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/7926.mkv
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/7927.mkv
 
+#EXTINF:-1 type="movies" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM0YWMwMDQtMjE5NS00ZTIwLWE1NWEtODViMWZjMWI2OTU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg", The Adam Project
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/7921.mkv
+
+#EXTINF:-1 type="movies" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM2YWFkNWUtYTliYy00MjNkLThjMjMtNjcyZjAzMWM1M2IxXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg", A Day To Die
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/7922.mkv
+
+#EXTINF:-1 type="movies" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDc4Mzk4ZGMtYjA1NS00OTU4LWIyZDktNTkwZDM0M2I1N2FlXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg", Blacklight
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/7923.mkv
+
 
 
 
