@@ -228,6 +228,20 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/16838.mp4
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/17033.mkv
 
+#EXTINF:-1 type="movies" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBmZWE1YTEtMzQ1NC00MDJhLTgwZjItNGYyZjY0MWQ5YTllXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_FMjpg_UX1000_.jpg", The Desperate Hour
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/7953.mkv
+
+EXTINF:-1 type="movies" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE1M2NjNDgtYjQ2Ny00YTMzLWJiYWQtMTdmM2Q2YjA1MDg1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg", Deep Water
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/7954.mkv
+
+
+
 
 
 
