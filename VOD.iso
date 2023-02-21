@@ -325,8 +325,23 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/13340.mkv
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/13358.mkv
 
+#EXTINF:-1 type="movies" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg", Uncharted Sub Malay
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/13436.mkv
 
+#EXTINF:-1 type="movies" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjUyN2VlZGEtNGEyZC00YjViLTgwYmQtZDJiM2FlOTU3Mjg2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg", Ambulance 2022 Sub Malay
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/13439.mkv
 
+#EXTINF:-1 type="movies" group-title="VOD ENGLISH" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjUyN2VlZGEtNGEyZC00YjViLTgwYmQtZDJiM2FlOTU3Mjg2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg", Ambulance 2022 Sub Malay
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/13439.mkv
 
 
 
