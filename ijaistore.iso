@@ -98,7 +98,11 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 
 #EXTINF:-1 tvg-id="611" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria 
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
-https://tinyurl.com/3526bnpa|referer=https://iplogger.com/2VAkG5
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+#EXTVLCOPT:Icy-MetaData=1
+#EXTVLCOPT:Accept-Encoding=identity
+https://w.nasvpn.xyz:8080/saya/saya/177.m3u8
+
 
 #EXTINF:-1 tvg-id="146" tvg-name="TV Okey" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", 146 Okey ⁽ˢᵉʳᵛᵉʳ ¹⁾
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
