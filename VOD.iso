@@ -343,7 +343,11 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/13439.mkv
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 http://w.nasvpn.xyz:8080/movie/saya/saya/13439.mkv
 
-
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQxYjZkNjQtMmMzOS00MTIyLTk3MzYtZDkzNmZkODI4ZmUyXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg" group-title="VOD MALAY", Berbalas Kejam 2023
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+http://w.nasvpn.xyz:8080/movie/saya/saya/17185.mp4
 
 #EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYyNmE4OWUtNDdlNi00MDY5LWIxYmItMGM0MTI5MDQ0NTBiXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",Episod 1
 https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP1%40malaydramaz.mp4&raw=true&type=file.mp4
@@ -1651,6 +1655,7 @@ https://sv1.abc7.su/storage/media/de1cca5e80508ce0001287dcb6cef9a5-360.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://malaytv.live/wp-content/uploads/2021/08/Malaysian-Ghost-Stories-1-310x165.jpg" group-title="VOD MALAY", Malaysian Ghost Stories Episode 18
 https://sv1.abc7.su/storage/media/34215cbbe798f46eadd7150fcb633936-360.m3u8
+
 
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwjtvN2PjUBs9foWa3Y-Bhp7_fAWd5RsmQaA&usqp=CAU" group-title="VOD MALAY", Polis Evo (2015)
 https://www.googleapis.com/drive/v3/files/1Wh2gGIHX-PnfOq_jpvrOAM6GYBnfTUoY?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
