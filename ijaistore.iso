@@ -94,7 +94,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 #EXTINF:-1 tvg-id="611" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLezRuJ09TLJ7OLf87ZQpRP8M=TvYB/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe_LnovwXjE476XJVGfy9GIQ=_rxQ/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 
 
@@ -3593,7 +3593,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d
 #EXTINF:-1 tvg-id="611" group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230", Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLezRuJ09TLJ7OLf87ZQpRP8M=TvYB/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe_LnovwXjE476XJVGfy9GIQ=_rxQ/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroTutorTVSPM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/127_144.png" group-title="KIDS" ch-number="602",Astro Tutor TV SPM
@@ -5284,7 +5284,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #EXTINF:-1 tvg-id="611" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230", Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLezRuJ09TLJ7OLf87ZQpRP8M=TvYB/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe_LnovwXjE476XJVGfy9GIQ=_rxQ/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 #EXTINF:-1 tvg-id="616" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ch-number="616",Nickelodeon (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5299,4 +5299,4 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 
 <script type="text/javascript">window.location = "https://linktr.ee/cloudse7en" </script>
 
-#EXTM3U billed-msg="V2.1 FIX ASTRO WARNA, CERIA, CITRA, ARENA 2 "<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>
+#EXTM3U billed-msg="V2.2 ADD ARENA BOLA 1 DAN BOLA 2 "<script async type="text/javascript" src="//adstook.com/wapka_lib.js"></script></body>   </html>
