@@ -1004,16 +1004,16 @@ https://is.gd/57WW1q
 https://is.gd/m6pArV
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180703/lri/kisspng-saudi-arabia-television-channel-saudi-2-streaming-quraan-5b3bbb7f6fac03.7216212715306412794575.jpg" group-title="ISLAM" tvg-id="" tvg-name="", Saudi Al-Quran Tvv
-#EXTVLCOPT:Referer=https://www.mjunoon.tv/
-https://cdn6.mjunoon.tv:8087/web/SaudiQuran-142/live/142H/chunks.m3u8?nimblesessionid=27894330&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIzIDE6MjA6NDQgUE0maGFzaF92YWx1ZT16YWRhei83U3BEZVBiSlVzdEFhMFVnPT0mdmFsaWRtaW51dGVzPTE=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn6.mjunoon.tv:8087/web/SaudiQuran-142/live/142H/chunks.m3u8?nimblesessionid=27894330&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIzIDE6MjA6NDQgUE0maGFzaF92YWx1ZT16YWRhei83U3BEZVBiSlVzdEFhMFVnPT0mdmFsaWRtaW51dGVzPTE=|referer=https://www.mjunoon.tv/
 
 #EXTINF:-1 tvg-logo="https://www.dthsat.com/images/Madani-Channel-Logo.png" group-title="ISLAM" tvg-id="" tvg-name="", Madani Channel HD
-#EXTVLCOPT:Referer=https://www.mjunoon.tv/
-https://cdn6.mjunoon.tv:8087/web/Madni-121/live/121L/chunks.m3u8?nimblesessionid=27894509&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIzIDE6MzQ6MzEgUE0maGFzaF92YWx1ZT1YTDYzSVJ1RytsdEpocWVLaHl5dmhnPT0mdmFsaWRtaW51dGVzPTE=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn6.mjunoon.tv:8087/web/Madni-121/live/121L/chunks.m3u8?nimblesessionid=27894509&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIzIDE6MzQ6MzEgUE0maGFzaF92YWx1ZT1YTDYzSVJ1RytsdEpocWVLaHl5dmhnPT0mdmFsaWRtaW51dGVzPTE=|referer=https://www.mjunoon.tv/
 
 #EXTINF:-1 tvg-logo="https://bakhlatours.com/wp-content/uploads/2020/11/Ziyarat-in-makkah-madinah-Bakhla-tours-mumbai-hajj-umrah-tours-package.png" group-title="ISLAM" tvg-id="" tvg-name="", Saudi Sunnah Madinah TV
-#EXTVLCOPT:Referer=https://www.mjunoon.tv/
-https://cdn6.mjunoon.tv:8087/web/SaudiSunnah-141/live/141H/chunks.m3u8?nimblesessionid=27894605&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIzIDE6NDI6MDEgUE0maGFzaF92YWx1ZT15OFhDVzZIYkx3dVg5ZVU0R1JQSnZBPT0mdmFsaWRtaW51dGVzPTE=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn6.mjunoon.tv:8087/web/SaudiSunnah-141/live/141H/chunks.m3u8?nimblesessionid=27894605&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIzIDE6NDI6MDEgUE0maGFzaF92YWx1ZT15OFhDVzZIYkx3dVg5ZVU0R1JQSnZBPT0mdmFsaWRtaW51dGVzPTE=|referer=https://www.mjunoon.tv/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
