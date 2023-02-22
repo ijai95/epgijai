@@ -467,7 +467,8 @@ http://w.nasvpn.xyz:8080/series/saya/saya/16836.mkv
 #EXTINF:-1 type="series" group-title="Alchemy Of Souls S1" tvg-logo="https://asianwiki.com/images/a/a9/Alchemy_of_Souls-p1.jpg", Episode 20
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
 #EXTVLCOPT:http-Icy-MetaData=1
-#EXTVLCOPT:referer=https://iplogger.com/2VAkG5
+#EXTVLCOPT:Connection=Keep-Alive
+#EXTVLCOPT:referer=com.iptvliink.net
 http://w.nasvpn.xyz:8080/series/saya/saya/16837.mkv
 
 
