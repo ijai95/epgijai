@@ -236,25 +236,34 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", 132 Astro Warna SD ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTVLCOPT:User-Agent=Mozilla/5.0 (Linux; Android 10; ELE-L29 Build/HUAWEIELE-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
+#EXTVLCOPT:Connection=Keep-Alive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsss93YHWFtOH7zl6Q3Dw8c=2L2C/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRiGlYzx4xB2KbZrF2dkcE1c=Nf07/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", 132 Astro Warna HD ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTVLCOPT:User-Agent=Mozilla/5.0 (Linux; Android 10; ELE-L29 Build/HUAWEIELE-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
+#EXTVLCOPT:Connection=Keep-Alive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsss93YHWFtOH7zl6Q3Dw8c=2L2C/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRiGlYzx4xB2KbZrF2dkcE1c=Nf07/dash-wv/jitp-linearwm/2402/default_ott.mpd
+
 
 #EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",108 Astro Citra ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRhLfOymnr-2VjrhUHD2ZdzM=pdln/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+#EXTVLCOPT:User-Agent=Mozilla/5.0 (Linux; Android 10; ELE-L29 Build/HUAWEIELE-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
+#EXTVLCOPT:Connection=Keep-Alive
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsdnK1l5BbTowROl1chxeeU=FaFJ/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=adid&deviceId=564b7179451f47481e801e42fefe2f13&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-d7ffed98-7989-4745-ab61-aee56556a02c&optin=true&hhid=86f93b5b6b1fc0fe797b350bfb912216&kvp=lang~may&kvp=genre~HD,MALAY,MOVIES&daiEnabled=true
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 #EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",108 Astro Citra ⁽ˢᵉʳᵛᵉʳ ³⁾
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRhLfOymnr-2VjrhUHD2ZdzM=pdln/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+#EXTVLCOPT:User-Agent=Mozilla/5.0 (Linux; Android 10; ELE-L29 Build/HUAWEIELE-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
+#EXTVLCOPT:Connection=Keep-Alive
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsdnK1l5BbTowROl1chxeeU=FaFJ/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=adid&deviceId=564b7179451f47481e801e42fefe2f13&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-d7ffed98-7989-4745-ab61-aee56556a02c&optin=true&hhid=86f93b5b6b1fc0fe797b350bfb912216&kvp=lang~may&kvp=genre~HD,MALAY,MOVIES&daiEnabled=true
 
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
@@ -3972,6 +3981,17 @@ https://linears-playback.astro.com.my/vsgN/41dYH3bDkEZmb6W-4aT2tq9N61NAYJuP8sraF
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
 #EXTINF:-1 tvg-id="802" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="⚽SPORTS⚽", 802 Astro Arena 2 
 https://linears-playback.astro.com.my/vsg/41Ocevz3zxgGQjGpMkqzfRh3UbNscLk3itCN76ivsw1p4=9FJw/dash-wv/jitp-linearwm/5057/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099
+#EXTINF:-1 tvg-id="803" tvg-logo="https://drive.google.com/file/d/1Wub4zpqOGwsV7tQ6OxC8JpnoPczqgk3H/view?usp=drivesdk" group-title="⚽SPORTS⚽", 803 Astro Arena Bola
+https://linears-playback.astro.com.my/vsg/vsgN/41nDBntx42Ta0Ef7MrBZay0ny3lXBbhRVDaFdYxowdw-k=Wab5/dash-wv/jitp-linearwm/5099/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099
+#EXTINF:-1 tvg-id="804" tvg-logo="https://drive.google.com/file/d/1WzlZqNInCW5eEvqH1fAAlLYAavJopRTC/view?usp=drivesdk" group-title="⚽SPORTS⚽", 804 Astro Arena Bola 2
+https://linears-playback.astro.com.my/vsgN/41FAXCXIPUSaT8etyMVCRI257RS0p2vd8IjVdHNIWsPxU=g-Hd/dash-wv/jitp-linearwm/5100/default_ott.mpd
+
 
 #EXTINF:-1 tvg-id="811" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic431.jpg", 811 Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
