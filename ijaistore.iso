@@ -4001,7 +4001,7 @@ https://no2.onlinewebtv.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|referer=https:
 
 #EXTINF:-1 tvg-id="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="⚽SPORTS⚽", 815  Astro Supersport 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-https://no2.onlinewebtv.lol/ddy1/premium127/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+https://ddy1.onlinewebtv.lol/ddy1/premium43/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5264,7 +5264,7 @@ https://no2.onlinewebtv.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|referer=https:
 
 #EXTINF:-1 tvg-id="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="ASTRO", 815  Astro Supersport 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-https://no2.onlinewebtv.lol/ddy1/premium127/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+https://ddy1.onlinewebtv.lol/ddy1/premium43/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5286,7 +5286,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLezRuJ09TLJ7OLf87ZQpRP8M=TvYB/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
-
+#EXTINF:-1 tvg-id="616" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ch-number="616",Nickelodeon (MY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2511
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 #######################################################################################################################################################################
 
 
