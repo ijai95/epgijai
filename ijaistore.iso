@@ -5263,7 +5263,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 #EXTINF:-1 tvg-id="astrocricket" ch-number="807" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
-#EXTINF:-1 tvg-id="611" group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230", Astro Ceria 
+#EXTINF:-1 tvg-id="611" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230", Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLezRuJ09TLJ7OLf87ZQpRP8M=TvYB/dash-wv/jitp-linearwm/2606/default_ott.mpd
