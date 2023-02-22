@@ -175,19 +175,18 @@ https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 #EXTINF:-1 tvg-id="128" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/r42DCKG/20190716074123890vav.png",128 Hypp Dunia Sinema
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", 104 Astro Ria ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="104" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-# https://movierakyat.link/m8qjxq.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="104" tvg-logo="https://i.imgur.com/RrIVJJY.png",104 Astro Ria ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 https://aqfadtv.xyz/live/ria/index.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria ⁽ˢᵉʳᵛᵉʳ ³⁾
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="104" tvg-logo="https://i.imgur.com/RrIVJJY.png",104 Astro Ria ⁽ˢᵉʳᵛᵉʳ ³⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 https://stream.zeehanzgadget.com/ria.mpd
@@ -195,13 +194,13 @@ https://stream.zeehanzgadget.com/ria.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000
-#EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MALAYSIA",105 Astro Prima HD
+#EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://i.imgur.com/FZoK4df.png" group-title="MALAYSIA",105 Astro Prima HD
 https://aqfadtv.xyz/live/prima/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="106" ch-number="AstroOasis" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="MALAYSIA",106 Astro Oasis 
+#EXTINF:-1 tvg-id="106" ch-number="AstroOasis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546" group-title="MALAYSIA",106 Astro Oasis 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 # https://stream.zeehanzgadget.com/oasis.mpd
 # https://tv.kpsvpn.com/kpsboyoasis.mpd
@@ -235,28 +234,23 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 #EXTINF:-1 group-title="MALAYSIA" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat ⁽ˢᵉʳᵛᵉʳ ²⁾
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", 132 Astro Warna SD ⁽ˢᵉʳᵛᵉʳ ¹⁾
-#EXTVLCOPT:User-Agent=Mozilla/5.0 (Linux; Android 10; ELE-L29 Build/HUAWEIELE-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
-#EXTVLCOPT:Connection=Keep-Alive
-#EXTVLCOPT:Accept-Encoding=gzip
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna SD ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRgNa2VcUooB9NVVqlBoybT0=K2bv/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", 132 Astro Warna HD ⁽ˢᵉʳᵛᵉʳ ²⁾
-#EXTVLCOPT:User-Agent=Mozilla/5.0 (Linux; Android 10; ELE-L29 Build/HUAWEIELE-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
-#EXTVLCOPT:Connection=Keep-Alive
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna HD ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRiGlYzx4xB2KbZrF2dkcE1c=Nf07/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",108 Astro Citra ⁽ˢᵉʳᵛᵉʳ ¹⁾
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-#EXTVLCOPT:User-Agent=Mozilla/5.0 (Linux; Android 10; ELE-L29 Build/HUAWEIELE-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
-#EXTVLCOPT:Connection=Keep-Alive
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsdnK1l5BbTowROl1chxeeU=FaFJ/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=adid&deviceId=564b7179451f47481e801e42fefe2f13&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-d7ffed98-7989-4745-ab61-aee56556a02c&optin=true&hhid=86f93b5b6b1fc0fe797b350bfb912216&kvp=lang~may&kvp=genre~HD,MALAY,MOVIES&daiEnabled=true
+#EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTVLCOPT:http-user-agent=com.iptvliink.net
+https://tinyurl.com/2p8bzwnz|referer=https://iplogger.com/2VAkG5
+#https://iplogger.com/CITRA-Shareext
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
