@@ -1003,6 +1003,7 @@ https://is.gd/57WW1q
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/m6pArV
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
 #EXTINF:-1 tvg-id="AstroAura.my" ch-number="AstroAura" group-logo="https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/bendera-indonesia.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="INDONESIA", 113 Astro Aura  
@@ -5082,106 +5083,106 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #####################################################################ASTRO###############################################################################
 
-#EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" group-title="CHINESE" group-logo="https://assets-global.website-files.com/60a75d8226f3295ecacf9e33/61b1dcdbd2d2bd27abbc0669_Astro%20logo%20-%20Magenta.png" tvg-logo="https://iili.io/1NBT5F.png",306 Astro AEC
+#EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" group-title="ASTRO" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYi26tqhf2hD2laOf_ZgdHTpkYT95tiwqBetLe4ycc6a3E3UqOCL6MBMTcKzRw_H6rGrc&usqp=CAU" tvg-logo="https://iili.io/1NBT5F.png",306 Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
-#EXTINF:-1 tvg-id="308" ch-number="AstroQuanJiaHD" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",307 Astro Quan Jia 
+#EXTINF:-1 tvg-id="308" ch-number="AstroQuanJiaHD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",307 Astro Quan Jia 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2706
-#EXTINF:-1 tvg-id="AstroAOD311.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="CHINESE",311 Astro AOD
+#EXTINF:-1 tvg-id="AstroAOD311.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="ASTRO",311 Astro AOD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700 
-#EXTINF:-1, tvg-id="AstroAOD352.my" group-title="CHINESE" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",352 Astro AOD
+#EXTINF:-1, tvg-id="AstroAOD352.my" group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",352 Astro AOD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
 
-#EXTINF:-1 tvg-id="333" ch-number="333" group-title="CHINESE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",Astro Hua Hee Dai
+#EXTINF:-1 tvg-id="333" ch-number="333" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",Astro Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2308
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 
-#EXTINF:-1 tvg-id="556" group-title="DOCUMENTARY" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="556",Animal Planet (MY)
+#EXTINF:-1 tvg-id="556" group-title="ASTRO" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="556",Animal Planet (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
 
-#EXTINF:-1 tvg-id="709" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" ch-number="709",Asian Food Network (MY)
+#EXTINF:-1 tvg-id="709" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" ch-number="709",Asian Food Network (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
 http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
-#EXTINF:-1 tvg-id="554" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" ch-number="554",BBC Earth (MY)
+#EXTINF:-1 tvg-id="554" group-title="ASTRO" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" ch-number="554",BBC Earth (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 
-#EXTINF:-1 tvg-id="717" ch-number="717" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle (MY)
+#EXTINF:-1 tvg-id="717" ch-number="717" group-title="ASTRO" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 
-#EXTINF:-1 tvg-id="714" group-title="DOCUMENTARY" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png" ch-number="714",Crime & Investigation (MY)
+#EXTINF:-1 tvg-id="714" group-title="ASTRO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png" ch-number="714",Crime & Investigation (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2111
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
-#EXTINF:-1 tvg-id="552" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png" ch-number="552",Discovery Channel (MY)
+#EXTINF:-1 tvg-id="552" group-title="ASTRO" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png" ch-number="552",Discovery Channel (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 
-#EXTINF:-1 tvg-id="555" group-title="DOCUMENTARY" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" ch-number="555",History (MY)
+#EXTINF:-1 tvg-id="555" group-title="ASTRO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" ch-number="555",History (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="550" group-title="DOCUMENTARY" tvg-logo="http://aqfad.xtgem.com/images/NatGeoWild.png" ch-number="550",National Geographic Wild (MY)
+#EXTINF:-1 tvg-id="550" group-title="ASTRO" tvg-logo="http://aqfad.xtgem.com/images/NatGeoWild.png" ch-number="550",National Geographic Wild (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_primary.mpd
 
-#EXTINF:-1 tvg-id="550" group-title="DOCUMENTARY" tvg-logo="http://aqfad.xtgem.com/images/NatGeoWild.png" ch-number="550",National Geographic Wild (MY)
+#EXTINF:-1 tvg-id="550" group-title="ASTRO" tvg-logo="http://aqfad.xtgem.com/images/NatGeoWild.png" ch-number="550",National Geographic Wild (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_primary.mpd
 
-#EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD"group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png", 201 Astro Vaanavil
+#EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD"group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png", 201 Astro Vaanavil
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
-#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://iili.io/1NuZbI.png", 202 Astro Vinmeen 
+#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="ASTRO" tvg-logo="https://iili.io/1NuZbI.png", 202 Astro Vinmeen 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
-#EXTINF:-1 tvg-id="251" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="INDIAN",251 Box Office Bollyone
+#EXTINF:-1 tvg-id="251" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="ASTRO",251 Box Office Bollyone
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
-#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="INDIAN",241 Box Office Thangathirai
+#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="ASTRO",241 Box Office Thangathirai
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
-#EXTINF:-1 tvg-id="AstroAura.my" ch-number="AstroAura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="INDONESIA", 113 Astro Aura  
+#EXTINF:-1 tvg-id="AstroAura.my" ch-number="AstroAura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="ASTRO", 113 Astro Aura  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 https://iplogger.com/aura
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="ASTRO RANIA HD" group-title="INDONESIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania 
+#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="ASTRO RANIA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="104" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria
+#EXTINF:-1 group-title="ASTRO" tvg-id="104" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -5189,27 +5190,27 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000
-#EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://i.imgur.com/FZoK4df.png" group-title="MALAYSIA",105 Astro Prima HD
+#EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://i.imgur.com/FZoK4df.png" group-title="ASTRO",105 Astro Prima HD
 https://aqfadtv.xyz/live/prima/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="106" ch-number="AstroOasis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546" group-title="MALAYSIA",106 Astro Oasis 
+#EXTINF:-1 tvg-id="106" ch-number="AstroOasis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546" group-title="ASTRO",106 Astro Oasis 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra 
+#EXTINF:-1 tvg-id="108" group-title="ASTRO" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra 
 #EXTVLCOPT:User-Agent=Mozilla/5.0 (Linux; Android 10; ELE-L29 Build/HUAWEIELE-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
 #EXTVLCOPT:Connection=Keep-Alive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsdnK1l5BbTowROl1chxeeU=FaFJ/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=adid&deviceId=564b7179451f47481e801e42fefe2f13&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-d7ffed98-7989-4745-ab61-aee56556a02c&optin=true&hhid=86f93b5b6b1fc0fe797b350bfb912216&kvp=lang~may&kvp=genre~HD,MALAY,MOVIES&daiEnabled=true
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
+#EXTINF:-1 group-title="ASTRO" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
 https://tinyurl.com/jj9ccxbh|referer=https://iplogger.com/2VAkG5
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna HD
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna HD
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
