@@ -254,7 +254,7 @@ https://tinyurl.com/2p8bzwnz|referer=https://iplogger.com/2VAkG5
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-#EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",108 Astro Citra ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra ⁽ˢᵉʳᵛᵉʳ ²⁾
 #EXTVLCOPT:User-Agent=Mozilla/5.0 (Linux; Android 10; ELE-L29 Build/HUAWEIELE-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
 #EXTVLCOPT:Connection=Keep-Alive
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsdnK1l5BbTowROl1chxeeU=FaFJ/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=adid&deviceId=564b7179451f47481e801e42fefe2f13&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-d7ffed98-7989-4745-ab61-aee56556a02c&optin=true&hhid=86f93b5b6b1fc0fe797b350bfb912216&kvp=lang~may&kvp=genre~HD,MALAY,MOVIES&daiEnabled=true
