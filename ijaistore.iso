@@ -1007,6 +1007,13 @@ https://is.gd/m6pArV
 #EXTVLCOPT:Referer=https://www.mjunoon.tv/
 https://cdn6.mjunoon.tv:8087/web/SaudiQuran-142/live/142H/chunks.m3u8?nimblesessionid=27894330&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIzIDE6MjA6NDQgUE0maGFzaF92YWx1ZT16YWRhei83U3BEZVBiSlVzdEFhMFVnPT0mdmFsaWRtaW51dGVzPTE=
 
+#EXTINF:-1 tvg-logo="https://www.dthsat.com/images/Madani-Channel-Logo.png" group-title="ISLAM" tvg-id="" tvg-name="", Madani Channel HD
+#EXTVLCOPT:Referer=https://www.mjunoon.tv/
+https://cdn6.mjunoon.tv:8087/web/Madni-121/live/121L/chunks.m3u8?nimblesessionid=27894509&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIzIDE6MzQ6MzEgUE0maGFzaF92YWx1ZT1YTDYzSVJ1RytsdEpocWVLaHl5dmhnPT0mdmFsaWRtaW51dGVzPTE=
+
+#EXTINF:-1 tvg-logo="https://bakhlatours.com/wp-content/uploads/2020/11/Ziyarat-in-makkah-madinah-Bakhla-tours-mumbai-hajj-umrah-tours-package.png" group-title="ISLAM" tvg-id="" tvg-name="", Saudi Sunnah Madinah TV
+#EXTVLCOPT:Referer=https://www.mjunoon.tv/
+https://cdn6.mjunoon.tv:8087/web/SaudiSunnah-141/live/141H/chunks.m3u8?nimblesessionid=27894605&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIzIDE6NDI6MDEgUE0maGFzaF92YWx1ZT15OFhDVzZIYkx3dVg5ZVU0R1JQSnZBPT0mdmFsaWRtaW51dGVzPTE=
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
