@@ -468,7 +468,6 @@ http://w.nasvpn.xyz:8080/series/saya/saya/16836.mkv
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
 #EXTVLCOPT:http-Icy-MetaData=1
 #EXTVLCOPT:Connection=Keep-Alive
-#EXTVLCOPT:referer=com.iptvliink.net
 http://w.nasvpn.xyz:8080/series/saya/saya/16837.mkv
 
 
