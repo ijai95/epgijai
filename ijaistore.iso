@@ -995,6 +995,14 @@ https://download.quranicaudio.com/quran/sahl_yaaseen/114.mp3
 
 #######################################################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LmxpdmUua2FiYmFfc2NyZWVuXzBfMTUxOTA3NDYxOV8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-logo="https://mir-s3-cdn-cf.behance.net/projects/404/6900ce154964987.Y3JvcCwxNDAwLDEwOTUsMCwxNTI.jpg" group-title="ISLAM" tvg-id="CHN" tvg-name="CHN", Makkah TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://is.gd/57WW1q
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3w5XWgiRF9lQonp4lbp3iiv6plXk5LMd0VA&usqp=CAU" group-title="ISLAM" tvg-id="" tvg-name="", Iqra TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://is.gd/m6pArV
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
 #EXTINF:-1 tvg-id="AstroAura.my" ch-number="AstroAura" group-logo="https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/bendera-indonesia.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="INDONESIA", 113 Astro Aura  
