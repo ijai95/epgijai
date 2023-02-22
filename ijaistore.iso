@@ -28,7 +28,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/995d4edc-
 
 ###########################################################################SPORTS################################################################################
 
-#EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
