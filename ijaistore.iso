@@ -238,6 +238,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", 132 Astro Warna SD ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #EXTVLCOPT:User-Agent=Mozilla/5.0 (Linux; Android 10; ELE-L29 Build/HUAWEIELE-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
 #EXTVLCOPT:Connection=Keep-Alive
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRiGlYzx4xB2KbZrF2dkcE1c=Nf07/dash-wv/jitp-linearwm/2402/default_ott.mpd
@@ -246,6 +247,7 @@ https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRiGlYzx4xB2KbZrF
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", 132 Astro Warna HD ⁽ˢᵉʳᵛᵉʳ ²⁾
 #EXTVLCOPT:User-Agent=Mozilla/5.0 (Linux; Android 10; ELE-L29 Build/HUAWEIELE-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36
 #EXTVLCOPT:Connection=Keep-Alive
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRiGlYzx4xB2KbZrF2dkcE1c=Nf07/dash-wv/jitp-linearwm/2402/default_ott.mpd
