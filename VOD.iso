@@ -25,35 +25,58 @@ url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.i
 
 ###########series##############
 #EXTINF:-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXB_IVP_LAND_432x243_20211130_215122.jpg",Episode 1
-https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E01.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E01.mp4
+#https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E01.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
 #EXTINF:-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXO_IVP_LAND_432x243_20211130_215116.jpg",Episode 2
-https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E02.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+#https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E02.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E02.mp4
+
 #EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXP_IVP_LAND_432x243_20211130_215117.jpg",Episode 3
-https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E03.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+#https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E03.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E03.mp4
+
 #EXTINF-1 type="series" group-title="Mechamato" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXQ_IVP_LAND_432x243_20211130_215124.jpg",Episode 4
-https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E04.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+#https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E04.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E04.mp4
+
 #EXTINF-1 type="series" group-title="Mechamato " tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXR_IVP_LAND_432x243_20211130_215121.jpg",Episode 5
-https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E05.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+#https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E05.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E05.mp4
+
 #EXTINF-1 type="series" group-title="Mechamato " tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXS_IVP_LAND_432x243_20211130_215138.jpg",Episode 6
-https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E06.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+#https://onedrive.astradamy.com/api?path=/TVSeries/Mechamato.2021/Mechamato.S01E06.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E06.mp4
+
 #EXTINF-1 type="series" group-title="Mechamato " tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXT_IVP_LAND_448x252_2022228_161251.jpg",Episode 7
-https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato.S01E07.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+#https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato.S01E07.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E07.mp4
+
 #EXTINF-1 type="series" group-title="Mechamato " tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXU_IVP_LAND_448x252_2022228_161259.jpg",Episode 8
-https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato.S01E08.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
-#EXTINF-1 type="series" group-title="Mechamato " tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXV_IVP_LAND_448x252_2022228_16132.jpg",Eposode 9
-https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato%20EP9%20REPACK%20%40MyDramaa.mkv&raw=true&type=file.mp4
+#https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato.S01E08.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E08.mp4
+
+#EXTINF-1 type="series" group-title="Mechamato " tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXV_IVP_LAND_448x252_2022228_16132.jpg",Episode 9
+#https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato%20EP9%20REPACK%20%40MyDramaa.mkv&raw=true&type=file.mp4
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E09.mp4
+
 #EXTINF-1 type="series" group-title="Mechamato " tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXXXW_IVP_LAND_448x252_2022228_161255.jpg",Episode 10
-https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato%20EP10%20%40MyDramaa.mkv&raw=true&type=file.mp4
+#https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/Mechamato%20EP10%20%40MyDramaa.mkv&raw=true&type=file.mp4
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E10.mp4
+
 #EXTINF-1 type="series" group-title="Mechamato " tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZNCF_IVP_LAND_448x252_2022228_153710.jpg",,Episode 11
-https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/EP11.mkv&raw=true&type=file.mp4
+#https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/EP11.mkv&raw=true&type=file.mp4
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E11.mp4
+
 #EXTINF-1 type="series" group-title="Mechamato " tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZNCG_IVP_LAND_448x252_202234_103030.jpg",Episode 12
-https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/EP12.mkv&raw=true&type=file.mp4
+#https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/EP12.mkv&raw=true&type=file.mp4
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E12.mp4
+
 #EXTINF-1 type="series" group-title="Mechamato " tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZWHN_IVP_LAND_448x252_2022228_171323.jpg",Episode 13
-https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Mechamato/%5Bon9.stream%5DMechamato.2021.S01E13.1080p.WEB-DL.x264.AAC-Pipe.mkv
+#https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Mechamato/%5Bon9.stream%5DMechamato.2021.S01E13.1080p.WEB-DL.x264.AAC-Pipe.mkv
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E13.mp4
 
 #######################################################POPEYE################################################################
-#EXTINF-1 type="series" group-title="try" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZNCG_IVP_LAND_448x252_202234_103030.jpg", test
-https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E01.mp4
 
 ##################################################################################################################################################################
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKLT2MfZYAJkz87HZGpLUd78dY7m6AswcZej2LxDiahQNzn04UKm2FiKqEL_DwrSDwibx5OXX_C9oaxQ7CwBT5sOH2PCGlgn2OnbE43_ZxrlyzaVAH8AdRg84zQXJf31GzUV-OZ-a24JBedFyfvHLFZy4IJIW6OvjzeAV7oMc2wIN7BTkNTMBNVvNPig/w0/AJL%2037.jpg", AJL
@@ -297,17 +320,6 @@ http://w.nasvpn.xyz:8080/series/saya/saya/17050.mp4
 #EXTVLCOPT:http-Icy-MetaData=1
 #EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
 http://w.nasvpn.xyz:8080/series/saya/saya/17176.mp4
-
-
-
-
-
-
-
-
-
-
-
 
 
 
