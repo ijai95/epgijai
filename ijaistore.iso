@@ -5269,32 +5269,32 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
 #######################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="801" ch-number="AstroArena" group-title="⚽MALAYSIA FOOTBALL LEAGUE⚽" ch-number="801" group-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Football_Malaysia_League.png/revision/latest?cb=20220119154121" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", 801 Astro Arena 
+#EXTINF:-1 tvg-id="801" ch-number="AstroArena" group-title="⚽MALAYSIA SUPER LEAGUE⚽" ch-number="801" group-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Football_Malaysia_League.png/revision/latest?cb=20220119154121" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", 801 Astro Arena 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
-#EXTINF:-1 tvg-id="802" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="⚽MALAYSIA FOOTBALL LEAGUE⚽", 802 Astro Arena 2 
+#EXTINF:-1 tvg-id="802" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="⚽MALAYSIA SUPER LEAGUE⚽", 802 Astro Arena 2 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
-#EXTINF:-1 tvg-id="803" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png" group-title="⚽MALAYSIA FOOTBALL LEAGUE⚽", 803 Astro Arena Bola
+#EXTINF:-1 tvg-id="803" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png" group-title="⚽MALAYSIA SUPER LEAGUE⚽", 803 Astro Arena Bola
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5100
-#EXTINF:-1 tvg-id="804" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png" group-title="⚽MALAYSIA FOOTBALL LEAGUE⚽", 804 Astro Arena Bola 2
+#EXTINF:-1 tvg-id="804" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png" group-title="⚽MALAYSIA SUPER LEAGUE⚽", 804 Astro Arena Bola 2
 https://arenabola2.astradamy.com/dash-wv/jitp-linearwm/5100/default.mpd
 
-#EXTINF:-1 tvg-id="TV1" group-title="⚽MALAYSIA FOOTBALL LEAGUE⚽" group-logo="https://harakahdaily.net/wp-content/uploads/2017/08/jalur.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="TV1" group-title="⚽MALAYSIA SUPER LEAGUE⚽" group-logo="https://harakahdaily.net/wp-content/uploads/2017/08/jalur.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 tvg-id="102" group-title="⚽MALAYSIA FOOTBALL LEAGUE⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="102" group-title="⚽MALAYSIA SUPER LEAGUE⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
