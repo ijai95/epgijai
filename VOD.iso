@@ -52,7 +52,10 @@ https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Mechamato/EP12.mkv&raw=true&ty
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Mechamato/%5Bon9.stream%5DMechamato.2021.S01E13.1080p.WEB-DL.x264.AAC-Pipe.mkv
 
 #######################################################POPEYE################################################################
+#EXTINF-1 type="series" group-title="try" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZNCG_IVP_LAND_448x252_202234_103030.jpg", test
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/Mechamato/S1/Mechamato.S01E01.mp4
 
+##################################################################################################################################################################
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKLT2MfZYAJkz87HZGpLUd78dY7m6AswcZej2LxDiahQNzn04UKm2FiKqEL_DwrSDwibx5OXX_C9oaxQ7CwBT5sOH2PCGlgn2OnbE43_ZxrlyzaVAH8AdRg84zQXJf31GzUV-OZ-a24JBedFyfvHLFZy4IJIW6OvjzeAV7oMc2wIN7BTkNTMBNVvNPig/w0/AJL%2037.jpg", AJL
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 #EXTVLCOPT:http-Icy-MetaData=1
