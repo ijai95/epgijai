@@ -5188,7 +5188,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRs6p1b4QCl1N36gGWJ_UXDg=bnu7/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #EXTINF:-1 group-title="ASTRO" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
-#EXTVLCOPT:http-user-agent=com.iptvliink.net
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
 https://tinyurl.com/jj9ccxbh|referer=https://iplogger.com/2VAkG5
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna HD
