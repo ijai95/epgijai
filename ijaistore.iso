@@ -5268,7 +5268,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
 #######################################################################################################################################################################
-#EXTINF:-1 tvg-id="801" ch-number="AstroArena" group-title="⚽MALAYSIA FOOTBALL LEAGUE⚽⚽" ch-number="801" group-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Football_Malaysia_League.png/revision/latest?cb=20220119154121" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", 801 Astro Arena 
+
+#EXTINF:-1 tvg-id="801" ch-number="AstroArena" group-title="⚽MALAYSIA FOOTBALL LEAGUE⚽" ch-number="801" group-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Football_Malaysia_League.png/revision/latest?cb=20220119154121" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", 801 Astro Arena 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
