@@ -209,8 +209,81 @@ http://w.nasvpn.xyz:8080/series/saya/saya/17174.mp4
 #EXTVLCOPT:http-Icy-MetaData=1
 #EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
 http://w.nasvpn.xyz:8080/series/saya/saya/17175.mp4
+###########¥#¥###¥#############¥#¥###¥#############¥#¥###¥#############¥#¥###¥#############¥#¥###¥###########
+#EXTINF:-1 type="series" group-title="KUDETA" tvg-logo="https://iluminasi.com/img/upload/kudeta-series.jpg", Episode 1
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+http://w.nasvpn.xyz:8080/series/saya/saya/16793.mp4
+
+#EXTINF:-1 type="series" group-title="KUDETA" tvg-logo="https://iluminasi.com/img/upload/kudeta-series.jpg", Episode 2
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+http://w.nasvpn.xyz:8080/series/saya/saya/16794.mp4
+
+#EXTINF:-1 type="series" group-title="KUDETA" tvg-logo="https://iluminasi.com/img/upload/kudeta-series.jpg", Episode 3
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+http://w.nasvpn.xyz:8080/series/saya/saya/16795.mp4
+
+#EXTINF:-1 type="series" group-title="KUDETA" tvg-logo="https://iluminasi.com/img/upload/kudeta-series.jpg", Episode 4
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+http://w.nasvpn.xyz:8080/series/saya/saya/16796.mp4
+
+#EXTINF:-1 type="series" group-title="KUDETA" tvg-logo="https://iluminasi.com/img/upload/kudeta-series.jpg", Episode 5
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+http://w.nasvpn.xyz:8080/series/saya/saya/16950.mp4
+
+#EXTINF:-1 type="series" group-title="KUDETA" tvg-logo="https://iluminasi.com/img/upload/kudeta-series.jpg", Episode 6
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+http://w.nasvpn.xyz:8080/series/saya/saya/16951.mp4
+
+#EXTINF:-1 type="series" group-title="KUDETA" tvg-logo="https://iluminasi.com/img/upload/kudeta-series.jpg", Episode 7
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+http://w.nasvpn.xyz:8080/series/saya/saya/16952.mp4
+
+#EXTINF:-1 type="series" group-title="KUDETA" tvg-logo="https://iluminasi.com/img/upload/kudeta-series.jpg", Episode 8
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+http://w.nasvpn.xyz:8080/series/saya/saya/16793.mp4
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##¥#¥###¥#############¥#¥###¥#############¥#¥###¥#############¥#¥###¥#############¥#¥###¥###########
 #EXTINF:-1 type="movies" group-title="VOD ENGLISH" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/63eae465aba57f2b15869b2d/Official-Dolby-Cinema-poster-for--Avatar--The-Way-of-Water-/960x0.jpg?format=jpg&width=960", Avatar The Way Of Water Sub Malay
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 #EXTVLCOPT:http-Icy-MetaData=1
