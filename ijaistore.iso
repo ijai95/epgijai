@@ -210,7 +210,7 @@ https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/live/unifitv/siar/
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/siar/
 #EXTINF:-1 tvg-id="SIAR" tvg-name="SIAR" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",Unifi Siar
 https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
