@@ -50,7 +50,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 ⁽ˢᵉʳᵛᵉʳ ¹⁾  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/tv3/
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 https://aqfadtv.xyz/live/tv3/index.mpd
 
 #EXTINF:-1 group-title="MALAYSIA" ch-number="103" tvg-id="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 ⁽ˢᵉʳᵛᵉʳ ²⁾
