@@ -1362,32 +1362,53 @@ https://onedrive.astradamy.com/api/raw/?path=/TVSeries/Korea.No.1.2022/Korea.No.
 
 #######################################################END################################################################
 
-#EXTINF-1 type="series" group-title="The Masked Singer 2020" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/The_Masked_Singer_US_Season_1_Poster.png",S1 Episode 1
-https://onedrive.astradamy.com/api/raw/?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E01.WEBDL-@cap.mp4
-#EXTINF-1 type="series" group-title="The Masked Singer 2020" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/The_Masked_Singer_US_Season_1_Poster.png",S1 Episode 2
-https://onedrive.astradamy.com/api/raw/?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E02.WEBDL-@cap.mp4
-#EXTINF-1 type="series" group-title="The Masked Singer 2020" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/The_Masked_Singer_US_Season_1_Poster.png",S1 Episode 3
-https://onedrive.astradamy.com/api/raw/?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E03.WEBDL-@cap.mp4
-#EXTINF-1 type="series" group-title="The Masked Singer 2020" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/The_Masked_Singer_US_Season_1_Poster.png",S1 Episode 4
-https://onedrive.astradamy.com/api/raw/?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E04.WEBDL-@cap.mp4
-#EXTINF-1 type="series" group-title="The Masked Singer 2020" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/The_Masked_Singer_US_Season_1_Poster.png",S1 Episode 5
-https://onedrive.astradamy.com/api/raw/?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E05.WEBDL-@cap.mp4
-#EXTINF-1 type="series" group-title="The Masked Singer 2020" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/The_Masked_Singer_US_Season_1_Poster.png",S1 Episode 6
-https://onedrive.astradamy.com/api/raw/?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E06.WEBDL-@cap.mp4
-#EXTINF-1 type="series" group-title="The Masked Singer 2020" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/The_Masked_Singer_US_Season_1_Poster.png",S1 Episode 7
-https://onedrive.astradamy.com/api/raw/?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E07.WEBDL-@cap.mp4
-#EXTINF-1 type="series" group-title="The Masked Singer 2020" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/The_Masked_Singer_US_Season_1_Poster.png",S1 Episode 8
-https://onedrive.astradamy.com/api/raw/?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E08.WEBDL-@cap.mp4
-#EXTINF-1 type="series" group-title="The Masked Singer 2021" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/10/17/16344632430381.jpg",S2 Episode 1
-https://onedrive.astradamy.com/api/raw/?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E01.1080p.WEB-DL.mp4
-#EXTINF-1 type="series" group-title="The Masked Singer 2021" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/10/17/16344632430381.jpg",S2 Episode 2
-https://onedrive.astradamy.com/api/raw/?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E02-@cap.mp4
-#EXTINF-1 type="series" group-title="The Masked Singer 2021" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/10/17/16344632430381.jpg",S2 Episode 3
-https://onedrive.astradamy.com/api/raw/?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E03.Sooka-WEB-DL.mp4
-#EXTINF-1 type="series" group-title="The Masked Singer 2021" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/10/17/16344632430381.jpg",S2 Episode 4
-https://onedrive.astradamy.com/api/raw/?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E04.Sooka-WEB-DL.mp4
-#EXTINF-1 type="series" group-title="The Masked Singer 2021" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/10/17/16344632430381.jpg",S2 Episode 5
-https://onedrive.astradamy.com/api/raw/?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.S02E05.Sooka-WEB-DL.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S1.1
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E01.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S1.2
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E02.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S1.3
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E03.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S1.4
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E04.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S1.5
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E05.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S1.6
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E06.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S1.7
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E07.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S1.8
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S1.2020/The.Masked.Singer.Malaysia.S01E08.WEBDL-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S2.1
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E01-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S2.2
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E02-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S2.3
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E03-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S2.4
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E04-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S2.5
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E05-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S2.6
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E06-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S2.7
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E07-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S2.8
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E08-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S2.9
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E09-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S2.10
+https://onedrive.astradamy.com/api?path=/TVSeries/The.Masked.Singer.Malaysia/S2.2022/The.Masked.Singer.Malaysia.S02E010-%40cap.mp4&raw=true&type=file.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S3.1
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S3/The.Masked.Singer.Malaysia.S03E01.1080p.Sooka.WEB-DL.H264.AAC-AqFadTV.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S3.2
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S3/The.Masked.Singer.Malaysia.S03E02.1080p.Sooka.WEB-DL.H264.AAC-AqFadTV.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S3.3
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S3/The.Masked.Singer.Malaysia.S03E03.1080p.Sooka.WEB-DL.H264.AAC-AqFadTV.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S3.4
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S3/The.Masked.Singer.Malaysia.S03E04.1080p.Sooka.WEB-DL.H264.AAC-AqFadTV.mp4
+#EXTINF-1 type="series" group-title="The Masked Singer Malaysia" tvg-logo="https://www.utusan.com.my/wp-content/uploads/WhatsApp-Image-2022-01-14-at-10.04.09-AM-600x578.jpeg",S3.5
+https://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Series/The-Masked-Singer-Malaysia/S3/The.Masked.Singer.Malaysia.S03E05.1080p.Sooka.WEB-DL.H264.AAC-AqFadTV.mp4
+
 
 #######################################################END################################################################
 
