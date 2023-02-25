@@ -3994,7 +3994,7 @@ https://ddy1.onlinewebtv.lol/ddy1/premium43/tracks-v1a1/mono.m3u8|referer=https:
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroUHD.my" tvg-name="Astro UHD" group-title="⚽SPORTS⚽" tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png", 805 Astro Supersport UHD 
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro Supersport UHD" group-title="⚽SPORTS⚽" tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png", 805 Astro Supersport UHD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5254,7 +5254,7 @@ https://ddy1.onlinewebtv.lol/ddy1/premium43/tracks-v1a1/mono.m3u8|referer=https:
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroUHD.my" tvg-name="Astro UHD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png", 805 Astro Supersport UHD 
+#EXTINF:-1 tvg-id="AstroSupersportUHD." tvg-name="Astro Supersport UHD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png", 805 Astro Supersport UHD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
