@@ -5241,7 +5241,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 #EXTINF:-1 tvg-id="astrocricket.my" tvg-name="Astro Cricket HD" ch-number="824" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",824 Astro Cricket 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria HH" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria 
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria 
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 http://w.nasvpn.xyz:8080/saya/saya/177.m3u8
 
