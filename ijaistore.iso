@@ -189,7 +189,7 @@ https://aqfadtv.xyz/live/prima/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="AstroOasis.my" ch-number="AstroOasis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546" group-title="MALAYSIA",106 Astro Oasis 
+#EXTINF:-1 tvg-id="AstroOasis.my" ch-number="106" tvg-id="Astro Oasis HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546" group-title="MALAYSIA",106 Astro Oasis 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 # https://stream.zeehanzgadget.com/oasis.mpd
 # https://tv.kpsvpn.com/kpsboyoasis.mpd
@@ -234,7 +234,7 @@ https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsVmcK3fJ6oeGfB1
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRuR4Gr1QXP5xxNL4fFCXSvc=wcCc/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroSensasi.my" tvg-" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 http://w.nasvpn.xyz:8080/saya/saya/16841.m3u8
 
@@ -5156,7 +5156,7 @@ https://iplogger.com/aura
 #EXTINF:-1 tvg-id="AstroRania.my" tvg-name="ASTRO RANIA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
-#EXTINF:-1 group-title="ASTRO" tvg-id="104" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria
+#EXTINF:-1 group-title="ASTRO" tvg-id="AstroRia.my" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -5170,22 +5170,22 @@ https://aqfadtv.xyz/live/prima/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="AstroOasis.my" ch-number="Astro Oasis HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546" group-title="ASTRO",106 Astro Oasis 
+#EXTINF:-1 tvg-id="AstroOasis.my" ch-number="106" tvg-id="Astro Oasis HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546" group-title="ASTRO",106 Astro Oasis 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 tvg-id="108" group-title="ASTRO" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra 
+#EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-id="Astro Citra HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRuR4Gr1QXP5xxNL4fFCXSvc=wcCc/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 #https://citra.astradamy.com/dash-wv/jitp-linearwm/2700/default.mpd
 
 
-#EXTINF:-1 group-title="ASTRO" tvg-id="AstroSensasi.sg" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
+#EXTINF:-1 group-title="ASTRO" tvg-id="AstroSensasi.my" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 http://w.nasvpn.xyz:8080/saya/saya/16841.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsVmcK3fJ6oeGfB1EupqAnc=4o83/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
