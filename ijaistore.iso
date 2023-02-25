@@ -91,7 +91,7 @@ http://51.79.82.208:16006
 #EXTINF:-1 tvg-id="149" tvg-name="TV9" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",149 TV9 ⁽ˢᵉʳᵛᵉʳ ²⁾
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 
-#EXTINF:-1 tvg-id="611" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria 
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria HD" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria 
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 http://w.nasvpn.xyz:8080/saya/saya/177.m3u8
 
@@ -3584,7 +3584,7 @@ https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-
 #EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-name="Anime All Day" tvg-logo="https://i.ibb.co/SKvN1BM/Anime-Unlimited-Logo-1200x.png" group-title="KIDS",Anime Alldays
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dd4b&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-id="611" group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria 
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria HD" group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria 
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 http://w.nasvpn.xyz:8080/saya/saya/177.m3u8
 
