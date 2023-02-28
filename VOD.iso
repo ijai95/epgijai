@@ -390,6 +390,11 @@ http://w.nasvpn.xyz:8080/series/saya/saya/17050.mp4
 #EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
 http://w.nasvpn.xyz:8080/series/saya/saya/17176.mp4
 
+#EXTINF:-1 type="series" group-title="Spacial Force Anarchy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q3YWUxNDktNDU1ZS00ZjgzLWIwNTYtMmQ5MTdhNmIwMDM5XkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_.jpg", Episode 7
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+http://w.nasvpn.xyz:8080/series/saya/saya/17189.mp4
 
 
 ##¥#¥###¥#############¥#¥###¥#############¥#¥###¥#############¥#¥###¥#############¥#¥###¥###########
