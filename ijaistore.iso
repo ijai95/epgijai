@@ -3578,8 +3578,6 @@ https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dd4b&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria HD" group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria 
-##EXTVLCOPT:http-user-agent=com.iptvlin k.net
-##http://w.nasvpn.xyz:8080/saya/saya/177.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2606
 https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe11e-51ySE8qCm9hjOMUQV8=G1k7/dash-wv/jitp-linearwm/2606/default_ott.mpd
@@ -3949,8 +3947,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-id="810" group-title="⚽SPORTS⚽" ch-number="816" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",816 SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
-https://linears-playback.astro.com.my/vsgN/41dYH3bDkEZmb6W-4aT2tq9N61NAYJuP8sraFrdoerF7o=G-gc/dash-wv/jitp-linearwm/5079/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena HD" group-title="⚽SPORTS⚽" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", 801 Astro Arena 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4069,7 +4067,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 #EXTINF:-1 tvg-id="810" tvg-name="SPOTV2" group-title="⚽SPORTS⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png",810 Spotv 2 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="SPOTV.kr" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png", Spotv 1 Asia
@@ -4096,9 +4094,6 @@ https://bcovlive-a.akamaihd.net/c9053e496b884f45806493074da15f6e/ap-northeast-1/
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
 #EXTINF:-1 tvg-id="818" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="⚽SPORTS⚽",BeINSports
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
-
-#EXTINF:-1 tvg-id="beINSports1Indonesia.id" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/d55Yhf3/Desain-tanpa-judul-11-modified.png",beINSports 1 
-https://no2.onlinewebtv.lol/ddy1/premium62/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
@@ -5296,8 +5291,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria 
-##EXTVLCOPT:http-user-agent=com.iptvlin k.net
-##http://w.nasvpn.xyz:8080/saya/saya/177.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2606
 https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe11e-51ySE8qCm9hjOMUQV8=G1k7/dash-wv/jitp-linearwm/2606/default_ott.mpd
