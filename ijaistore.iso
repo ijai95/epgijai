@@ -2725,12 +2725,12 @@ https://av-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie
 
 
 
-#EXTINF:-1 tvg-id="712" ch-number="712" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",712 Warner TV (MY)
+#EXTINF:-1 tvg-id="712" ch-number="712" tvg-name="Warner TV HD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",712 Warner TV (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
-#EXTINF:-1 tvg-id="712" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",712 Warner TV (ID)
+#EXTINF:-1 tvg-id="712" tvg-name="Warner TV HD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",712 Warner TV (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -2760,7 +2760,7 @@ https://live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaaa02f58d19457c6385bf2831706f10:7294ff05390550e09df76ef3b697f8da
-#EXTINF:-1 tvg-id="704" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png" group-title="MOVIES",704 Primetime 
+#EXTINF:-1 tvg-id="Primetime" tvg-name="PRIMEtime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png" group-title="MOVIES",704 Primetime 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Thrill.hk" group-title="MOVIES" tvg-logo="https://i.ibb.co/7vfgMHb/images-modified.png",Thrill (ID)
@@ -2779,23 +2779,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1109/default_primary.mpd
 #EXTINF:-1 tvg-id="ShowcaseMovies" tvg-name="SHOWCASE MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" group-title="MOVIES",413 Showcase Movies 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
-#EXTINF:-1 tvg-id="706" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" ch-number="706",706 Hits (MY) 
+#EXTINF:-1 tvg-id="706" tvg-name="HITS" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" ch-number="706",706 Hits (MY) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
-#EXTINF:-1 tvg-id="706" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",706 Hits (ID)
+#EXTINF:-1 tvg-id="706" tvg-name="HITS" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",706 Hits (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-id="401" tvg-name="Hits Movies HD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 HITS Movies (MY)
+#EXTINF:-1 tvg-id="401" tvg-name="HITS Movies HD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 HITS Movies (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
-#EXTINF:-1 tvg-id="401" tvg-name="Hits Movies HD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 Hits Movies (ID) 
+#EXTINF:-1 tvg-id="401" tvg-name="HITS Movies HD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 Hits Movies (ID) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -2813,7 +2813,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
-#EXTINF:-1 tvg-id="713" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" group-title="MOVIES",713 Paramount Network
+#EXTINF:-1 tvg-id="713" tvg-name="Paramount Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" group-title="MOVIES",713 Paramount Network
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="MOVIES" tvg-id="411" tvg-name="411", CinemaWorld HD
@@ -3768,7 +3768,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
-#EXTINF:-1 tvg-id="501" ch-number:"AstroAwani" group-title="NEWS" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Astro_News.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astro Awani 
+#EXTINF:-1 tvg-id="501" ch-number:"AstroAwani" tvg-name="Astro Awani HD" group-title="NEWS" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Astro_News.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astro Awani 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
 #EXTINF:-1 tvg-id="502" ch-number="502" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",Bernama
@@ -5308,11 +5308,15 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" ch-number:"501" group-title="ASTRO" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Astro_News.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astro Awani 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
-#EXTINF:-1 tvg-id="401" tvg-name="Hits Movies HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 HITS Movies (MY)
+#EXTINF:-1 tvg-id="401" tvg-name="HITS Movies HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 HITS Movies (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
+#EXTINF:-1 tvg-id="713" tvg-name="Paramount Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" group-title="ASTRO",713 Paramount Network
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
 
 #######################################################################################################################################################################
 
