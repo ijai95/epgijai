@@ -114,7 +114,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 #EXTINF:-1 tvg-id="CHN" tvg-name="RTB Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="MALAYSIA",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="MALAYSIA", RTB Aneka
+#EXTINF:-1 tvg-id="CHN" tvg-name="RTB Aneka" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="MALAYSIA", RTB Aneka
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="114" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA",TV Ikim 
@@ -256,7 +256,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2501
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
 
-#EXTINF:-1 tvg-id="GoShopGAAYA" tvg-name="Go Shop GAAYA" group-title="MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",Go Shop GAAYA
+#EXTINF:-1 tvg-id="GoShop 303" tvg-name="Go Shop 303" group-title="MALAYSIA" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",Go Shop GAAYA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/507
 https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
@@ -265,13 +265,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 ########################################################BRUNEI###########################################################################################
 
 
-#EXTINF:-1 tvg-id="TV1" group-title="BRUNEI" group-logo="https://png.pngtree.com/png-clipart/20221215/ourmid/pngtree-brunei-flag-in-watercolor-hard-brush-new-png-image_6524989.png" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera.png", RTB Sukmaindera
+#EXTINF:-1 tvg-id="TV1" tvg-name="RTB Sukmaindera" group-title="BRUNEI" group-logo="https://png.pngtree.com/png-clipart/20221215/ourmid/pngtree-brunei-flag-in-watercolor-hard-brush-new-png-image_6524989.png" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera.png", RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8|referer=https://www.rtbgo.bn/
 
 
-#EXTINF:-1 tvg-id="TV1" group-title="BRUNEI" group-logo="https://png.pngtree.com/png-clipart/20221215/ourmid/pngtree-brunei-flag-in-watercolor-hard-brush-new-png-image_6524989.png" tvg-logo="https://rtb-images.glueapi.io/300x0/live/GoLiveNew.png", Go Live
+#EXTINF:-1 tvg-id="TV1" tvg-name="Go Live" group-title="BRUNEI" group-logo="https://png.pngtree.com/png-clipart/20221215/ourmid/pngtree-brunei-flag-in-watercolor-hard-brush-new-png-image_6524989.png" tvg-logo="https://rtb-images.glueapi.io/300x0/live/GoLiveNew.png", Go Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8|referer=https://www.rtbgo.bn/
 
+#EXTINF:-1 tvg-id="CHN" tvg-name="RTB Aneka" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="MALAYSIA", RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 
 ########################################################AL-QURAN2###########################################################################################
@@ -1390,7 +1392,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
-#EXTINF:-1 tvg-id="251" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="INDIAN",251 Box Office Bollyone HD
+#EXTINF:-1 tvg-id="251" tvg-name="Box Office Bollywood HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="INDIAN",251 Box Office Bollyone HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1494,7 +1496,7 @@ http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/1070
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="INDIAN",BBO Classic Movies
 https://is.gd/LtSb4L
 
-#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="INDIAN",Box office Bollywood
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="Box Office Bollywood HD" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="INDIAN",Box office Bollywood
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 
 #EXTINF:0 group-title="INDIAN" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUus Tamil
@@ -5114,20 +5116,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
-#EXTINF:-1 tvg-id="308" ch-number="AstroQuanJiaHD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",307 Astro Quan Jia 
+#EXTINF:-1 tvg-id="308" ch-number="AstroQuanJiaHD" tvg-name="Astro Quan Jia HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",307 Astro Quan Jia 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2706
-#EXTINF:-1 tvg-id="AstroAOD311.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="ASTRO",311 Astro AOD
+#EXTINF:-1 tvg-id="AstroAOD311" tvg-name="Astro AOD HD 311" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="ASTRO",311 Astro AOD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700 
-#EXTINF:-1, tvg-id="AstroAOD352.my" group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",352 Astro AOD
+#EXTINF:-1, tvg-id="AstroAOD352" tvg-name="Astro AOD HD 352" group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",352 Astro AOD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
 
-#EXTINF:-1 tvg-id="333" ch-number="333" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",Astro Hua Hee Dai
+#EXTINF:-1 tvg-id="333" ch-number="333" tvg-name="Astro Hua Hee Dai HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",Astro Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2308
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
@@ -5182,7 +5184,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
-#EXTINF:-1 tvg-id="251" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="ASTRO",251 Box Office Bollyone HD
+#EXTINF:-1 tvg-id="251" tvg-name="Box Office Bollywood HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="ASTRO",251 Box Office Bollyone HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5247,12 +5249,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
-#EXTINF:-1 tvg-id="803" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png" group-title="ASTRO", 803 Astro Arena Bola
+#EXTINF:-1 tvg-id="803" tvg-name="Astro Arena Bola" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png" group-title="ASTRO", 803 Astro Arena Bola
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5100
-#EXTINF:-1 tvg-id="804" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png" group-title="ASTRO", 804 Astro Arena Bola 2
+#EXTINF:-1 tvg-id="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png" group-title="ASTRO", 804 Astro Arena Bola 2
 https://linears-playback.astro.com.my/vsg/41rPbSnK_JMAtzbS_scmbNiw-0BadKg0M3jOHibdHuGhM=37DG/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport1.my" tvg-name="Astro SuperSport HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 811 Astro SuperSport 1
