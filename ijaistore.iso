@@ -3634,8 +3634,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a0
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_primary.mpd
 
 #EXTINF:-1 tvg-id="612" tvg-name="Dreamworks" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/485_144.png" group-title="KIDS",612 Dreamworks
-#EXTVLCOPT:http-user-agent=zhzsonsznsdd
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/pengetahuan/dream
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5095
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
+
 
 #EXTINF:-1 tvg-id="TotallyTurtles.us" tvg-name="TOTALLY TURTLES" tvg-logo="https://i.ibb.co/LpzDYR5/large-125783-ufrfla3cqxzase0mme6hh0jdw.jpg"  group-title="KIDS",Nick Totally Turtle
 https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
