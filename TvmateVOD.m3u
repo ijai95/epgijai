@@ -3969,6 +3969,12 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="RTMK04" tvg-name="TV SUKAN" group-title="⚽SPORTS⚽" tvg-logo="https://i.ibb.co/HphXBMH/Sukan-RTM-1-April-removebg-preview.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png" group-title="⚽SPORTS⚽", 803 Astro Arena Bola
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
+
+
 #EXTINF:-1 tvg-id="801" ch-number="AstroArena" group-title="⚽SPORTS⚽" ch-number="801" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic631.jpg", 801 Astro Arena 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
