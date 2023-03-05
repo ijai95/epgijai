@@ -1285,7 +1285,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd0
 ================plato tv==================
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/14411e7bb508c400f65dd42f6ec71e23.png" group-title="INDIAN" tvg-id="" tvg-name="", Sony Wah
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/14411e7bb508c400f65dd42f6ec71e23.png" group-title="INDIAN" group-logo="https://cdn.pixabay.com/photo/2018/12/10/10/02/flag-3866559__340.jpg" tvg-id="" tvg-name="", Sony Wah
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/GEztK1
 
