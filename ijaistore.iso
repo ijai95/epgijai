@@ -1284,14 +1284,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd0
 
 ================plato tv==================
 
-#EXTINF:-1 tvg-logo="https://pic.weblogographic.com/img/news/824/what-is-the-meaning-of-indian-flag_1.jpg" group-logo="https://pic.weblogographic.com/img/news/824/what-is-the-meaning-of-indian-flag_1.jpg" group-title="INDIAN" tvg-id="" tvg-name="", And Picture HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://102.222.232.18:9981/stream/channelid/1428660321?ticket=2127692198750766DE978DFBA6AB77D70E413F54&profile=matroska
-
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="INDIAN" tvg-id="333" tvg-name="333", Colors Cineplex
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://102.222.232.18:9981/stream/channelid/57589000?ticket=24D3D3DB404A35020C77A702590B10ECD6CD224F&profile=matroska
-
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png" group-title="INDIAN" tvg-id="" tvg-name="", Jaya Max
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 https://is.gd/g4Z13i
@@ -1322,12 +1314,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="INDIAN" tvg-id="212" tvg-name="212",212 Sun Music HD
+#EXTINF:-1 tvg-name="Sun Music HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="INDIAN" tvg-id="212" tvg-name="212",212 Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5011
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="INDIAN" tvg-id="211" tvg-name="211",211 Sun TV
+#EXTINF:-1 tvg-name="SUN TV HD" tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="INDIAN" tvg-id="211" tvg-name="SUN TV HD",211 Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
@@ -1363,7 +1355,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://sansat.net:25461/live/eVjmHSZqKqsakk9/VyPkwjxEnXvOwgA/96172.ts
 
-#EXTINF:-1 tvg-id="201" ch-number="201" group-title="INDIAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="201" ch-number="201" tvg-name="Astro Vaanavil HD" group-title="INDIAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2309
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
@@ -1373,10 +1365,10 @@ https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
-#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://iili.io/1NuZbI.png",Astro Vinmeen ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://iili.io/1NuZbI.png",202 Astro Vinmeen ⁽ˢᵉʳᵛᵉʳ ¹⁾
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
 
-#EXTINF:-1 tvg-id="202" ch-number="202" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTINF:-1 tvg-id="202" ch-number="202" tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
 https://aqfadtv.xyz/live/vinmeen/index.mpd
@@ -1390,40 +1382,25 @@ https://aqfadtv.xyz/live/vinmeen/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
-#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="INDIAN",241 Box Office Thangathirai
+#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="INDIAN",241 Box Office Thangathirai
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
-#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="INDIAN",241 Box Office Thangathirai
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
-#EXTINF:-1 tvg-id="251" tvg-name="Box Office Bollywood HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="INDIAN",251 Box Office Bollyone HD
+#EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="INDIAN",251 Box Office Bollyone HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://gretong.devs.id/hex/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-ID="Colors.in" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="INDIAN",Colors
-https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2611
-#EXTINF:-1 tvg-id="116" ch-number="ColorsHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title="INDIAN",116 Colors Hindi
+#EXTINF:-1 tvg-id="ColorsHD" ch-number="116" tvg-name="Colors Hindi HD"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title="INDIAN",116 Colors Hindi
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101
-#EXTINF:-1 tvg-id="222" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="INDIAN", 222 Colors Tamil
+#EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="INDIAN", 222 Colors Tamil
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 
-#EXTINF:-1 tvg-id="333" group-title="INDIAN" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",333 Colors Cineplex
-http://teeveetv.one:2052/syntax/MKlaiuUcj2/753963
-
-#EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-name="Colors Gujarati" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/77c35a2586cb05de8134d259139e67a1.png" group-title="INDIAN",Colors Gujarati
-http://teeveetv.one:2052/syntax/MKlaiuUcj2/753962
 
 #EXTINF:-1 tvg-id="ColorsKannada.in" tvg-name="Colors Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/783cbfb3051d12d7992f82ae4f7c91fa.png" group-title="INDIAN",Colors Kannada
 #http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/192203
@@ -1431,8 +1408,6 @@ http://teeveetv.one:2052/syntax/MKlaiuUcj2/753962
 #EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-name="COLORS Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/744bdecf60935c49e1fac6c0feabcc6e.png" group-title="INDIAN",Colors Marathi
 #http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/82642
 
-#EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-name="Colors Rishtey Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/57698714035590a5681e1ddf715be5f9.png" group-title="INDIAN",Colors Rishtey
-http://teeveetv.one:2052/syntax/MKlaiuUcj2/753965
 
 #EXTINF:-1 tvg-id="Andpictures.in" tvg-logo="https://i.ibb.co/hZ37R7j/Desain-tanpa-judul-2022-07-19-T144552-875-modified.png" group-title="INDIAN",&Picture
 http://watchindia.net:8880/live/vvv/vvv/783.ts 
@@ -1440,7 +1415,7 @@ http://watchindia.net:8880/live/vvv/vvv/783.ts
 #EXTINF:-1 tvg-id="AndxplorHD.in" tvg-logo="https://i.ibb.co/HYQ4CkZ/Desain-tanpa-judul-2022-07-19-T144628-095-modified.png" group-title="INDIAN",&xplor
 http://watchindia.net:8880/live/vvv/vvv/2204.ts
 
-#EXTINF:-1 tvg-id="211" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV  
+#EXTINF:-1 tvg-id="211" tvg-name="SUN TV HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
@@ -1460,7 +1435,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5089
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
 
-#EXTINF:-1 tvg-id="212" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",212 Ktv
+#EXTINF:-1 tvg-id="216" tvg-name="KTV" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png",216 Ktv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5088
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
@@ -1470,12 +1445,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=19e79967a0f1ead8bb7bc453bbc3d110:592722a6819d1226921e68d689262497
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_primary.mpd
 
-#EXTINF:-1 tvg-id="214" ch-number="214" group-title="INDIAN" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",214 Adithya 
+#EXTINF:-1 tvg-id="214" ch-number="214" tvg-name="Adithya" group-title="INDIAN" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",214 Adithya 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/915
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
 
-#EXTINF:-1 tvg-id="223" ch-number="223" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil 
+#EXTINF:-1 tvg-id="ZeeTamil" tvg-name="Zee Tamil HD" ch-number="223" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
@@ -1500,12 +1475,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 #EXTINF:-1 tvg-id="StarGoldHD.in" tvg-name="Star Gold HD India" tvg-logo="https://i.ibb.co/ngntF9d/Star-Gold-2011.png" group-title="INDIAN",Star Gold
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/1070
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="INDIAN",BBO Classic Movies
-https://is.gd/LtSb4L
-
-#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="Box Office Bollywood HD" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="INDIAN",Box office Bollywood
-https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 
 #EXTINF:0 group-title="INDIAN" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUus Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1633,11 +1602,6 @@ https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="INDIAN",Jay TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://livematrix.in:1935/live/jay/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/YeR3mm9.png" group-title="INDIAN",Velicham TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1663,10 +1627,8 @@ http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
 
-#EXTINF:1 tvg-id="B4UMoviesIndia.in" tvg-name="B4U Movies India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNStmeIQpe4pTxs94MTXed-SUZS1BdLw_2kQ&usqp=CAU" group-title="INDIAN",B4U Movie 
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+ROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svZGRrs/Sony-modified.png" group-title="INDIAN",Sony TV
@@ -1684,17 +1646,6 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manife
 #EXTINF:-1 tvg-ID="SonyMax.in" tvg-name="Sony Max India" tvg-logo="https://images.toffeelive.com/images/program/641/logo/115x115/mobile_logo_602468001571288709.png" group-title="INDIAN",Sony Max
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:set_max_hd.smil/manifest.mpd
 # http://208.86.19.13:81/706.stream/index.m3u8
-
-#EXTINF:-1 tvg-ID="BflixMovies.in" tvg-name="Bflix Movies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="INDIAN",Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-id="UtsavGold.uk" tvg-name="Star Utsav Movies" tvg-logo="https://i.ibb.co/jkwqqzW/download.jpg" group-title="INDIAN",Utsav Gold
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="UtsavPlus.uk" tvg-name="Star Utsav" tvg-logo="https://i.ibb.co/DG5Q3vk/Star-plus-2016.png" group-title="INDIAN",Utsav Plus
-http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
-
-
 
 
 
@@ -5133,12 +5084,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
-#EXTINF:-1 tvg-id="251" tvg-name="Box Office Bollywood HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="ASTRO",251 Box Office Bollyone HD
+#EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="ASTRO",251 Box Office Bollyone HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
-#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="ASTRO",241 Box Office Thangathirai
+#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="ASTRO",241 Box Office Thangathirai
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
