@@ -1387,12 +1387,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 #http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/82642
 
 
-#EXTINF:-1 tvg-id="Andpictures.in" tvg-logo="https://i.ibb.co/hZ37R7j/Desain-tanpa-judul-2022-07-19-T144552-875-modified.png" group-title="INDIAN",&Picture
-http://watchindia.net:8880/live/vvv/vvv/783.ts 
-
-#EXTINF:-1 tvg-id="AndxplorHD.in" tvg-logo="https://i.ibb.co/HYQ4CkZ/Desain-tanpa-judul-2022-07-19-T144628-095-modified.png" group-title="INDIAN",&xplor
-http://watchindia.net:8880/live/vvv/vvv/2204.ts
-
 #EXTINF:-1 tvg-id="211" tvg-name="SUN TV HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
