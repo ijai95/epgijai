@@ -3770,7 +3770,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2100
-#EXTINF:-1 tvg-id="820" tbg-name="Euro Sport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="⚽SPORTS⚽",820 Eurosport
+#EXTINF:-1 tvg-id="820" tvg-name="Euro Sport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="⚽SPORTS⚽",820 Eurosport
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic213.jpg", Eurosport 1
@@ -3818,28 +3818,28 @@ https://bcovlive-a.akamaihd.net/c9053e496b884f45806493074da15f6e/ap-northeast-1/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
-#EXTINF:-1 tvg-id="818" tvg-name="beIN Sport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="⚽SPORTS⚽", 818 BeINSports
+#EXTINF:-1 tvg-id="beINSport" tvg-name="beIN Sports HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="⚽SPORTS⚽", 818 BeINSports
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
-#EXTINF:-1 tvg-id="817" tvg-name="beIN Sport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="⚽SPORTS⚽",817 beINSports 2
+#EXTINF:-1 tvg-id="817" tvg-name="beIN Sports 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="⚽SPORTS⚽",817 beINSports 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
-#EXTINF:-1 tvg-id="819" tvg-name="beIN Sport 3 HD" group-title="⚽SPORTS⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",819 beINSports 3
+#EXTINF:-1 tvg-id="819" tvg-name="beIN Sports 3 HD" group-title="⚽SPORTS⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",819 beINSports 3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 tvg-id="beINSports4" tvg-name="beIN Sport 4 HD" group-title="⚽SPORTS⚽" ch-number="809" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 4 
+#EXTINF:-1 tvg-id="beINSports4" tvg-name="beIN Sports 4 HD" group-title="⚽SPORTS⚽" ch-number="809" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://newtest.onlinewebtv.lol/ddyx2/premium94/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
-#EXTINF:-1 tvg-id="beINSports5" tvg-name="beIN Sport 5 HD" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 5
+#EXTINF:-1 tvg-id="beINSports5" tvg-name="beIN Sports 5 HD" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://s3.flowerscast.com:999/hls/bein5arab.m3u8?md5=-FfkRjmHIPDcx_pvM7ECBw&expires=1675623289|referer=https://gocast2.com/
 
-#EXTINF:-1 tvg-id="beINSports6" tvg-name="beIN Sport 6 HD" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 6
+#EXTINF:-1 tvg-id="beINSports6" tvg-name="beIN Sports 6 HD" group-title="⚽SPORTS⚽" ch-number="" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png", beINSports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://s3.flowerscast.com:999/hls/bein6arab.m3u8?md5=kUM8VIO14NssckcRDP3obg&expires=1675427484|referer=https://gocast2.com/
 
