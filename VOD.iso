@@ -560,14 +560,7 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/13527.mkv
 
 ##########################################################################################################################################################
 
-#EXTINF-1 type="series" group-title="Sembang Jarak Jauh" tvg-logo=https://i.ytimg.com/vi/V_mQEHgVN7s/maxresdefault.jpg",Episod 1
-#EXTVLCOPT:referer=https://rtm-player.glueapi.io/
-https://d13snj70thqlha.cloudfront.net/b46acc04-74f2-47bc-ad47-61b732efe2a1/video-1080.m3u8
 
-#EXTINF-1 type="series" group-title="Sembang Jarak Jauh" tvg-logo=https://i.ytimg.com/vi/V_mQEHgVN7s/maxresdefault.jpg",Episod 2
-#EXTVLCOPT:referer=https://rtm-player.glueapi.io/
-https://d13snj70thqlha.cloudfront.net/88e632ff-5fe9-48d7-93d0-219001fa8af4/audio/128000/seg_0.ts
-https://d13snj70thqlha.cloudfront.net/88e632ff-5fe9-48d7-93d0-219001fa8af4/video-1080.m3u8
 ########################################################################################################################################
 #EXTINF-1 type="series" group-title="Gerak Khas Undercover" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYyNmE4OWUtNDdlNi00MDY5LWIxYmItMGM0MTI5MDQ0NTBiXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_FMjpg_UX1000_.jpg",Episod 1
 https://onedrive.astradamy.com/api?path=/TVSeries/Gerak.Khas.Undercover.2021/Gerak.Khas.Undercover.EP1%40malaydramaz.mp4&raw=true&type=file.mp4
