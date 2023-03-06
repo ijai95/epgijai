@@ -39,9 +39,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2 ⁽ˢᵉʳᵛᵉʳ ¹⁾
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv2/
-https://aqfadtv.xyz/live/tv2/index.mpd
+#EXTVLCOPT:referer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2 ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
