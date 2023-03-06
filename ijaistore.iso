@@ -1622,7 +1622,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2600
-#EXTINF:-1 tvg-id="310" ch-number="TVB Jade" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="CHINESE",310 TVB Jade  
+#EXTINF:-1 tvg-id="310" tvg-name="TVB Jade" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="CHINESE",310 TVB Jade  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
