@@ -3770,7 +3770,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2100
-#EXTINF:-1 tvg-id="820" tvg-name="Euro Sport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="⚽SPORTS⚽",820 Eurosport
+#EXTINF:-1 tvg-id="820" tvg-name="Eurosport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="⚽SPORTS⚽",820 Eurosport
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" group-title="⚽SPORTS⚽" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic213.jpg", Eurosport 1
@@ -4095,7 +4095,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003
-#EXTINF:-1 tvg-id="822" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="⚽SPORTS⚽",NBC Golf 
+#EXTINF:-1 tvg-id="822" tvg-name="Golf Channel HD"" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="⚽SPORTS⚽",822 NBC Golf 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4202,7 +4202,7 @@ http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/11638
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601
-#EXTINF:-1 tvg-id="823" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="⚽SPORTS⚽",Premier Sport
+#EXTINF:-1 tvg-id="823" tvg-name="Premier Sports HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="⚽SPORTS⚽",823 Premier Sports
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="unifiSports 1" group-title="⚽SPORTS⚽" tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/unifi-Sports-1.png",UnifiSports 1
@@ -4219,7 +4219,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
-#EXTINF:-1 tvg-id="821" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="⚽SPORTS⚽",WWE Network
+#EXTINF:-1 tvg-id="821" tvg-name="WWE Network HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="⚽SPORTS⚽",821 WWE Network
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TnaWrestling.us" tvg-logo="https://www.wrestlingnewsworld.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_640/MTU3NDA1OTgyMzYwMjgyMzE0/tna-wrestling.png" group-title="⚽SPORTS⚽",TNA Wrestling
