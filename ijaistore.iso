@@ -221,15 +221,13 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRo0WHcMMaTQG7Yl295_mOv4=NLC8/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRgvQL6Cb4oFa6-HL4T8hM4M=bwOd/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra 
-##EXTVLCOPT:http-user-agent=com.iptvlin k.net
-##http://w.nasvpn.xyz:8080/saya/saya/172
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRnd3cTHpRdRJYO4DA3DPYoM=DB__/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRuVDRZZgCrLNq2BTwxqBpf8=IplK/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 
 
@@ -4925,11 +4923,9 @@ https://aqfadtv.xyz/live/prima/index.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-id="Astro Citra HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra 
-##EXTVLCOPT:http-user-agent=com.iptvlin k.net
-##http://w.nasvpn.xyz:8080/saya/saya/172
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRnd3cTHpRdRJYO4DA3DPYoM=DB__/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRuVDRZZgCrLNq2BTwxqBpf8=IplK/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 
 #EXTINF:-1 group-title="ASTRO" tvg-id="AstroSensasi.my" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
@@ -4939,7 +4935,7 @@ http://w.nasvpn.xyz:8080/saya/saya/16841.m3u8
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRo0WHcMMaTQG7Yl295_mOv4=NLC8/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRgvQL6Cb4oFa6-HL4T8hM4M=bwOd/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", 801 Astro Arena 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
