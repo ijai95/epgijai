@@ -3184,8 +3184,8 @@ https://av-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.m
 #EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic HD" group-title="DOCUMENTARY" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png",National Geographic (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://anevia114.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-#https://av-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#https://anevia114.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+https://av-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 ##EXTINF:-1 tvg-id="NatGeoWild" tvg-name="National Geographic Wild" group-title="DOCUMENTARY" tvg-logo="http://aqfad.xtgem.com/images/NatGeoWild.png" ch-number="550",National Geographic Wild (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
