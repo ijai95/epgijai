@@ -410,6 +410,27 @@ http://w.nasvpn.xyz:8080/series/saya/saya/17189.mp4
 
 
 ##¥#¥###¥#############¥#¥###¥#############¥#¥###¥#############¥#¥###¥#############¥#¥###¥###########
+
+#EXTINF:-1 type="movies" group-title="VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJhYWNlZGUtMWJmZS00MWRkLTljNmItNjhjN2M2ZGNiM2RhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg", Jagat Arwah
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+http://w.nasvpn.xyz:8080/movie/saya/saya/17211.mp4
+
+#EXTINF:-1 type="movies" group-title="VOD MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/4/41/Poster_CEO.jpg/640px-Poster_CEO.jpg",CEO
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+http://w.nasvpn.xyz:8080/movie/saya/saya/17197.mp4
+
+#EXTINF:-1 type="movies" group-title="VOD KOREA" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNlMDZjYmMtNjhiYy00ZGViLWFhODItY2FkMDk3NGVhYzJlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",Midnight
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+http://w.nasvpn.xyz:8080/movie/saya/saya/17195.mp4
+
+
+
 #EXTINF:-1 type="movies" group-title="VOD ENGLISH" tvg-logo="https://imageio.forbes.com/specials-images/imageserve/63eae465aba57f2b15869b2d/Official-Dolby-Cinema-poster-for--Avatar--The-Way-of-Water-/960x0.jpg?format=jpg&width=960", Avatar The Way Of Water Sub Malay
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 #EXTVLCOPT:http-Icy-MetaData=1
