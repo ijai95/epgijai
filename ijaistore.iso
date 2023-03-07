@@ -234,7 +234,7 @@ https://speedtrademarket.com/live/channel/citra.mpd
 
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroSensasi.my" tvg-" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
-#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-user-agent=com.iiptvlin k.net
 http://w.nasvpn.xyz:8080/saya/saya/16841.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="Karisma.id" tvg-name="Karisma" tvg-logo="https://i.imgur.com/3aJagfR.png",Karisma
@@ -4961,7 +4961,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 https://speedtrademarket.com/live/channel/citra.mpd
 
 #EXTINF:-1 group-title="ASTRO" tvg-id="AstroSensasi.my" tvg-name="Astro Sensasi HD" tvg-logo="https://i.imgur.com/BVbyCAo.png",109 Astro Sensasi
-#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-user-agent=com.iiptvlin k.net
 http://w.nasvpn.xyz:8080/saya/saya/16841.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna HD
