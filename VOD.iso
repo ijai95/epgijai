@@ -187,6 +187,13 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/13357.mkv
 #EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
 http://w.nasvpn.xyz:8080/movie/saya/saya/13356.mkv
 
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BODI2MDUyZDMtNjU0Ny00ZWMzLTk0OGYtY2QzZGQ3MWM5MzVkXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_.jpg", Daddyku Gangster
+#EXTVLCOPT:http-user-agent=com.iiptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+http://w.nasvpn.xyz:8080/movie/saya/saya/17215.mp4
+
+
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNmNGZlZjQtMWEzMy00NzcwLTljZGItYzc2YjE5ZDRkZjgwXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_QL75_UY281_CR18,0,190,281_.jpg", 17 Puasa
 #EXTVLCOPT:http-user-agent=com.iiptvlin k.net
 #EXTVLCOPT:http-Icy-MetaData=1
