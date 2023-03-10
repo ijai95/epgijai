@@ -2481,9 +2481,8 @@ https://live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_primary.mpd
 
 #EXTINF:-1 tvg-id="705" group-title="MOVIES" tvg-logo="https://i.ibb.co/fMmvZkN/images-5-modified.png",KIX (ID)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" ch-number="701",701 AXN (MY)
