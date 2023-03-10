@@ -56,7 +56,8 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 
 #EXTINF:-1 group-title="MALAYSIA" ch-number="TV3" tvg-id="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 ⁽ˢᵉʳᵛᵉʳ ²⁾
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="MALAYSIA",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1 group-title="MALAYSIA" ch-number="TV3" tvg-id="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 ⁽ˢᵉʳᵛᵉʳ ³⁾
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
@@ -279,6 +280,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8|re
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="Go Live" group-title="BRUNEI" group-logo="https://png.pngtree.com/png-clipart/20221215/ourmid/pngtree-brunei-flag-in-watercolor-hard-brush-new-png-image_6524989.png" tvg-logo="https://rtb-images.glueapi.io/300x0/live/GoLiveNew.png", Go Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8|referer=https://www.rtbgo.bn/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="BRUNEI",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="RTB Aneka" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" group-title="MALAYSIA", RTB Aneka
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
@@ -735,7 +739,8 @@ https://archive.org/download/MurotalMR/098.mp3
 https://archive.org/download/MurotalMR/099.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN2",[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
 https://archive.org/download/MurotalMR/100.mp3
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="AL-QURAN2",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN2",[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
 https://archive.org/download/MurotalMR/101.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN2",[102] Surah At-Takathur (Bermegah-Megah)
@@ -900,6 +905,8 @@ https://download.quranicaudio.com/quran/sahl_yaaseen/065.mp3
 #EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="AL-QURAN",سورة التحريم
 https://download.quranicaudio.com/quran/sahl_yaaseen/066.mp3
 #EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="AL-QURAN",سورة الملك
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="AL-QURAN",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 https://download.quranicaudio.com/quran/sahl_yaaseen/067.mp3
 #EXTINF:-1 tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" group-title="AL-QURAN",سورة القلم
 https://download.quranicaudio.com/quran/sahl_yaaseen/068.mp3
@@ -1013,7 +1020,8 @@ https://cdn6.mjunoon.tv:8087/web/SaudiQuran-142/live/142H/chunks.m3u8?nimblesess
 #EXTINF:-1 tvg-logo="https://www.dthsat.com/images/Madani-Channel-Logo.png" group-title="ISLAM" tvg-id="" tvg-name="", Madani Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn6.mjunoon.tv:8087/web/Madni-121/live/121L/chunks.m3u8?nimblesessionid=27894509&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIzIDE6MzQ6MzEgUE0maGFzaF92YWx1ZT1YTDYzSVJ1RytsdEpocWVLaHl5dmhnPT0mdmFsaWRtaW51dGVzPTE=|referer=https://www.mjunoon.tv/
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="ISLAM",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1 tvg-logo="https://bakhlatours.com/wp-content/uploads/2020/11/Ziyarat-in-makkah-madinah-Bakhla-tours-mumbai-hajj-umrah-tours-package.png" group-title="ISLAM" tvg-id="" tvg-name="", Saudi Sunnah Madinah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn6.mjunoon.tv:8087/web/SaudiSunnah-141/live/141H/chunks.m3u8?nimblesessionid=27894605&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIzIDE6NDI6MDEgUE0maGFzaF92YWx1ZT15OFhDVzZIYkx3dVg5ZVU0R1JQSnZBPT0mdmFsaWRtaW51dGVzPTE=|referer=https://www.mjunoon.tv/
@@ -1185,6 +1193,9 @@ https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://av-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="INDONESIA",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
@@ -1279,6 +1290,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c49
 #EXTINF:0 tvg-id="pluto-tv-terror" tvg-logo="http://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="PLUTOTV", Pluto TV Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e2ff6b-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=486d6307-4566-4735-a31c-6e568b6d923c&userId=&serverSideAds=true
 #EXTINF:0 tvg-id="naruto" tvg-logo="http://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="PLUTOTV", Naruto
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="PLUTOTV",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
 #EXTINF:0 tvg-id="deal-or-no-deal" tvg-logo="http://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="PLUTOTV", Deal or No Deal
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e3c2c3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a3eabfb3-5536-4cb8-9b03-86a3ed0e5898&userId=&serverSideAds=true
@@ -1448,7 +1461,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="INDIAN",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 
 #EXTINF:-1 tvg-id="StarVijay" tvg-name="Star Vijay HD" ch-number="221" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",221 Star Vijay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1730,6 +1744,9 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tianjintv.jpg" group-title="CHINESE",Tianjin  
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="CHINESE",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
+
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/jiangxitv.jpg" group-title="CHINESE",Jiangxi  
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
 
@@ -1805,6 +1822,8 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 
 #EXTINF:-1 group-title="JEPUN" group-logo="https://as1.ftcdn.net/v2/jpg/01/71/36/88/1000_F_171368815_pGvMFqGCGxNJUP8U5U3PAW4fLRDeTr39.jpg" tvg-logo="",BS日テレ
 http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="JEPUN",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1 group-title="JEPUN" tvg-logo="",BSTBS
 http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
 #EXTINF:-1 group-title="JEPUN" tvg-logo="",BS12
@@ -1899,7 +1918,8 @@ https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 tvg-id="TVBSEntertainmentChannel.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/512px-Tvbs-logo-42.png" group-title="HONGKONG",TVBS Entertainment Channel (TVBS歡樂台) (720p)
 http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="HONGKONG",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ttv.jpg" group-title="HONGKONG",Taiwan News HD 
 #rtmp://59.124.75.138/sat/tv071
 https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/台視新聞.m3u8
@@ -1953,6 +1973,9 @@ http://59.125.101.187:8522/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 #EXTINF:-1 group-title="SINGAPORE" group-logo="https://st.depositphotos.com/1006269/1261/i/600/depositphotos_12619794-stock-photo-singaporean-flag.jpg" tvg-id="Channel5.sg" tvg-chno="997" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5 
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="SINGAPORE",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
@@ -2099,7 +2122,8 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=7
 
 #EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/b7uMB9T.png" group-title="KOREA",KBS LiveCam DokDo 
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="KOREA",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1 tvg-id="KBSNewsD.kr" tvg-logo="https://i.imgur.com/4qKgvHN.png" group-title="KOREA",KBS News D 
 http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 
@@ -2313,7 +2337,8 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i0.wp.com/www.siamnewsnetwork.net/wp-content/uploads/2018/05/siamnews-bw-helv-square.png" group-title="THAILAND", Siam News
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="THAILAND",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://iphone-image.apkpure.com/v2/app/e/a/a/eaa2d0ef926bb1c9ef2bc6e327a34db6.jpg" group-title="THAILAND", Srtv Online
 https://live1.thaitvstream.com/play/srtvonline/index.m3u8
 
@@ -2366,7 +2391,8 @@ http://210.210.155.37/session/eb840bf4-25f3-11ed-9af7-9a7dadef5b77/dr9445/h/h16/
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/session/e775987a-25f3-11ed-8ba5-85009179245a/dr9445/h/h15/01.m3u8
 http://210.210.155.35:80/dr9445/h/h16/02.m3u8 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="ENTERTAINMENT",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 ##EXTINF:-1 tvg-logo="https://i.imgur.com/cyWbYaX.jpg" group-title="ENTERTAINMENT",Travel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TRAVEL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
@@ -2789,7 +2815,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/movies.png" group-title="MOVIES",Movies!
 https://v-ny.theus6tv.tk/hls/5.2/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="MOVIES",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png" group-title="MOVIES",Showtime Selects
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -2871,7 +2898,8 @@ http://line.premiumpowers.net:80/Bianca/1234567/924740
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 SHOWTIME 1" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="LIVE  MOVIE",US| 24/7 SHOWTIME 1
 http://line.premiumpowers.net:80/Bianca/1234567/924741
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="LIVE  MOVIE",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 SHOWTIME 2" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="LIVE  MOVIE",US| 24/7 SHOWTIME 2
 http://line.premiumpowers.net:80/Bianca/1234567/924742
 
@@ -3005,7 +3033,8 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=6763930
 
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="DOUYU MOVIES",MOVIES MIX 28 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="DOUYU MOVIES",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="DOUYU MOVIES",MOVIES MIX 29 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8603174
 
@@ -3229,7 +3258,8 @@ https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="DOCUMENTARY",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="DOCUMENTARY",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" ch-number="715" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" ch-number="715",715 HGTV (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
@@ -3468,6 +3498,9 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m
 http://208.86.19.13:81/14.stream/index.m3u8 
 # https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="KIDS",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
+
 #EXTINF:-1 tvg-id="DisneyJuniorSouthAfrica.za" tvg-name="" tvg-logo="https://i.ibb.co/yVKvfKb/1200px-Disney-Junior-svg.png" group-title="KIDS",Disney JR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -3608,6 +3641,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
 #EXTINF:-1 tvg-id="TRTWorld" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="NEWS",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
+
 #EXTINF:-1 tvg-id="513" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png" ch-number="513",Al Jazeera English 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2110
@@ -3627,7 +3663,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/
 
 #EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="RELAXING",Rivers Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="RELAXING",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="RELAXING",Tropics Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 
@@ -4401,7 +4438,7 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/LofiRadio.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="http://dusktill.masuk.web.id/img/musictv.png" group-title="MUSIC",Music TV
-https://live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+https://live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mp
 
 #EXTINF:-1 tvg-id="718" ch-number="718" group-title="MUSIC" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210913/20210913160636492fzf.png",MTV Asia 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4551,7 +4588,8 @@ https://tinyurl.com/4h7ca72x
 
 #EXTINF:-1   tvg-logo="https://bit.ly/2ZE1BUW" group-title="MUSIC", H!T
 http://hitmusic.hu/hitmusic.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="MUSIC",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music-channel-romania-ro.png" group-title="MUSIC",Music Channel 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -4764,7 +4802,8 @@ https://astro2.rastream.com/amp-era-kch
 
 #EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Hitz_Sabah_2018.png/revision/latest?cb=20211113030208",HITZ Sabah
 https://astro1.rastream.com/amp-hitz-kk
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="RADIO",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 #EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Hitz_Sarawak_2018.png/revision/latest?cb=20211113030223",HITZ Sarawak
 https://astro1.rastream.com/amp-hitz-kch
 
@@ -5097,6 +5136,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="ASTRO",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
 #EXTINF:-1 tvg-id="713" tvg-name="Paramount Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" group-title="ASTRO",713 Paramount Network
@@ -5109,6 +5151,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", tvg-name="Store" group-title="⚽MALAYSIA SUPER LEAGUE⚽",Welcome To Jepstore
+https://tinyurl.com/yck8nndy
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUYzVNMlUwWWpndFl6aGtNaTAwTjJRekxUbG1PRE10TlRNd09Ea3daV0kyWVRCaiIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODY1NDM3MywiaWF0IjoxNjc4MDUwMzczfQ.CNHE9RhxWdgfzbUTaU4CNs03T2nUCa1VhJDHWBtIovg"}
