@@ -23,7 +23,7 @@
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
 
-#EXTINF:-1 group-logo="http://img.astroawani.com/2020-06/71592736150_freesize.jpg" tvg-logo="https://i.ytimg.com/vi/8uef2k0T1ZI/hqdefault.jpg", tvg-name="Store" group-title="!!!❤️JepStore ❤️!!!",Welcome To Jepstore
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg" tvg-logo="https://i.ytimg.com/vi/8uef2k0T1ZI/hqdefault.jpg", tvg-name="Store" group-title="!!!❤️JepStore ❤️!!!",Welcome To Jepstore
 https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/995d4edc-2af0-58e2-86a7-b7a28863e113/995d4edc-2af0-58e2-86a7-b7a28863e113-3_video_frag_auto.idx~video_frag_auto~481_184201/segment_13.m4s
 
 ###########################################################################SPORTS################################################################################
