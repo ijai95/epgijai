@@ -339,6 +339,13 @@ http://w.nasvpn.xyz:8080/series/saya/saya/17174.mp4
 #EXTVLCOPT:http-Icy-MetaData=1
 #EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
 http://w.nasvpn.xyz:8080/series/saya/saya/17175.mp4
+
+#EXTINF:-1 type="series" group-title="High Council" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_FMjpg_UX1000_.jpg", Episode 9
+#EXTVLCOPT:http-user-agent=com.iiptvlin k.net
+#EXTVLCOPT:http-Icy-MetaData=1
+#EXTVLCOPT:Range=bytes=195827341-
+http://w.nasvpn.xyz:8080/series/saya/saya/17228.mp4
+
 ###########¥#¥###¥#############¥#¥###¥#############¥#¥###¥#############¥#¥###¥#############¥#¥###¥###########
 #EXTINF:-1 type="series" group-title="KUDETA" tvg-logo="https://iluminasi.com/img/upload/kudeta-series.jpg", Episode 1
 #EXTVLCOPT:http-user-agent=com.iiptvlin k.net
