@@ -609,7 +609,7 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/13515.mkv
 #EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
 http://w.nasvpn.xyz:8080/movie/saya/saya/13527.mkv
 
-EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="http://1.bp.blogspot.com/-qifVt2HB-dE/UvoEuRvMwXI/AAAAAAAAEZE/jIMOBdyDj7A/s1600/Kata+Samseng.jpg", Kata Samseng
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="http://1.bp.blogspot.com/-qifVt2HB-dE/UvoEuRvMwXI/AAAAAAAAEZE/jIMOBdyDj7A/s1600/Kata+Samseng.jpg", Kata Samseng
 #EXTVLCOPT:http-user-agent=com.iiptvlin k.net
 #EXTVLCOPT:Range=bytes=696975360-
 #EXTVLCOPT:Accept-Encoding=identity;q=1, *;q=0
