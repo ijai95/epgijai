@@ -634,7 +634,7 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/17229.mp4
 #EXTVLCOPT:http-user-agent=com.iiptvlin k.net
 http://w.nasvpn.xyz:8080/movie/saya/saya/17232.mp4
 
-#EXTINF:-1 type="movie" group-title="VOD INDONESIA"https://m.media-amazon.com/images/M/MV5BOWVmNjZlNDItZjA4Zi00NWVlLWFlZTctZjNkODc2ZTQ2Mjc0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg", Mumun
+#EXTINF:-1 type="movie" group-title="VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU1OTM4Y2YtZDg4OS00N2ViLTg2ZWQtMjc5NWI3MDhiZGU4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg", Mumun
 #EXTVLCOPT:http-user-agent=com.iiptvlin k.net
 http://w.nasvpn.xyz:8080/movie/saya/saya/16598.mp4
 
