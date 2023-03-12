@@ -164,9 +164,9 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/17159.mkv
 http://w.nasvpn.xyz:8080/movie/saya/saya/16933.mkv
 
 #EXTINF:-1 type="movie" group-title="VOD KIDS" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU5ZjAwZjctZjQ5YS00OWM5LTk5MzItZDMxNGM0NTFlMGEzXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg", Mechamato 2022
-#EXTVLCOPT:http-user-agent=com.iiptvlin k.net
+#EXTVLCOPT:http-user-agent=com.iiptvlink k.net
 #EXTVLCOPT:http-Icy-MetaData=1
-#EXTVLCOPT:referer=http://iptv.nasvpn.xyz/
+#EXTVLCOPT:Range=bytes=2004201137-
 http://w.nasvpn.xyz:8080/movie/saya/saya/17223.mp4
 
 #EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl9ZntzSllcnVbyyDHUk3r2aSta21XgpsCJvZrZd2wGiuUF-59KESCumc1FwsjHH1f0R9ydFL7sD3E323rsctNna-3BAczFiHEt6njmJuEa3siwjxaCgyfnco5gPyfa4PYpQVc0u10E8xHGMatvt7u-6_HVg9-8P1W4lBu0il8GxV4GNztyMPiFv2BGQ/w0/Seratus.jpg", Seratus 2022
