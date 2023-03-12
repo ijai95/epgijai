@@ -618,6 +618,18 @@ http://w.nasvpn.xyz:8080/movie/saya/saya/13527.mkv
 #EXTVLCOPT:referer=http://localhost/
 http://w.nasvpn.xyz:8080/movie/saya/saya/17227.mkv
 
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZpdBG-8bKOtoszHIx7q45Gg0lwYoOixooGpnWRaZ5iT1yMR52sNC4vmsV8xWaXiV-vNgD_2dAEuLs7wcN5oYGEr2RozNiXWZpbFUNMMM9cQtKHGqOUfeLAZoVX3tKXJ5fnVhNrjfLKyj5MUwB56JaxsCFymKVZRq0tX7FOq0YwijFn0Xpj7Su8ZDjbw/w0/Hantu%20Tenggek.jpg", Hantu Tenggek
+#EXTVLCOPT:http-user-agent=com.iiptvlin k.net
+#EXTVLCOPT:Range=bytes=225032937-
+#EXTVLCOPT:X-Requested-With=com.iptvlink.net
+http://w.nasvpn.xyz:8080/movie/saya/saya/17230.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD MALAY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZpdBG-8bKOtoszHIx7q45Gg0lwYoOixooGpnWRaZ5iT1yMR52sNC4vmsV8xWaXiV-vNgD_2https://media.karousell.com/media/photos/products/2022/7/20/music_of_the_soul_siti_nurhali_1658322353_674a9680.jpg", Siti Nurhaliza Music Of Yhe Soul
+#EXTVLCOPT:http-user-agent=com.iiptvlin k.net
+#EXTVLCOPT:Range=bytes=776165246-
+#EXTVLCOPT:X-Requested-With=com.iptvlink.net
+http://w.nasvpn.xyz:8080/movie/saya/saya/17229.mp4
+
 
 ##########################################################################################################################################################
 
