@@ -3762,7 +3762,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 #https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2 HD" group-title="⚽SPORTS⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png", 812 Astro SuperSport 2 
-https://ddy1.onlinewebtv.lol/ddy1/premium124/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=124
+#KODIPROP:referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=124
+https://ddy1.onlinewebtv.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
+
 
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
 ##EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUYzVNMlUwWWpndFl6aGtNaTAwTjJRekxUbG1PRE10TlRNd09Ea3daV0kyWVRCaiIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODY1NDM3MywiaWF0IjoxNjc4MDUwMzczfQ.CNHE9RhxWdgfzbUTaU4CNs03T2nUCa1VhJDHWBtIovg"}
@@ -3787,7 +3789,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5101/default.mpd
 #https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4 HD" group-title="⚽SPORTS⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", 814 Astro SuperSport 4
-https://ddy1.onlinewebtv.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=126
+https://ddy1.onlinewebtv.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=126
 
 
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5091,7 +5093,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 #https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2 HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png", 812 Astro SuperSport 2 
-https://ddy1.onlinewebtv.lol/ddy1/premium124/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=124
+#KODIPROP:referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=124
+https://ddy1.onlinewebtv.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
 
 
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5117,7 +5120,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5101/default.mpd
 #https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4 HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", 814 Astro SuperSport 4
-https://ddy1.onlinewebtv.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=126
+https://ddy1.onlinewebtv.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=126
 
 
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
